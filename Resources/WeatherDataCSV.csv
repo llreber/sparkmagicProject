@@ -1,0 +1,6481 @@
+City,County,Year,Month,Temp
+St Paul,Ramsey,2007,1,19.6
+St Paul,Ramsey,2007,2,13.5
+St Paul,Ramsey,2007,3,38.4
+St Paul,Ramsey,2007,4,47.2
+St Paul,Ramsey,2007,5,64.1
+St Paul,Ramsey,2007,6,72.7
+St Paul,Ramsey,2007,7,76
+St Paul,Ramsey,2007,8,72.1
+St Paul,Ramsey,2007,9,64.8
+St Paul,Ramsey,2007,10,54.3
+St Paul,Ramsey,2007,11,34.5
+St Paul,Ramsey,2007,12,16.6
+St Paul,Ramsey,2008,1,13.2
+St Paul,Ramsey,2008,2,15.2
+St Paul,Ramsey,2008,3,28.3
+St Paul,Ramsey,2008,4,44
+St Paul,Ramsey,2008,5,56.3
+St Paul,Ramsey,2008,6,68.7
+St Paul,Ramsey,2008,7,75.5
+St Paul,Ramsey,2008,8,72.4
+St Paul,Ramsey,2008,9,63.6
+St Paul,Ramsey,2008,10,50.4
+St Paul,Ramsey,2008,11,34.7
+St Paul,Ramsey,2008,12,13.5
+St Paul,Ramsey,2009,1,8.3
+St Paul,Ramsey,2009,2,20.8
+St Paul,Ramsey,2009,3,32.2
+St Paul,Ramsey,2009,4,47.6
+St Paul,Ramsey,2009,5,60.8
+St Paul,Ramsey,2009,6,67.7
+St Paul,Ramsey,2009,7,70
+St Paul,Ramsey,2009,8,69.4
+St Paul,Ramsey,2009,9,66.5
+St Paul,Ramsey,2009,10,43.2
+St Paul,Ramsey,2009,11,42.7
+St Paul,Ramsey,2009,12,17.3
+St Paul,Ramsey,2010,1,13
+St Paul,Ramsey,2010,2,19.7
+St Paul,Ramsey,2010,3,41
+St Paul,Ramsey,2010,4,54.9
+St Paul,Ramsey,2010,5,60.7
+St Paul,Ramsey,2010,6,69.3
+St Paul,Ramsey,2010,7,76.3
+St Paul,Ramsey,2010,8,77
+St Paul,Ramsey,2010,9,60.2
+St Paul,Ramsey,2010,10,54
+St Paul,Ramsey,2010,11,35.3
+St Paul,Ramsey,2010,12,16.4
+St Paul,Ramsey,2011,1,12
+St Paul,Ramsey,2011,2,18.7
+St Paul,Ramsey,2011,3,29.4
+St Paul,Ramsey,2011,4,46.2
+St Paul,Ramsey,2011,5,58.4
+St Paul,Ramsey,2011,6,69.5
+St Paul,Ramsey,2011,7,78.8
+St Paul,Ramsey,2011,8,73.6
+St Paul,Ramsey,2011,9,62.9
+St Paul,Ramsey,2011,10,55.3
+St Paul,Ramsey,2011,11,39.2
+St Paul,Ramsey,2011,12,27.8
+St Paul,Ramsey,2012,1,23.3
+St Paul,Ramsey,2012,2,27.7
+St Paul,Ramsey,2012,3,48.3
+St Paul,Ramsey,2012,4,50
+St Paul,Ramsey,2012,5,63.7
+St Paul,Ramsey,2012,6,72.3
+St Paul,Ramsey,2012,7,80.2
+St Paul,Ramsey,2012,8,72
+St Paul,Ramsey,2012,9,63.9
+St Paul,Ramsey,2012,10,47.5
+St Paul,Ramsey,2012,11,37.1
+St Paul,Ramsey,2012,12,23.4
+St Paul,Ramsey,2013,1,16.9
+St Paul,Ramsey,2013,2,19
+St Paul,Ramsey,2013,3,27.2
+St Paul,Ramsey,2013,4,41
+St Paul,Ramsey,2013,5,58.3
+St Paul,Ramsey,2013,6,68.9
+St Paul,Ramsey,2013,7,75
+St Paul,Ramsey,2013,8,74.7
+St Paul,Ramsey,2013,9,67.2
+St Paul,Ramsey,2013,10,49.1
+St Paul,Ramsey,2013,11,33.2
+St Paul,Ramsey,2013,12,12.4
+St Paul,Ramsey,2014,1,8
+St Paul,Ramsey,2014,2,8.6
+St Paul,Ramsey,2014,3,25.5
+St Paul,Ramsey,2014,4,42.7
+St Paul,Ramsey,2014,5,58.6
+St Paul,Ramsey,2014,6,69.5
+St Paul,Ramsey,2014,7,71.5
+St Paul,Ramsey,2014,8,73.3
+St Paul,Ramsey,2014,9,62.7
+St Paul,Ramsey,2014,10,49.2
+St Paul,Ramsey,2014,11,25.4
+St Paul,Ramsey,2014,12,24.3
+St Paul,Ramsey,2015,1,19
+St Paul,Ramsey,2015,2,11.2
+St Paul,Ramsey,2015,3,35.5
+St Paul,Ramsey,2015,4,49.7
+St Paul,Ramsey,2015,5,59.2
+St Paul,Ramsey,2015,6,69.7
+St Paul,Ramsey,2015,7,73.4
+St Paul,Ramsey,2015,8,70.7
+St Paul,Ramsey,2015,9,67.9
+St Paul,Ramsey,2015,10,52.1
+St Paul,Ramsey,2015,11,41.4
+St Paul,Ramsey,2015,12,30.2
+St Paul,Ramsey,2016,1,17.6
+St Paul,Ramsey,2016,2,24.9
+St Paul,Ramsey,2016,3,41.3
+St Paul,Ramsey,2016,4,48.1
+St Paul,Ramsey,2016,5,61.3
+St Paul,Ramsey,2016,6,71.3
+St Paul,Ramsey,2016,7,75.2
+St Paul,Ramsey,2016,8,73.4
+St Paul,Ramsey,2016,9,66.1
+St Paul,Ramsey,2016,10,52.9
+St Paul,Ramsey,2016,11,44.1
+St Paul,Ramsey,2016,12,20.9
+Minneapolis,Hennepin,2007,1,19.6
+Minneapolis,Hennepin,2007,2,13.5
+Minneapolis,Hennepin,2007,3,38.4
+Minneapolis,Hennepin,2007,4,47.2
+Minneapolis,Hennepin,2007,5,64.1
+Minneapolis,Hennepin,2007,6,72.7
+Minneapolis,Hennepin,2007,7,76
+Minneapolis,Hennepin,2007,8,72.1
+Minneapolis,Hennepin,2007,9,64.8
+Minneapolis,Hennepin,2007,10,54.3
+Minneapolis,Hennepin,2007,11,34.5
+Minneapolis,Hennepin,2007,12,16.6
+Minneapolis,Hennepin,2008,1,13.2
+Minneapolis,Hennepin,2008,2,15.2
+Minneapolis,Hennepin,2008,3,28.3
+Minneapolis,Hennepin,2008,4,44
+Minneapolis,Hennepin,2008,5,56.3
+Minneapolis,Hennepin,2008,6,68.7
+Minneapolis,Hennepin,2008,7,75.5
+Minneapolis,Hennepin,2008,8,72.4
+Minneapolis,Hennepin,2008,9,63.6
+Minneapolis,Hennepin,2008,10,50.4
+Minneapolis,Hennepin,2008,11,34.7
+Minneapolis,Hennepin,2008,12,13.5
+Minneapolis,Hennepin,2009,1,8.3
+Minneapolis,Hennepin,2009,2,20.8
+Minneapolis,Hennepin,2009,3,32.2
+Minneapolis,Hennepin,2009,4,47.6
+Minneapolis,Hennepin,2009,5,60.8
+Minneapolis,Hennepin,2009,6,67.7
+Minneapolis,Hennepin,2009,7,70
+Minneapolis,Hennepin,2009,8,69.4
+Minneapolis,Hennepin,2009,9,66.5
+Minneapolis,Hennepin,2009,10,43.2
+Minneapolis,Hennepin,2009,11,42.7
+Minneapolis,Hennepin,2009,12,17.3
+Minneapolis,Hennepin,2010,1,13
+Minneapolis,Hennepin,2010,2,19.7
+Minneapolis,Hennepin,2010,3,41
+Minneapolis,Hennepin,2010,4,54.9
+Minneapolis,Hennepin,2010,5,60.7
+Minneapolis,Hennepin,2010,6,69.3
+Minneapolis,Hennepin,2010,7,76.3
+Minneapolis,Hennepin,2010,8,77
+Minneapolis,Hennepin,2010,9,60.2
+Minneapolis,Hennepin,2010,10,54
+Minneapolis,Hennepin,2010,11,35.3
+Minneapolis,Hennepin,2010,12,16.4
+Minneapolis,Hennepin,2011,1,12
+Minneapolis,Hennepin,2011,2,18.7
+Minneapolis,Hennepin,2011,3,29.4
+Minneapolis,Hennepin,2011,4,46.2
+Minneapolis,Hennepin,2011,5,58.4
+Minneapolis,Hennepin,2011,6,69.5
+Minneapolis,Hennepin,2011,7,78.8
+Minneapolis,Hennepin,2011,8,73.6
+Minneapolis,Hennepin,2011,9,62.9
+Minneapolis,Hennepin,2011,10,55.3
+Minneapolis,Hennepin,2011,11,39.2
+Minneapolis,Hennepin,2011,12,27.8
+Minneapolis,Hennepin,2012,1,23.3
+Minneapolis,Hennepin,2012,2,27.7
+Minneapolis,Hennepin,2012,3,48.3
+Minneapolis,Hennepin,2012,4,50
+Minneapolis,Hennepin,2012,5,63.7
+Minneapolis,Hennepin,2012,6,72.3
+Minneapolis,Hennepin,2012,7,80.2
+Minneapolis,Hennepin,2012,8,72
+Minneapolis,Hennepin,2012,9,63.9
+Minneapolis,Hennepin,2012,10,47.5
+Minneapolis,Hennepin,2012,11,37.1
+Minneapolis,Hennepin,2012,12,23.4
+Minneapolis,Hennepin,2013,1,16.9
+Minneapolis,Hennepin,2013,2,19
+Minneapolis,Hennepin,2013,3,27.2
+Minneapolis,Hennepin,2013,4,41
+Minneapolis,Hennepin,2013,5,58.3
+Minneapolis,Hennepin,2013,6,68.9
+Minneapolis,Hennepin,2013,7,75
+Minneapolis,Hennepin,2013,8,74.7
+Minneapolis,Hennepin,2013,9,67.2
+Minneapolis,Hennepin,2013,10,49.1
+Minneapolis,Hennepin,2013,11,33.2
+Minneapolis,Hennepin,2013,12,12.4
+Minneapolis,Hennepin,2014,1,8
+Minneapolis,Hennepin,2014,2,8.6
+Minneapolis,Hennepin,2014,3,25.5
+Minneapolis,Hennepin,2014,4,42.7
+Minneapolis,Hennepin,2014,5,58.6
+Minneapolis,Hennepin,2014,6,69.5
+Minneapolis,Hennepin,2014,7,71.5
+Minneapolis,Hennepin,2014,8,73.3
+Minneapolis,Hennepin,2014,9,62.7
+Minneapolis,Hennepin,2014,10,49.2
+Minneapolis,Hennepin,2014,11,25.4
+Minneapolis,Hennepin,2014,12,24.3
+Minneapolis,Hennepin,2015,1,19
+Minneapolis,Hennepin,2015,2,11.2
+Minneapolis,Hennepin,2015,3,35.5
+Minneapolis,Hennepin,2015,4,49.7
+Minneapolis,Hennepin,2015,5,59.2
+Minneapolis,Hennepin,2015,6,69.7
+Minneapolis,Hennepin,2015,7,73.4
+Minneapolis,Hennepin,2015,8,70.7
+Minneapolis,Hennepin,2015,9,67.9
+Minneapolis,Hennepin,2015,10,52.1
+Minneapolis,Hennepin,2015,11,41.4
+Minneapolis,Hennepin,2015,12,30.2
+Minneapolis,Hennepin,2016,1,17.6
+Minneapolis,Hennepin,2016,2,24.9
+Minneapolis,Hennepin,2016,3,41.3
+Minneapolis,Hennepin,2016,4,48.1
+Minneapolis,Hennepin,2016,5,61.3
+Minneapolis,Hennepin,2016,6,71.3
+Minneapolis,Hennepin,2016,7,75.2
+Minneapolis,Hennepin,2016,8,73.4
+Minneapolis,Hennepin,2016,9,66.1
+Minneapolis,Hennepin,2016,10,52.9
+Minneapolis,Hennepin,2016,11,44.1
+Minneapolis,Hennepin,2016,12,20.9
+Blue Earth,Faribault,2007,1,M
+Blue Earth,Faribault,2007,2,M
+Blue Earth,Faribault,2007,3,M
+Blue Earth,Faribault,2007,4,M
+Blue Earth,Faribault,2007,5,M
+Blue Earth,Faribault,2007,6,M
+Blue Earth,Faribault,2007,7,M
+Blue Earth,Faribault,2007,8,M
+Blue Earth,Faribault,2007,9,M
+Blue Earth,Faribault,2007,10,M
+Blue Earth,Faribault,2007,11,M
+Blue Earth,Faribault,2007,12,M
+Blue Earth,Faribault,2008,1,M
+Blue Earth,Faribault,2008,2,M
+Blue Earth,Faribault,2008,3,M
+Blue Earth,Faribault,2008,4,M
+Blue Earth,Faribault,2008,5,M
+Blue Earth,Faribault,2008,6,M
+Blue Earth,Faribault,2008,7,M
+Blue Earth,Faribault,2008,8,M
+Blue Earth,Faribault,2008,9,M
+Blue Earth,Faribault,2008,10,M
+Blue Earth,Faribault,2008,11,M
+Blue Earth,Faribault,2008,12,M
+Blue Earth,Faribault,2009,1,M
+Blue Earth,Faribault,2009,2,M
+Blue Earth,Faribault,2009,3,M
+Blue Earth,Faribault,2009,4,M
+Blue Earth,Faribault,2009,5,M
+Blue Earth,Faribault,2009,6,M
+Blue Earth,Faribault,2009,7,M
+Blue Earth,Faribault,2009,8,M
+Blue Earth,Faribault,2009,9,M
+Blue Earth,Faribault,2009,10,43.6
+Blue Earth,Faribault,2009,11,42.1
+Blue Earth,Faribault,2009,12,16.2
+Blue Earth,Faribault,2010,1,10
+Blue Earth,Faribault,2010,2,14.7
+Blue Earth,Faribault,2010,3,35.2
+Blue Earth,Faribault,2010,4,53.6
+Blue Earth,Faribault,2010,5,58.5
+Blue Earth,Faribault,2010,6,68.3
+Blue Earth,Faribault,2010,7,74.4
+Blue Earth,Faribault,2010,8,75
+Blue Earth,Faribault,2010,9,61
+Blue Earth,Faribault,2010,10,53.7
+Blue Earth,Faribault,2010,11,35.4
+Blue Earth,Faribault,2010,12,16.6
+Blue Earth,Faribault,2011,1,10.3
+Blue Earth,Faribault,2011,2,19.6
+Blue Earth,Faribault,2011,3,30
+Blue Earth,Faribault,2011,4,45.2
+Blue Earth,Faribault,2011,5,57.3
+Blue Earth,Faribault,2011,6,67.9
+Blue Earth,Faribault,2011,7,M
+Blue Earth,Faribault,2011,8,M
+Blue Earth,Faribault,2011,9,M
+Blue Earth,Faribault,2011,10,M
+Blue Earth,Faribault,2011,11,M
+Blue Earth,Faribault,2011,12,M
+Blue Earth,Faribault,2012,1,M
+Blue Earth,Faribault,2012,2,M
+Blue Earth,Faribault,2012,3,M
+Blue Earth,Faribault,2012,4,M
+Blue Earth,Faribault,2012,5,M
+Blue Earth,Faribault,2012,6,M
+Blue Earth,Faribault,2012,7,M
+Blue Earth,Faribault,2012,8,M
+Blue Earth,Faribault,2012,9,M
+Blue Earth,Faribault,2012,10,M
+Blue Earth,Faribault,2012,11,M
+Blue Earth,Faribault,2012,12,M
+Blue Earth,Faribault,2013,1,M
+Blue Earth,Faribault,2013,2,M
+Blue Earth,Faribault,2013,3,M
+Blue Earth,Faribault,2013,4,M
+Blue Earth,Faribault,2013,5,M
+Blue Earth,Faribault,2013,6,M
+Blue Earth,Faribault,2013,7,M
+Blue Earth,Faribault,2013,8,M
+Blue Earth,Faribault,2013,9,M
+Blue Earth,Faribault,2013,10,M
+Blue Earth,Faribault,2013,11,M
+Blue Earth,Faribault,2013,12,M
+Blue Earth,Faribault,2014,1,M
+Blue Earth,Faribault,2014,2,M
+Blue Earth,Faribault,2014,3,M
+Blue Earth,Faribault,2014,4,M
+Blue Earth,Faribault,2014,5,M
+Blue Earth,Faribault,2014,6,M
+Blue Earth,Faribault,2014,7,M
+Blue Earth,Faribault,2014,8,M
+Blue Earth,Faribault,2014,9,M
+Blue Earth,Faribault,2014,10,M
+Blue Earth,Faribault,2014,11,M
+Blue Earth,Faribault,2014,12,M
+Blue Earth,Faribault,2015,1,M
+Blue Earth,Faribault,2015,2,M
+Blue Earth,Faribault,2015,3,M
+Blue Earth,Faribault,2015,4,M
+Blue Earth,Faribault,2015,5,M
+Blue Earth,Faribault,2015,6,M
+Blue Earth,Faribault,2015,7,M
+Blue Earth,Faribault,2015,8,M
+Blue Earth,Faribault,2015,9,M
+Blue Earth,Faribault,2015,10,M
+Blue Earth,Faribault,2015,11,M
+Blue Earth,Faribault,2015,12,M
+Blue Earth,Faribault,2016,1,M
+Blue Earth,Faribault,2016,2,M
+Blue Earth,Faribault,2016,3,M
+Blue Earth,Faribault,2016,4,M
+Blue Earth,Faribault,2016,5,M
+Blue Earth,Faribault,2016,6,M
+Blue Earth,Faribault,2016,7,M
+Blue Earth,Faribault,2016,8,M
+Blue Earth,Faribault,2016,9,M
+Blue Earth,Faribault,2016,10,M
+Blue Earth,Faribault,2016,11,M
+Blue Earth,Faribault,2016,12,M
+Cambridge,Isanti,2007,1,16.4
+Cambridge,Isanti,2007,2,8.8
+Cambridge,Isanti,2007,3,33.4
+Cambridge,Isanti,2007,4,43.5
+Cambridge,Isanti,2007,5,59.9
+Cambridge,Isanti,2007,6,68
+Cambridge,Isanti,2007,7,70.9
+Cambridge,Isanti,2007,8,68.3
+Cambridge,Isanti,2007,9,58.2
+Cambridge,Isanti,2007,10,52.3
+Cambridge,Isanti,2007,11,33.1
+Cambridge,Isanti,2007,12,13.5
+Cambridge,Isanti,2008,1,10
+Cambridge,Isanti,2008,2,10.9
+Cambridge,Isanti,2008,3,24.5
+Cambridge,Isanti,2008,4,41.1
+Cambridge,Isanti,2008,5,52.7
+Cambridge,Isanti,2008,6,64
+Cambridge,Isanti,2008,7,71.4
+Cambridge,Isanti,2008,8,73.9
+Cambridge,Isanti,2008,9,59.3
+Cambridge,Isanti,2008,10,52.7
+Cambridge,Isanti,2008,11,M
+Cambridge,Isanti,2008,12,8.5
+Cambridge,Isanti,2009,1,2.6
+Cambridge,Isanti,2009,2,M
+Cambridge,Isanti,2009,3,22.2
+Cambridge,Isanti,2009,4,44.2
+Cambridge,Isanti,2009,5,65.2
+Cambridge,Isanti,2009,6,68.8
+Cambridge,Isanti,2009,7,68.6
+Cambridge,Isanti,2009,8,64.6
+Cambridge,Isanti,2009,9,63.7
+Cambridge,Isanti,2009,10,43.2
+Cambridge,Isanti,2009,11,41.5
+Cambridge,Isanti,2009,12,15.7
+Cambridge,Isanti,2010,1,13
+Cambridge,Isanti,2010,2,15.2
+Cambridge,Isanti,2010,3,36.2
+Cambridge,Isanti,2010,4,50.7
+Cambridge,Isanti,2010,5,58.2
+Cambridge,Isanti,2010,6,65.9
+Cambridge,Isanti,2010,7,71.8
+Cambridge,Isanti,2010,8,72.9
+Cambridge,Isanti,2010,9,55.7
+Cambridge,Isanti,2010,10,49.7
+Cambridge,Isanti,2010,11,32.3
+Cambridge,Isanti,2010,12,12.8
+Cambridge,Isanti,2011,1,6.7
+Cambridge,Isanti,2011,2,14.7
+Cambridge,Isanti,2011,3,24.9
+Cambridge,Isanti,2011,4,42.9
+Cambridge,Isanti,2011,5,55.2
+Cambridge,Isanti,2011,6,65.4
+Cambridge,Isanti,2011,7,74.3
+Cambridge,Isanti,2011,8,68.4
+Cambridge,Isanti,2011,9,57.7
+Cambridge,Isanti,2011,10,49.5
+Cambridge,Isanti,2011,11,35.1
+Cambridge,Isanti,2011,12,24.5
+Cambridge,Isanti,2012,1,21
+Cambridge,Isanti,2012,2,24.6
+Cambridge,Isanti,2012,3,42
+Cambridge,Isanti,2012,4,44.9
+Cambridge,Isanti,2012,5,59.4
+Cambridge,Isanti,2012,6,67.5
+Cambridge,Isanti,2012,7,74.5
+Cambridge,Isanti,2012,8,67.5
+Cambridge,Isanti,2012,9,56.7
+Cambridge,Isanti,2012,10,M
+Cambridge,Isanti,2012,11,32.3
+Cambridge,Isanti,2012,12,18.2
+Cambridge,Isanti,2013,1,11.5
+Cambridge,Isanti,2013,2,13
+Cambridge,Isanti,2013,3,21.2
+Cambridge,Isanti,2013,4,34.4
+Cambridge,Isanti,2013,5,53.8
+Cambridge,Isanti,2013,6,63.7
+Cambridge,Isanti,2013,7,69.9
+Cambridge,Isanti,2013,8,69.2
+Cambridge,Isanti,2013,9,63.8
+Cambridge,Isanti,2013,10,47.1
+Cambridge,Isanti,2013,11,31.2
+Cambridge,Isanti,2013,12,6.9
+Cambridge,Isanti,2014,1,0.3
+Cambridge,Isanti,2014,2,3.4
+Cambridge,Isanti,2014,3,21.9
+Cambridge,Isanti,2014,4,38
+Cambridge,Isanti,2014,5,55.4
+Cambridge,Isanti,2014,6,67.8
+Cambridge,Isanti,2014,7,67
+Cambridge,Isanti,2014,8,69.3
+Cambridge,Isanti,2014,9,60.3
+Cambridge,Isanti,2014,10,47
+Cambridge,Isanti,2014,11,21.3
+Cambridge,Isanti,2014,12,20
+Cambridge,Isanti,2015,1,16.3
+Cambridge,Isanti,2015,2,7.3
+Cambridge,Isanti,2015,3,33.3
+Cambridge,Isanti,2015,4,48
+Cambridge,Isanti,2015,5,56.6
+Cambridge,Isanti,2015,6,66.1
+Cambridge,Isanti,2015,7,70.9
+Cambridge,Isanti,2015,8,69.1
+Cambridge,Isanti,2015,9,66.3
+Cambridge,Isanti,2015,10,49.5
+Cambridge,Isanti,2015,11,41
+Cambridge,Isanti,2015,12,27.8
+Cambridge,Isanti,2016,1,14.4
+Cambridge,Isanti,2016,2,19.7
+Cambridge,Isanti,2016,3,36.1
+Cambridge,Isanti,2016,4,42.3
+Cambridge,Isanti,2016,5,57.1
+Cambridge,Isanti,2016,6,64.7
+Cambridge,Isanti,2016,7,69.1
+Cambridge,Isanti,2016,8,67.7
+Cambridge,Isanti,2016,9,59.9
+Cambridge,Isanti,2016,10,48.9
+Cambridge,Isanti,2016,11,37.9
+Cambridge,Isanti,2016,12,16.6
+Elk River,Sherburne,2007,1,M
+Elk River,Sherburne,2007,2,M
+Elk River,Sherburne,2007,3,34.2
+Elk River,Sherburne,2007,4,46.2
+Elk River,Sherburne,2007,5,M
+Elk River,Sherburne,2007,6,71.9
+Elk River,Sherburne,2007,7,74.6
+Elk River,Sherburne,2007,8,69.9
+Elk River,Sherburne,2007,9,61.4
+Elk River,Sherburne,2007,10,49.9
+Elk River,Sherburne,2007,11,M
+Elk River,Sherburne,2007,12,14.1
+Elk River,Sherburne,2008,1,M
+Elk River,Sherburne,2008,2,12.4
+Elk River,Sherburne,2008,3,25.6
+Elk River,Sherburne,2008,4,41.9
+Elk River,Sherburne,2008,5,54.4
+Elk River,Sherburne,2008,6,66.9
+Elk River,Sherburne,2008,7,72.6
+Elk River,Sherburne,2008,8,70
+Elk River,Sherburne,2008,9,61.6
+Elk River,Sherburne,2008,10,48.5
+Elk River,Sherburne,2008,11,33.8
+Elk River,Sherburne,2008,12,12.5
+Elk River,Sherburne,2009,1,4.3
+Elk River,Sherburne,2009,2,18.1
+Elk River,Sherburne,2009,3,28
+Elk River,Sherburne,2009,4,45.6
+Elk River,Sherburne,2009,5,57.5
+Elk River,Sherburne,2009,6,65.8
+Elk River,Sherburne,2009,7,68.2
+Elk River,Sherburne,2009,8,68
+Elk River,Sherburne,2009,9,65.4
+Elk River,Sherburne,2009,10,42
+Elk River,Sherburne,2009,11,40.6
+Elk River,Sherburne,2009,12,16.5
+Elk River,Sherburne,2010,1,12
+Elk River,Sherburne,2010,2,16.4
+Elk River,Sherburne,2010,3,37.8
+Elk River,Sherburne,2010,4,53
+Elk River,Sherburne,2010,5,59.1
+Elk River,Sherburne,2010,6,67.6
+Elk River,Sherburne,2010,7,74.5
+Elk River,Sherburne,2010,8,73.4
+Elk River,Sherburne,2010,9,58
+Elk River,Sherburne,2010,10,51.1
+Elk River,Sherburne,2010,11,32.9
+Elk River,Sherburne,2010,12,14.6
+Elk River,Sherburne,2011,1,9.4
+Elk River,Sherburne,2011,2,15.5
+Elk River,Sherburne,2011,3,25.7
+Elk River,Sherburne,2011,4,44.7
+Elk River,Sherburne,2011,5,57
+Elk River,Sherburne,2011,6,66.7
+Elk River,Sherburne,2011,7,77.4
+Elk River,Sherburne,2011,8,71.4
+Elk River,Sherburne,2011,9,60.6
+Elk River,Sherburne,2011,10,52.3
+Elk River,Sherburne,2011,11,36.2
+Elk River,Sherburne,2011,12,25.6
+Elk River,Sherburne,2012,1,20.9
+Elk River,Sherburne,2012,2,25.9
+Elk River,Sherburne,2012,3,44.9
+Elk River,Sherburne,2012,4,48.2
+Elk River,Sherburne,2012,5,62.5
+Elk River,Sherburne,2012,6,71.1
+Elk River,Sherburne,2012,7,78.2
+Elk River,Sherburne,2012,8,70
+Elk River,Sherburne,2012,9,61.2
+Elk River,Sherburne,2012,10,45.6
+Elk River,Sherburne,2012,11,34.2
+Elk River,Sherburne,2012,12,21.3
+Elk River,Sherburne,2013,1,14.7
+Elk River,Sherburne,2013,2,16.1
+Elk River,Sherburne,2013,3,24.2
+Elk River,Sherburne,2013,4,37.8
+Elk River,Sherburne,2013,5,56
+Elk River,Sherburne,2013,6,66.8
+Elk River,Sherburne,2013,7,73.1
+Elk River,Sherburne,2013,8,72
+Elk River,Sherburne,2013,9,64.4
+Elk River,Sherburne,2013,10,47.3
+Elk River,Sherburne,2013,11,30.2
+Elk River,Sherburne,2013,12,10.3
+Elk River,Sherburne,2014,1,5.7
+Elk River,Sherburne,2014,2,5.4
+Elk River,Sherburne,2014,3,21.7
+Elk River,Sherburne,2014,4,40.5
+Elk River,Sherburne,2014,5,57.1
+Elk River,Sherburne,2014,6,69
+Elk River,Sherburne,2014,7,70.5
+Elk River,Sherburne,2014,8,71.4
+Elk River,Sherburne,2014,9,60.7
+Elk River,Sherburne,2014,10,48
+Elk River,Sherburne,2014,11,24.2
+Elk River,Sherburne,2014,12,23.3
+Elk River,Sherburne,2015,1,17.7
+Elk River,Sherburne,2015,2,9.5
+Elk River,Sherburne,2015,3,31.3
+Elk River,Sherburne,2015,4,46.1
+Elk River,Sherburne,2015,5,56.6
+Elk River,Sherburne,2015,6,67.9
+Elk River,Sherburne,2015,7,71.2
+Elk River,Sherburne,2015,8,67.3
+Elk River,Sherburne,2015,9,65.7
+Elk River,Sherburne,2015,10,49.7
+Elk River,Sherburne,2015,11,40.3
+Elk River,Sherburne,2015,12,27.3
+Elk River,Sherburne,2016,1,14.6
+Elk River,Sherburne,2016,2,21.9
+Elk River,Sherburne,2016,3,38.2
+Elk River,Sherburne,2016,4,45.1
+Elk River,Sherburne,2016,5,58
+Elk River,Sherburne,2016,6,68.2
+Elk River,Sherburne,2016,7,71.9
+Elk River,Sherburne,2016,8,70.7
+Elk River,Sherburne,2016,9,63
+Elk River,Sherburne,2016,10,50
+Elk River,Sherburne,2016,11,40.7
+Elk River,Sherburne,2016,12,18.3
+Faribault,Rice,2007,1,18.6
+Faribault,Rice,2007,2,10.1
+Faribault,Rice,2007,3,35.4
+Faribault,Rice,2007,4,44.4
+Faribault,Rice,2007,5,60.9
+Faribault,Rice,2007,6,69.9
+Faribault,Rice,2007,7,72.9
+Faribault,Rice,2007,8,70.3
+Faribault,Rice,2007,9,63.2
+Faribault,Rice,2007,10,53.5
+Faribault,Rice,2007,11,33.9
+Faribault,Rice,2007,12,15.5
+Faribault,Rice,2008,1,10.8
+Faribault,Rice,2008,2,13.3
+Faribault,Rice,2008,3,26.4
+Faribault,Rice,2008,4,41.8
+Faribault,Rice,2008,5,54.5
+Faribault,Rice,2008,6,66.1
+Faribault,Rice,2008,7,71.9
+Faribault,Rice,2008,8,68.9
+Faribault,Rice,2008,9,63
+Faribault,Rice,2008,10,47.8
+Faribault,Rice,2008,11,33.1
+Faribault,Rice,2008,12,12.9
+Faribault,Rice,2009,1,6.1
+Faribault,Rice,2009,2,19.9
+Faribault,Rice,2009,3,31
+Faribault,Rice,2009,4,44.9
+Faribault,Rice,2009,5,56.8
+Faribault,Rice,2009,6,64.8
+Faribault,Rice,2009,7,66.7
+Faribault,Rice,2009,8,67.1
+Faribault,Rice,2009,9,64
+Faribault,Rice,2009,10,43.1
+Faribault,Rice,2009,11,41.1
+Faribault,Rice,2009,12,15.1
+Faribault,Rice,2010,1,9.1
+Faribault,Rice,2010,2,13.3
+Faribault,Rice,2010,3,35.8
+Faribault,Rice,2010,4,52.2
+Faribault,Rice,2010,5,58.5
+Faribault,Rice,2010,6,66.9
+Faribault,Rice,2010,7,73.2
+Faribault,Rice,2010,8,73
+Faribault,Rice,2010,9,M
+Faribault,Rice,2010,10,M
+Faribault,Rice,2010,11,M
+Faribault,Rice,2010,12,M
+Faribault,Rice,2011,1,M
+Faribault,Rice,2011,2,18.8
+Faribault,Rice,2011,3,28.5
+Faribault,Rice,2011,4,44.1
+Faribault,Rice,2011,5,54.9
+Faribault,Rice,2011,6,68.7
+Faribault,Rice,2011,7,M
+Faribault,Rice,2011,8,M
+Faribault,Rice,2011,9,M
+Faribault,Rice,2011,10,M
+Faribault,Rice,2011,11,M
+Faribault,Rice,2011,12,M
+Faribault,Rice,2012,1,M
+Faribault,Rice,2012,2,M
+Faribault,Rice,2012,3,M
+Faribault,Rice,2012,4,M
+Faribault,Rice,2012,5,M
+Faribault,Rice,2012,6,M
+Faribault,Rice,2012,7,M
+Faribault,Rice,2012,8,M
+Faribault,Rice,2012,9,M
+Faribault,Rice,2012,10,M
+Faribault,Rice,2012,11,M
+Faribault,Rice,2012,12,M
+Faribault,Rice,2013,1,M
+Faribault,Rice,2013,2,M
+Faribault,Rice,2013,3,M
+Faribault,Rice,2013,4,M
+Faribault,Rice,2013,5,M
+Faribault,Rice,2013,6,M
+Faribault,Rice,2013,7,M
+Faribault,Rice,2013,8,M
+Faribault,Rice,2013,9,M
+Faribault,Rice,2013,10,M
+Faribault,Rice,2013,11,M
+Faribault,Rice,2013,12,M
+Faribault,Rice,2014,1,M
+Faribault,Rice,2014,2,M
+Faribault,Rice,2014,3,M
+Faribault,Rice,2014,4,M
+Faribault,Rice,2014,5,M
+Faribault,Rice,2014,6,M
+Faribault,Rice,2014,7,M
+Faribault,Rice,2014,8,M
+Faribault,Rice,2014,9,M
+Faribault,Rice,2014,10,M
+Faribault,Rice,2014,11,M
+Faribault,Rice,2014,12,M
+Faribault,Rice,2015,1,M
+Faribault,Rice,2015,2,M
+Faribault,Rice,2015,3,M
+Faribault,Rice,2015,4,M
+Faribault,Rice,2015,5,M
+Faribault,Rice,2015,6,M
+Faribault,Rice,2015,7,M
+Faribault,Rice,2015,8,M
+Faribault,Rice,2015,9,M
+Faribault,Rice,2015,10,M
+Faribault,Rice,2015,11,M
+Faribault,Rice,2015,12,M
+Faribault,Rice,2016,1,M
+Faribault,Rice,2016,2,M
+Faribault,Rice,2016,3,M
+Faribault,Rice,2016,4,M
+Faribault,Rice,2016,5,M
+Faribault,Rice,2016,6,M
+Faribault,Rice,2016,7,M
+Faribault,Rice,2016,8,M
+Faribault,Rice,2016,9,M
+Faribault,Rice,2016,10,M
+Faribault,Rice,2016,11,M
+Faribault,Rice,2016,12,M
+Gaylord,Sibley,2007,1,17
+Gaylord,Sibley,2007,2,8
+Gaylord,Sibley,2007,3,34
+Gaylord,Sibley,2007,4,43.6
+Gaylord,Sibley,2007,5,62.9
+Gaylord,Sibley,2007,6,69.7
+Gaylord,Sibley,2007,7,72.5
+Gaylord,Sibley,2007,8,68.7
+Gaylord,Sibley,2007,9,61.4
+Gaylord,Sibley,2007,10,52
+Gaylord,Sibley,2007,11,33.2
+Gaylord,Sibley,2007,12,14.4
+Gaylord,Sibley,2008,1,10.3
+Gaylord,Sibley,2008,2,M
+Gaylord,Sibley,2008,3,26.9
+Gaylord,Sibley,2008,4,41
+Gaylord,Sibley,2008,5,55.3
+Gaylord,Sibley,2008,6,67.2
+Gaylord,Sibley,2008,7,73.3
+Gaylord,Sibley,2008,8,69.5
+Gaylord,Sibley,2008,9,61.4
+Gaylord,Sibley,2008,10,47.5
+Gaylord,Sibley,2008,11,32.7
+Gaylord,Sibley,2008,12,10.7
+Gaylord,Sibley,2009,1,5.5
+Gaylord,Sibley,2009,2,18.4
+Gaylord,Sibley,2009,3,28.7
+Gaylord,Sibley,2009,4,44.7
+Gaylord,Sibley,2009,5,58.2
+Gaylord,Sibley,2009,6,66.3
+Gaylord,Sibley,2009,7,67.6
+Gaylord,Sibley,2009,8,67.3
+Gaylord,Sibley,2009,9,63.9
+Gaylord,Sibley,2009,10,41.1
+Gaylord,Sibley,2009,11,39.9
+Gaylord,Sibley,2009,12,14.8
+Gaylord,Sibley,2010,1,7.9
+Gaylord,Sibley,2010,2,11.5
+Gaylord,Sibley,2010,3,34.6
+Gaylord,Sibley,2010,4,52.7
+Gaylord,Sibley,2010,5,59.2
+Gaylord,Sibley,2010,6,68.3
+Gaylord,Sibley,2010,7,74.4
+Gaylord,Sibley,2010,8,74.2
+Gaylord,Sibley,2010,9,58.5
+Gaylord,Sibley,2010,10,50.7
+Gaylord,Sibley,2010,11,31.8
+Gaylord,Sibley,2010,12,12.4
+Gaylord,Sibley,2011,1,7.3
+Gaylord,Sibley,2011,2,13.5
+Gaylord,Sibley,2011,3,24.4
+Gaylord,Sibley,2011,4,43.1
+Gaylord,Sibley,2011,5,56.2
+Gaylord,Sibley,2011,6,67.9
+Gaylord,Sibley,2011,7,77.7
+Gaylord,Sibley,2011,8,70.8
+Gaylord,Sibley,2011,9,60.3
+Gaylord,Sibley,2011,10,51.2
+Gaylord,Sibley,2011,11,35.4
+Gaylord,Sibley,2011,12,24.3
+Gaylord,Sibley,2012,1,21.2
+Gaylord,Sibley,2012,2,24.1
+Gaylord,Sibley,2012,3,44.3
+Gaylord,Sibley,2012,4,48.1
+Gaylord,Sibley,2012,5,63
+Gaylord,Sibley,2012,6,70.8
+Gaylord,Sibley,2012,7,78.9
+Gaylord,Sibley,2012,8,70
+Gaylord,Sibley,2012,9,60.5
+Gaylord,Sibley,2012,10,45.3
+Gaylord,Sibley,2012,11,34.2
+Gaylord,Sibley,2012,12,19.1
+Gaylord,Sibley,2013,1,14
+Gaylord,Sibley,2013,2,14.2
+Gaylord,Sibley,2013,3,21.8
+Gaylord,Sibley,2013,4,36.7
+Gaylord,Sibley,2013,5,55.5
+Gaylord,Sibley,2013,6,67.6
+Gaylord,Sibley,2013,7,73.3
+Gaylord,Sibley,2013,8,71.6
+Gaylord,Sibley,2013,9,64.7
+Gaylord,Sibley,2013,10,46.8
+Gaylord,Sibley,2013,11,29.6
+Gaylord,Sibley,2013,12,10.1
+Gaylord,Sibley,2014,1,6.8
+Gaylord,Sibley,2014,2,6
+Gaylord,Sibley,2014,3,22.4
+Gaylord,Sibley,2014,4,41.2
+Gaylord,Sibley,2014,5,56.7
+Gaylord,Sibley,2014,6,68.9
+Gaylord,Sibley,2014,7,70.2
+Gaylord,Sibley,2014,8,71.5
+Gaylord,Sibley,2014,9,61
+Gaylord,Sibley,2014,10,47.4
+Gaylord,Sibley,2014,11,23
+Gaylord,Sibley,2014,12,22.3
+Gaylord,Sibley,2015,1,16.2
+Gaylord,Sibley,2015,2,9.1
+Gaylord,Sibley,2015,3,31.6
+Gaylord,Sibley,2015,4,45.7
+Gaylord,Sibley,2015,5,55.2
+Gaylord,Sibley,2015,6,68.4
+Gaylord,Sibley,2015,7,M
+Gaylord,Sibley,2015,8,68
+Gaylord,Sibley,2015,9,65.3
+Gaylord,Sibley,2015,10,49.1
+Gaylord,Sibley,2015,11,35.8
+Gaylord,Sibley,2015,12,24.4
+Gaylord,Sibley,2016,1,15.7
+Gaylord,Sibley,2016,2,23.4
+Gaylord,Sibley,2016,3,37.9
+Gaylord,Sibley,2016,4,46.9
+Gaylord,Sibley,2016,5,59.2
+Gaylord,Sibley,2016,6,70
+Gaylord,Sibley,2016,7,72.3
+Gaylord,Sibley,2016,8,70.8
+Gaylord,Sibley,2016,9,63.8
+Gaylord,Sibley,2016,10,M
+Gaylord,Sibley,2016,11,42.2
+Gaylord,Sibley,2016,12,16.1
+Glenwood,Pope,2007,1,17.5
+Glenwood,Pope,2007,2,9
+Glenwood,Pope,2007,3,34.2
+Glenwood,Pope,2007,4,42.2
+Glenwood,Pope,2007,5,63.2
+Glenwood,Pope,2007,6,70.1
+Glenwood,Pope,2007,7,74.3
+Glenwood,Pope,2007,8,69.4
+Glenwood,Pope,2007,9,63.4
+Glenwood,Pope,2007,10,51
+Glenwood,Pope,2007,11,32.9
+Glenwood,Pope,2007,12,11.6
+Glenwood,Pope,2008,1,10.3
+Glenwood,Pope,2008,2,13
+Glenwood,Pope,2008,3,24.7
+Glenwood,Pope,2008,4,42
+Glenwood,Pope,2008,5,54.4
+Glenwood,Pope,2008,6,64.1
+Glenwood,Pope,2008,7,71.1
+Glenwood,Pope,2008,8,69
+Glenwood,Pope,2008,9,61.6
+Glenwood,Pope,2008,10,47.8
+Glenwood,Pope,2008,11,32.1
+Glenwood,Pope,2008,12,9.3
+Glenwood,Pope,2009,1,2.6
+Glenwood,Pope,2009,2,15.1
+Glenwood,Pope,2009,3,26.6
+Glenwood,Pope,2009,4,43.8
+Glenwood,Pope,2009,5,57.3
+Glenwood,Pope,2009,6,65.8
+Glenwood,Pope,2009,7,66.6
+Glenwood,Pope,2009,8,66.4
+Glenwood,Pope,2009,9,64
+Glenwood,Pope,2009,10,41.2
+Glenwood,Pope,2009,11,39.1
+Glenwood,Pope,2009,12,12.8
+Glenwood,Pope,2010,1,10
+Glenwood,Pope,2010,2,14.1
+Glenwood,Pope,2010,3,36.7
+Glenwood,Pope,2010,4,53.2
+Glenwood,Pope,2010,5,56.9
+Glenwood,Pope,2010,6,66.6
+Glenwood,Pope,2010,7,71.6
+Glenwood,Pope,2010,8,72.3
+Glenwood,Pope,2010,9,57.1
+Glenwood,Pope,2010,10,49.9
+Glenwood,Pope,2010,11,31.1
+Glenwood,Pope,2010,12,12.2
+Glenwood,Pope,2011,1,6
+Glenwood,Pope,2011,2,13.3
+Glenwood,Pope,2011,3,23.7
+Glenwood,Pope,2011,4,43.3
+Glenwood,Pope,2011,5,56.7
+Glenwood,Pope,2011,6,66.4
+Glenwood,Pope,2011,7,74.4
+Glenwood,Pope,2011,8,70.5
+Glenwood,Pope,2011,9,59.1
+Glenwood,Pope,2011,10,51
+Glenwood,Pope,2011,11,34.4
+Glenwood,Pope,2011,12,26.3
+Glenwood,Pope,2012,1,20.7
+Glenwood,Pope,2012,2,23
+Glenwood,Pope,2012,3,43.4
+Glenwood,Pope,2012,4,48.5
+Glenwood,Pope,2012,5,61.2
+Glenwood,Pope,2012,6,68.6
+Glenwood,Pope,2012,7,75
+Glenwood,Pope,2012,8,68.4
+Glenwood,Pope,2012,9,60.6
+Glenwood,Pope,2012,10,45.7
+Glenwood,Pope,2012,11,32.3
+Glenwood,Pope,2012,12,17.8
+Glenwood,Pope,2013,1,13
+Glenwood,Pope,2013,2,12.8
+Glenwood,Pope,2013,3,20.5
+Glenwood,Pope,2013,4,35.2
+Glenwood,Pope,2013,5,55.5
+Glenwood,Pope,2013,6,65.9
+Glenwood,Pope,2013,7,71.1
+Glenwood,Pope,2013,8,69.7
+Glenwood,Pope,2013,9,64.7
+Glenwood,Pope,2013,10,44.7
+Glenwood,Pope,2013,11,30.2
+Glenwood,Pope,2013,12,8
+Glenwood,Pope,2014,1,5.5
+Glenwood,Pope,2014,2,4.4
+Glenwood,Pope,2014,3,24.3
+Glenwood,Pope,2014,4,40.7
+Glenwood,Pope,2014,5,55.8
+Glenwood,Pope,2014,6,66.2
+Glenwood,Pope,2014,7,67.7
+Glenwood,Pope,2014,8,68.3
+Glenwood,Pope,2014,9,59.4
+Glenwood,Pope,2014,10,48.5
+Glenwood,Pope,2014,11,22.8
+Glenwood,Pope,2014,12,21.3
+Glenwood,Pope,2015,1,16.2
+Glenwood,Pope,2015,2,7.5
+Glenwood,Pope,2015,3,32.2
+Glenwood,Pope,2015,4,47.7
+Glenwood,Pope,2015,5,56.5
+Glenwood,Pope,2015,6,66.9
+Glenwood,Pope,2015,7,71.7
+Glenwood,Pope,2015,8,67.6
+Glenwood,Pope,2015,9,65.5
+Glenwood,Pope,2015,10,49.6
+Glenwood,Pope,2015,11,37.3
+Glenwood,Pope,2015,12,25
+Glenwood,Pope,2016,1,13.7
+Glenwood,Pope,2016,2,22.5
+Glenwood,Pope,2016,3,38.8
+Glenwood,Pope,2016,4,45.2
+Glenwood,Pope,2016,5,58.3
+Glenwood,Pope,2016,6,67.8
+Glenwood,Pope,2016,7,69.9
+Glenwood,Pope,2016,8,68.8
+Glenwood,Pope,2016,9,61.4
+Glenwood,Pope,2016,10,49.9
+Glenwood,Pope,2016,11,40
+Glenwood,Pope,2016,12,15.4
+Granite Falls,Yellow Medicine,2007,1,19.5
+Granite Falls,Yellow Medicine,2007,2,12.5
+Granite Falls,Yellow Medicine,2007,3,36.5
+Granite Falls,Yellow Medicine,2007,4,43.8
+Granite Falls,Yellow Medicine,2007,5,61.6
+Granite Falls,Yellow Medicine,2007,6,69.6
+Granite Falls,Yellow Medicine,2007,7,73.4
+Granite Falls,Yellow Medicine,2007,8,68.2
+Granite Falls,Yellow Medicine,2007,9,62.4
+Granite Falls,Yellow Medicine,2007,10,51.7
+Granite Falls,Yellow Medicine,2007,11,32.8
+Granite Falls,Yellow Medicine,2007,12,12.8
+Granite Falls,Yellow Medicine,2008,1,9.6
+Granite Falls,Yellow Medicine,2008,2,12.8
+Granite Falls,Yellow Medicine,2008,3,26
+Granite Falls,Yellow Medicine,2008,4,41.6
+Granite Falls,Yellow Medicine,2008,5,55.4
+Granite Falls,Yellow Medicine,2008,6,65.2
+Granite Falls,Yellow Medicine,2008,7,72.1
+Granite Falls,Yellow Medicine,2008,8,69.1
+Granite Falls,Yellow Medicine,2008,9,59.1
+Granite Falls,Yellow Medicine,2008,10,46.2
+Granite Falls,Yellow Medicine,2008,11,31.4
+Granite Falls,Yellow Medicine,2008,12,8.8
+Granite Falls,Yellow Medicine,2009,1,3.4
+Granite Falls,Yellow Medicine,2009,2,15.8
+Granite Falls,Yellow Medicine,2009,3,29
+Granite Falls,Yellow Medicine,2009,4,44.2
+Granite Falls,Yellow Medicine,2009,5,58.1
+Granite Falls,Yellow Medicine,2009,6,64.7
+Granite Falls,Yellow Medicine,2009,7,67
+Granite Falls,Yellow Medicine,2009,8,66.9
+Granite Falls,Yellow Medicine,2009,9,64
+Granite Falls,Yellow Medicine,2009,10,40.5
+Granite Falls,Yellow Medicine,2009,11,39.4
+Granite Falls,Yellow Medicine,2009,12,12.3
+Granite Falls,Yellow Medicine,2010,1,8.2
+Granite Falls,Yellow Medicine,2010,2,10.6
+Granite Falls,Yellow Medicine,2010,3,35.6
+Granite Falls,Yellow Medicine,2010,4,53.2
+Granite Falls,Yellow Medicine,2010,5,58
+Granite Falls,Yellow Medicine,2010,6,67.2
+Granite Falls,Yellow Medicine,2010,7,72.5
+Granite Falls,Yellow Medicine,2010,8,73.8
+Granite Falls,Yellow Medicine,2010,9,58.6
+Granite Falls,Yellow Medicine,2010,10,51.2
+Granite Falls,Yellow Medicine,2010,11,32.7
+Granite Falls,Yellow Medicine,2010,12,12.2
+Granite Falls,Yellow Medicine,2011,1,6.9
+Granite Falls,Yellow Medicine,2011,2,M
+Granite Falls,Yellow Medicine,2011,3,M
+Granite Falls,Yellow Medicine,2011,4,44.1
+Granite Falls,Yellow Medicine,2011,5,56.4
+Granite Falls,Yellow Medicine,2011,6,67.1
+Granite Falls,Yellow Medicine,2011,7,76.7
+Granite Falls,Yellow Medicine,2011,8,70.5
+Granite Falls,Yellow Medicine,2011,9,59.9
+Granite Falls,Yellow Medicine,2011,10,52.4
+Granite Falls,Yellow Medicine,2011,11,34.6
+Granite Falls,Yellow Medicine,2011,12,27.3
+Granite Falls,Yellow Medicine,2012,1,M
+Granite Falls,Yellow Medicine,2012,2,24.9
+Granite Falls,Yellow Medicine,2012,3,44.9
+Granite Falls,Yellow Medicine,2012,4,M
+Granite Falls,Yellow Medicine,2012,5,M
+Granite Falls,Yellow Medicine,2012,6,70.3
+Granite Falls,Yellow Medicine,2012,7,79.1
+Granite Falls,Yellow Medicine,2012,8,69.9
+Granite Falls,Yellow Medicine,2012,9,60.9
+Granite Falls,Yellow Medicine,2012,10,45.9
+Granite Falls,Yellow Medicine,2012,11,34.9
+Granite Falls,Yellow Medicine,2012,12,17.6
+Granite Falls,Yellow Medicine,2013,1,14
+Granite Falls,Yellow Medicine,2013,2,14.7
+Granite Falls,Yellow Medicine,2013,3,22.1
+Granite Falls,Yellow Medicine,2013,4,37.1
+Granite Falls,Yellow Medicine,2013,5,56.3
+Granite Falls,Yellow Medicine,2013,6,66.2
+Granite Falls,Yellow Medicine,2013,7,72.3
+Granite Falls,Yellow Medicine,2013,8,71.8
+Granite Falls,Yellow Medicine,2013,9,64.7
+Granite Falls,Yellow Medicine,2013,10,45.7
+Granite Falls,Yellow Medicine,2013,11,30.7
+Granite Falls,Yellow Medicine,2013,12,10
+Granite Falls,Yellow Medicine,2014,1,7.8
+Granite Falls,Yellow Medicine,2014,2,7.1
+Granite Falls,Yellow Medicine,2014,3,25.7
+Granite Falls,Yellow Medicine,2014,4,41.5
+Granite Falls,Yellow Medicine,2014,5,57.1
+Granite Falls,Yellow Medicine,2014,6,67.5
+Granite Falls,Yellow Medicine,2014,7,68.6
+Granite Falls,Yellow Medicine,2014,8,70.1
+Granite Falls,Yellow Medicine,2014,9,61.1
+Granite Falls,Yellow Medicine,2014,10,48.4
+Granite Falls,Yellow Medicine,2014,11,22.9
+Granite Falls,Yellow Medicine,2014,12,23.1
+Granite Falls,Yellow Medicine,2015,1,17.9
+Granite Falls,Yellow Medicine,2015,2,11.1
+Granite Falls,Yellow Medicine,2015,3,34.1
+Granite Falls,Yellow Medicine,2015,4,47.9
+Granite Falls,Yellow Medicine,2015,5,56.9
+Granite Falls,Yellow Medicine,2015,6,68.2
+Granite Falls,Yellow Medicine,2015,7,71.5
+Granite Falls,Yellow Medicine,2015,8,67.6
+Granite Falls,Yellow Medicine,2015,9,67.3
+Granite Falls,Yellow Medicine,2015,10,52.1
+Granite Falls,Yellow Medicine,2015,11,40.4
+Granite Falls,Yellow Medicine,2015,12,25.8
+Granite Falls,Yellow Medicine,2016,1,15.9
+Granite Falls,Yellow Medicine,2016,2,24.1
+Granite Falls,Yellow Medicine,2016,3,40.3
+Granite Falls,Yellow Medicine,2016,4,48.1
+Granite Falls,Yellow Medicine,2016,5,59.8
+Granite Falls,Yellow Medicine,2016,6,70.5
+Granite Falls,Yellow Medicine,2016,7,72.2
+Granite Falls,Yellow Medicine,2016,8,70.7
+Granite Falls,Yellow Medicine,2016,9,63.9
+Granite Falls,Yellow Medicine,2016,10,50.6
+Granite Falls,Yellow Medicine,2016,11,41.5
+Granite Falls,Yellow Medicine,2016,12,17.4
+Hastings,Dakota,2007,1,19.1
+Hastings,Dakota,2007,2,11
+Hastings,Dakota,2007,3,35.1
+Hastings,Dakota,2007,4,M
+Hastings,Dakota,2007,5,61.5
+Hastings,Dakota,2007,6,70.4
+Hastings,Dakota,2007,7,73.1
+Hastings,Dakota,2007,8,70.7
+Hastings,Dakota,2007,9,63.7
+Hastings,Dakota,2007,10,54.2
+Hastings,Dakota,2007,11,34.2
+Hastings,Dakota,2007,12,15.6
+Hastings,Dakota,2008,1,11.4
+Hastings,Dakota,2008,2,12.9
+Hastings,Dakota,2008,3,25.9
+Hastings,Dakota,2008,4,42.1
+Hastings,Dakota,2008,5,54.9
+Hastings,Dakota,2008,6,67.3
+Hastings,Dakota,2008,7,72.4
+Hastings,Dakota,2008,8,70.2
+Hastings,Dakota,2008,9,63.7
+Hastings,Dakota,2008,10,49.4
+Hastings,Dakota,2008,11,34.9
+Hastings,Dakota,2008,12,12.1
+Hastings,Dakota,2009,1,4.6
+Hastings,Dakota,2009,2,19.4
+Hastings,Dakota,2009,3,29.9
+Hastings,Dakota,2009,4,46.2
+Hastings,Dakota,2009,5,58.3
+Hastings,Dakota,2009,6,66.5
+Hastings,Dakota,2009,7,67.7
+Hastings,Dakota,2009,8,68
+Hastings,Dakota,2009,9,65.4
+Hastings,Dakota,2009,10,43
+Hastings,Dakota,2009,11,41.5
+Hastings,Dakota,2009,12,16.7
+Hastings,Dakota,2010,1,11.2
+Hastings,Dakota,2010,2,15.1
+Hastings,Dakota,2010,3,37.7
+Hastings,Dakota,2010,4,53.4
+Hastings,Dakota,2010,5,59
+Hastings,Dakota,2010,6,68
+Hastings,Dakota,2010,7,74.5
+Hastings,Dakota,2010,8,74.8
+Hastings,Dakota,2010,9,59.5
+Hastings,Dakota,2010,10,53.2
+Hastings,Dakota,2010,11,34.2
+Hastings,Dakota,2010,12,14.1
+Hastings,Dakota,2011,1,8.9
+Hastings,Dakota,2011,2,15.8
+Hastings,Dakota,2011,3,26.4
+Hastings,Dakota,2011,4,43.5
+Hastings,Dakota,2011,5,56.1
+Hastings,Dakota,2011,6,67.2
+Hastings,Dakota,2011,7,77.3
+Hastings,Dakota,2011,8,72.2
+Hastings,Dakota,2011,9,61.4
+Hastings,Dakota,2011,10,53.9
+Hastings,Dakota,2011,11,37.8
+Hastings,Dakota,2011,12,25.3
+Hastings,Dakota,2012,1,21.4
+Hastings,Dakota,2012,2,26.4
+Hastings,Dakota,2012,3,46.4
+Hastings,Dakota,2012,4,48.6
+Hastings,Dakota,2012,5,61.6
+Hastings,Dakota,2012,6,69.9
+Hastings,Dakota,2012,7,78.1
+Hastings,Dakota,2012,8,70.5
+Hastings,Dakota,2012,9,62.4
+Hastings,Dakota,2012,10,46.5
+Hastings,Dakota,2012,11,36.2
+Hastings,Dakota,2012,12,23
+Hastings,Dakota,2013,1,15.7
+Hastings,Dakota,2013,2,16.3
+Hastings,Dakota,2013,3,24.1
+Hastings,Dakota,2013,4,38
+Hastings,Dakota,2013,5,55.7
+Hastings,Dakota,2013,6,66.8
+Hastings,Dakota,2013,7,72.8
+Hastings,Dakota,2013,8,71.5
+Hastings,Dakota,2013,9,65
+Hastings,Dakota,2013,10,48.3
+Hastings,Dakota,2013,11,31.6
+Hastings,Dakota,2013,12,11.8
+Hastings,Dakota,2014,1,6.1
+Hastings,Dakota,2014,2,5.2
+Hastings,Dakota,2014,3,21.1
+Hastings,Dakota,2014,4,41.5
+Hastings,Dakota,2014,5,57
+Hastings,Dakota,2014,6,68.8
+Hastings,Dakota,2014,7,70.2
+Hastings,Dakota,2014,8,72.1
+Hastings,Dakota,2014,9,61.8
+Hastings,Dakota,2014,10,48.5
+Hastings,Dakota,2014,11,25.8
+Hastings,Dakota,2014,12,24.1
+Hastings,Dakota,2015,1,16.6
+Hastings,Dakota,2015,2,9.2
+Hastings,Dakota,2015,3,31.2
+Hastings,Dakota,2015,4,48
+Hastings,Dakota,2015,5,56.8
+Hastings,Dakota,2015,6,67.2
+Hastings,Dakota,2015,7,71.7
+Hastings,Dakota,2015,8,69.4
+Hastings,Dakota,2015,9,67.5
+Hastings,Dakota,2015,10,51.2
+Hastings,Dakota,2015,11,41.2
+Hastings,Dakota,2015,12,30.2
+Hastings,Dakota,2016,1,14.7
+Hastings,Dakota,2016,2,22.5
+Hastings,Dakota,2016,3,39
+Hastings,Dakota,2016,4,46.5
+Hastings,Dakota,2016,5,56.9
+Hastings,Dakota,2016,6,67.8
+Hastings,Dakota,2016,7,73.2
+Hastings,Dakota,2016,8,71.6
+Hastings,Dakota,2016,9,65.6
+Hastings,Dakota,2016,10,53
+Hastings,Dakota,2016,11,43.7
+Hastings,Dakota,2016,12,20.2
+Litchfield,Meeker,2007,1,17.9
+Litchfield,Meeker,2007,2,8.7
+Litchfield,Meeker,2007,3,33
+Litchfield,Meeker,2007,4,44.2
+Litchfield,Meeker,2007,5,62.8
+Litchfield,Meeker,2007,6,70.7
+Litchfield,Meeker,2007,7,73.9
+Litchfield,Meeker,2007,8,68.9
+Litchfield,Meeker,2007,9,62
+Litchfield,Meeker,2007,10,51.2
+Litchfield,Meeker,2007,11,32.1
+Litchfield,Meeker,2007,12,10.5
+Litchfield,Meeker,2008,1,7.7
+Litchfield,Meeker,2008,2,9.9
+Litchfield,Meeker,2008,3,24.7
+Litchfield,Meeker,2008,4,41
+Litchfield,Meeker,2008,5,54.5
+Litchfield,Meeker,2008,6,66.2
+Litchfield,Meeker,2008,7,72.3
+Litchfield,Meeker,2008,8,M
+Litchfield,Meeker,2008,9,60.2
+Litchfield,Meeker,2008,10,46.8
+Litchfield,Meeker,2008,11,31.9
+Litchfield,Meeker,2008,12,10.5
+Litchfield,Meeker,2009,1,2.6
+Litchfield,Meeker,2009,2,14.7
+Litchfield,Meeker,2009,3,26.6
+Litchfield,Meeker,2009,4,43.6
+Litchfield,Meeker,2009,5,56.2
+Litchfield,Meeker,2009,6,64.1
+Litchfield,Meeker,2009,7,66.7
+Litchfield,Meeker,2009,8,65.7
+Litchfield,Meeker,2009,9,63.3
+Litchfield,Meeker,2009,10,40
+Litchfield,Meeker,2009,11,38.3
+Litchfield,Meeker,2009,12,12.8
+Litchfield,Meeker,2010,1,7.6
+Litchfield,Meeker,2010,2,10.9
+Litchfield,Meeker,2010,3,34.9
+Litchfield,Meeker,2010,4,50.5
+Litchfield,Meeker,2010,5,57.1
+Litchfield,Meeker,2010,6,66.4
+Litchfield,Meeker,2010,7,71.7
+Litchfield,Meeker,2010,8,72.1
+Litchfield,Meeker,2010,9,56.4
+Litchfield,Meeker,2010,10,50
+Litchfield,Meeker,2010,11,30.6
+Litchfield,Meeker,2010,12,11.6
+Litchfield,Meeker,2011,1,6.2
+Litchfield,Meeker,2011,2,12.5
+Litchfield,Meeker,2011,3,22.1
+Litchfield,Meeker,2011,4,43.5
+Litchfield,Meeker,2011,5,53.9
+Litchfield,Meeker,2011,6,65.2
+Litchfield,Meeker,2011,7,75.5
+Litchfield,Meeker,2011,8,70
+Litchfield,Meeker,2011,9,58.5
+Litchfield,Meeker,2011,10,51
+Litchfield,Meeker,2011,11,33.5
+Litchfield,Meeker,2011,12,23.9
+Litchfield,Meeker,2012,1,20.1
+Litchfield,Meeker,2012,2,22.9
+Litchfield,Meeker,2012,3,43.4
+Litchfield,Meeker,2012,4,47.9
+Litchfield,Meeker,2012,5,61.7
+Litchfield,Meeker,2012,6,68.6
+Litchfield,Meeker,2012,7,77.2
+Litchfield,Meeker,2012,8,69
+Litchfield,Meeker,2012,9,59.2
+Litchfield,Meeker,2012,10,43.4
+Litchfield,Meeker,2012,11,32.3
+Litchfield,Meeker,2012,12,16.6
+Litchfield,Meeker,2013,1,11.6
+Litchfield,Meeker,2013,2,12.5
+Litchfield,Meeker,2013,3,20.3
+Litchfield,Meeker,2013,4,34.8
+Litchfield,Meeker,2013,5,54
+Litchfield,Meeker,2013,6,64.9
+Litchfield,Meeker,2013,7,70.8
+Litchfield,Meeker,2013,8,69.5
+Litchfield,Meeker,2013,9,63
+Litchfield,Meeker,2013,10,45.4
+Litchfield,Meeker,2013,11,29.4
+Litchfield,Meeker,2013,12,8.2
+Litchfield,Meeker,2014,1,4
+Litchfield,Meeker,2014,2,4.3
+Litchfield,Meeker,2014,3,20.8
+Litchfield,Meeker,2014,4,38.9
+Litchfield,Meeker,2014,5,54.3
+Litchfield,Meeker,2014,6,66.8
+Litchfield,Meeker,2014,7,68.2
+Litchfield,Meeker,2014,8,69.6
+Litchfield,Meeker,2014,9,59.5
+Litchfield,Meeker,2014,10,46.4
+Litchfield,Meeker,2014,11,21.6
+Litchfield,Meeker,2014,12,21.5
+Litchfield,Meeker,2015,1,15.3
+Litchfield,Meeker,2015,2,7.7
+Litchfield,Meeker,2015,3,31
+Litchfield,Meeker,2015,4,45
+Litchfield,Meeker,2015,5,55
+Litchfield,Meeker,2015,6,66.3
+Litchfield,Meeker,2015,7,70
+Litchfield,Meeker,2015,8,66.7
+Litchfield,Meeker,2015,9,65.4
+Litchfield,Meeker,2015,10,49.1
+Litchfield,Meeker,2015,11,38.2
+Litchfield,Meeker,2015,12,25.5
+Litchfield,Meeker,2016,1,13.4
+Litchfield,Meeker,2016,2,22
+Litchfield,Meeker,2016,3,37.6
+Litchfield,Meeker,2016,4,44.9
+Litchfield,Meeker,2016,5,56.5
+Litchfield,Meeker,2016,6,67.3
+Litchfield,Meeker,2016,7,70.1
+Litchfield,Meeker,2016,8,69.7
+Litchfield,Meeker,2016,9,61.7
+Litchfield,Meeker,2016,10,48
+Litchfield,Meeker,2016,11,40
+Litchfield,Meeker,2016,12,15.8
+Long Prairie,Todd,2007,1,M
+Long Prairie,Todd,2007,2,M
+Long Prairie,Todd,2007,3,M
+Long Prairie,Todd,2007,4,M
+Long Prairie,Todd,2007,5,M
+Long Prairie,Todd,2007,6,M
+Long Prairie,Todd,2007,7,69
+Long Prairie,Todd,2007,8,64.6
+Long Prairie,Todd,2007,9,58.7
+Long Prairie,Todd,2007,10,48.1
+Long Prairie,Todd,2007,11,30.3
+Long Prairie,Todd,2007,12,9.5
+Long Prairie,Todd,2008,1,6.5
+Long Prairie,Todd,2008,2,8.7
+Long Prairie,Todd,2008,3,21.3
+Long Prairie,Todd,2008,4,37.8
+Long Prairie,Todd,2008,5,49.4
+Long Prairie,Todd,2008,6,60.9
+Long Prairie,Todd,2008,7,66
+Long Prairie,Todd,2008,8,65.2
+Long Prairie,Todd,2008,9,56.7
+Long Prairie,Todd,2008,10,44
+Long Prairie,Todd,2008,11,30.6
+Long Prairie,Todd,2008,12,6.7
+Long Prairie,Todd,2009,1,-0.6
+Long Prairie,Todd,2009,2,12.8
+Long Prairie,Todd,2009,3,22.7
+Long Prairie,Todd,2009,4,40.3
+Long Prairie,Todd,2009,5,51.9
+Long Prairie,Todd,2009,6,59.6
+Long Prairie,Todd,2009,7,62.5
+Long Prairie,Todd,2009,8,63
+Long Prairie,Todd,2009,9,61.6
+Long Prairie,Todd,2009,10,38.4
+Long Prairie,Todd,2009,11,37.2
+Long Prairie,Todd,2009,12,12
+Long Prairie,Todd,2010,1,7.5
+Long Prairie,Todd,2010,2,12.1
+Long Prairie,Todd,2010,3,34.5
+Long Prairie,Todd,2010,4,48.5
+Long Prairie,Todd,2010,5,53.9
+Long Prairie,Todd,2010,6,62.2
+Long Prairie,Todd,2010,7,68.4
+Long Prairie,Todd,2010,8,68.7
+Long Prairie,Todd,2010,9,53.5
+Long Prairie,Todd,2010,10,48.2
+Long Prairie,Todd,2010,11,29.4
+Long Prairie,Todd,2010,12,11
+Long Prairie,Todd,2011,1,4
+Long Prairie,Todd,2011,2,11.7
+Long Prairie,Todd,2011,3,20.1
+Long Prairie,Todd,2011,4,40
+Long Prairie,Todd,2011,5,51.7
+Long Prairie,Todd,2011,6,61.1
+Long Prairie,Todd,2011,7,71.1
+Long Prairie,Todd,2011,8,66.3
+Long Prairie,Todd,2011,9,55.7
+Long Prairie,Todd,2011,10,48.7
+Long Prairie,Todd,2011,11,31.9
+Long Prairie,Todd,2011,12,23
+Long Prairie,Todd,2012,1,17.6
+Long Prairie,Todd,2012,2,20.5
+Long Prairie,Todd,2012,3,39.4
+Long Prairie,Todd,2012,4,43.6
+Long Prairie,Todd,2012,5,56.3
+Long Prairie,Todd,2012,6,64.4
+Long Prairie,Todd,2012,7,72.7
+Long Prairie,Todd,2012,8,64.7
+Long Prairie,Todd,2012,9,56.5
+Long Prairie,Todd,2012,10,42
+Long Prairie,Todd,2012,11,29.8
+Long Prairie,Todd,2012,12,15.1
+Long Prairie,Todd,2013,1,10
+Long Prairie,Todd,2013,2,11.3
+Long Prairie,Todd,2013,3,18.1
+Long Prairie,Todd,2013,4,31.1
+Long Prairie,Todd,2013,5,52
+Long Prairie,Todd,2013,6,62
+Long Prairie,Todd,2013,7,67.6
+Long Prairie,Todd,2013,8,66.7
+Long Prairie,Todd,2013,9,60.8
+Long Prairie,Todd,2013,10,43.6
+Long Prairie,Todd,2013,11,26.3
+Long Prairie,Todd,2013,12,4.3
+Long Prairie,Todd,2014,1,1.3
+Long Prairie,Todd,2014,2,2.6
+Long Prairie,Todd,2014,3,17.8
+Long Prairie,Todd,2014,4,36.5
+Long Prairie,Todd,2014,5,52.6
+Long Prairie,Todd,2014,6,63.6
+Long Prairie,Todd,2014,7,64.5
+Long Prairie,Todd,2014,8,65.9
+Long Prairie,Todd,2014,9,57
+Long Prairie,Todd,2014,10,44.9
+Long Prairie,Todd,2014,11,19.5
+Long Prairie,Todd,2014,12,19.4
+Long Prairie,Todd,2015,1,13.7
+Long Prairie,Todd,2015,2,5
+Long Prairie,Todd,2015,3,28.5
+Long Prairie,Todd,2015,4,42.9
+Long Prairie,Todd,2015,5,52.9
+Long Prairie,Todd,2015,6,62.8
+Long Prairie,Todd,2015,7,67.8
+Long Prairie,Todd,2015,8,64.5
+Long Prairie,Todd,2015,9,63.4
+Long Prairie,Todd,2015,10,47
+Long Prairie,Todd,2015,11,36.7
+Long Prairie,Todd,2015,12,23.9
+Long Prairie,Todd,2016,1,11.6
+Long Prairie,Todd,2016,2,19.3
+Long Prairie,Todd,2016,3,35
+Long Prairie,Todd,2016,4,41.1
+Long Prairie,Todd,2016,5,54.5
+Long Prairie,Todd,2016,6,63.7
+Long Prairie,Todd,2016,7,66.7
+Long Prairie,Todd,2016,8,66.6
+Long Prairie,Todd,2016,9,58.9
+Long Prairie,Todd,2016,10,46
+Long Prairie,Todd,2016,11,39
+Long Prairie,Todd,2016,12,14.3
+Madison,Lac qui Parle,2007,1,18.1
+Madison,Lac qui Parle,2007,2,11.3
+Madison,Lac qui Parle,2007,3,35
+Madison,Lac qui Parle,2007,4,43.2
+Madison,Lac qui Parle,2007,5,63.4
+Madison,Lac qui Parle,2007,6,70.5
+Madison,Lac qui Parle,2007,7,73.8
+Madison,Lac qui Parle,2007,8,68.1
+Madison,Lac qui Parle,2007,9,62.2
+Madison,Lac qui Parle,2007,10,52
+Madison,Lac qui Parle,2007,11,33.3
+Madison,Lac qui Parle,2007,12,14.4
+Madison,Lac qui Parle,2008,1,11.5
+Madison,Lac qui Parle,2008,2,14.4
+Madison,Lac qui Parle,2008,3,26.3
+Madison,Lac qui Parle,2008,4,41.9
+Madison,Lac qui Parle,2008,5,55.9
+Madison,Lac qui Parle,2008,6,66.7
+Madison,Lac qui Parle,2008,7,73
+Madison,Lac qui Parle,2008,8,70.6
+Madison,Lac qui Parle,2008,9,61.9
+Madison,Lac qui Parle,2008,10,47.8
+Madison,Lac qui Parle,2008,11,33.7
+Madison,Lac qui Parle,2008,12,9.1
+Madison,Lac qui Parle,2009,1,6.8
+Madison,Lac qui Parle,2009,2,16.1
+Madison,Lac qui Parle,2009,3,28.4
+Madison,Lac qui Parle,2009,4,44
+Madison,Lac qui Parle,2009,5,58.1
+Madison,Lac qui Parle,2009,6,65.9
+Madison,Lac qui Parle,2009,7,67.5
+Madison,Lac qui Parle,2009,8,67.3
+Madison,Lac qui Parle,2009,9,63.5
+Madison,Lac qui Parle,2009,10,41.5
+Madison,Lac qui Parle,2009,11,40.4
+Madison,Lac qui Parle,2009,12,12.9
+Madison,Lac qui Parle,2010,1,9.4
+Madison,Lac qui Parle,2010,2,10.7
+Madison,Lac qui Parle,2010,3,35.4
+Madison,Lac qui Parle,2010,4,52.7
+Madison,Lac qui Parle,2010,5,58.4
+Madison,Lac qui Parle,2010,6,67.9
+Madison,Lac qui Parle,2010,7,73.1
+Madison,Lac qui Parle,2010,8,72.5
+Madison,Lac qui Parle,2010,9,58.5
+Madison,Lac qui Parle,2010,10,51.3
+Madison,Lac qui Parle,2010,11,32.7
+Madison,Lac qui Parle,2010,12,11.7
+Madison,Lac qui Parle,2011,1,5.7
+Madison,Lac qui Parle,2011,2,13.2
+Madison,Lac qui Parle,2011,3,21.7
+Madison,Lac qui Parle,2011,4,43.9
+Madison,Lac qui Parle,2011,5,56.4
+Madison,Lac qui Parle,2011,6,67.4
+Madison,Lac qui Parle,2011,7,77
+Madison,Lac qui Parle,2011,8,70.7
+Madison,Lac qui Parle,2011,9,60.8
+Madison,Lac qui Parle,2011,10,51.9
+Madison,Lac qui Parle,2011,11,34.3
+Madison,Lac qui Parle,2011,12,26
+Madison,Lac qui Parle,2012,1,22.4
+Madison,Lac qui Parle,2012,2,25
+Madison,Lac qui Parle,2012,3,43.3
+Madison,Lac qui Parle,2012,4,49.4
+Madison,Lac qui Parle,2012,5,62.1
+Madison,Lac qui Parle,2012,6,70.9
+Madison,Lac qui Parle,2012,7,77.6
+Madison,Lac qui Parle,2012,8,69.3
+Madison,Lac qui Parle,2012,9,60.1
+Madison,Lac qui Parle,2012,10,44.6
+Madison,Lac qui Parle,2012,11,34
+Madison,Lac qui Parle,2012,12,16.8
+Madison,Lac qui Parle,2013,1,13.9
+Madison,Lac qui Parle,2013,2,12.6
+Madison,Lac qui Parle,2013,3,19.4
+Madison,Lac qui Parle,2013,4,34.7
+Madison,Lac qui Parle,2013,5,56.1
+Madison,Lac qui Parle,2013,6,67.2
+Madison,Lac qui Parle,2013,7,72.6
+Madison,Lac qui Parle,2013,8,70.4
+Madison,Lac qui Parle,2013,9,65.7
+Madison,Lac qui Parle,2013,10,46.6
+Madison,Lac qui Parle,2013,11,30
+Madison,Lac qui Parle,2013,12,9.4
+Madison,Lac qui Parle,2014,1,7.6
+Madison,Lac qui Parle,2014,2,7.8
+Madison,Lac qui Parle,2014,3,25.1
+Madison,Lac qui Parle,2014,4,41.1
+Madison,Lac qui Parle,2014,5,57.3
+Madison,Lac qui Parle,2014,6,68.7
+Madison,Lac qui Parle,2014,7,69.6
+Madison,Lac qui Parle,2014,8,69.7
+Madison,Lac qui Parle,2014,9,61.2
+Madison,Lac qui Parle,2014,10,48.9
+Madison,Lac qui Parle,2014,11,22.8
+Madison,Lac qui Parle,2014,12,21.7
+Madison,Lac qui Parle,2015,1,18.3
+Madison,Lac qui Parle,2015,2,9.3
+Madison,Lac qui Parle,2015,3,34
+Madison,Lac qui Parle,2015,4,47.6
+Madison,Lac qui Parle,2015,5,57.2
+Madison,Lac qui Parle,2015,6,69.4
+Madison,Lac qui Parle,2015,7,71.6
+Madison,Lac qui Parle,2015,8,68.1
+Madison,Lac qui Parle,2015,9,67.5
+Madison,Lac qui Parle,2015,10,52.1
+Madison,Lac qui Parle,2015,11,40.9
+Madison,Lac qui Parle,2015,12,25.1
+Madison,Lac qui Parle,2016,1,14.8
+Madison,Lac qui Parle,2016,2,24.4
+Madison,Lac qui Parle,2016,3,40
+Madison,Lac qui Parle,2016,4,46.9
+Madison,Lac qui Parle,2016,5,60.4
+Madison,Lac qui Parle,2016,6,72
+Madison,Lac qui Parle,2016,7,72.4
+Madison,Lac qui Parle,2016,8,70.2
+Madison,Lac qui Parle,2016,9,62.7
+Madison,Lac qui Parle,2016,10,49.6
+Madison,Lac qui Parle,2016,11,41.6
+Madison,Lac qui Parle,2016,12,16.4
+Mankato,Blue Earth,2007,1,M
+Mankato,Blue Earth,2007,2,M
+Mankato,Blue Earth,2007,3,M
+Mankato,Blue Earth,2007,4,M
+Mankato,Blue Earth,2007,5,M
+Mankato,Blue Earth,2007,6,M
+Mankato,Blue Earth,2007,7,M
+Mankato,Blue Earth,2007,8,M
+Mankato,Blue Earth,2007,9,M
+Mankato,Blue Earth,2007,10,M
+Mankato,Blue Earth,2007,11,M
+Mankato,Blue Earth,2007,12,M
+Mankato,Blue Earth,2008,1,M
+Mankato,Blue Earth,2008,2,M
+Mankato,Blue Earth,2008,3,M
+Mankato,Blue Earth,2008,4,M
+Mankato,Blue Earth,2008,5,M
+Mankato,Blue Earth,2008,6,M
+Mankato,Blue Earth,2008,7,M
+Mankato,Blue Earth,2008,8,M
+Mankato,Blue Earth,2008,9,M
+Mankato,Blue Earth,2008,10,M
+Mankato,Blue Earth,2008,11,M
+Mankato,Blue Earth,2008,12,M
+Mankato,Blue Earth,2009,1,M
+Mankato,Blue Earth,2009,2,M
+Mankato,Blue Earth,2009,3,M
+Mankato,Blue Earth,2009,4,M
+Mankato,Blue Earth,2009,5,M
+Mankato,Blue Earth,2009,6,M
+Mankato,Blue Earth,2009,7,M
+Mankato,Blue Earth,2009,8,67.7
+Mankato,Blue Earth,2009,9,64.2
+Mankato,Blue Earth,2009,10,42.6
+Mankato,Blue Earth,2009,11,42.2
+Mankato,Blue Earth,2009,12,16
+Mankato,Blue Earth,2010,1,9.4
+Mankato,Blue Earth,2010,2,13.9
+Mankato,Blue Earth,2010,3,37.8
+Mankato,Blue Earth,2010,4,54.1
+Mankato,Blue Earth,2010,5,60
+Mankato,Blue Earth,2010,6,68
+Mankato,Blue Earth,2010,7,73.6
+Mankato,Blue Earth,2010,8,74.2
+Mankato,Blue Earth,2010,9,59.8
+Mankato,Blue Earth,2010,10,53.2
+Mankato,Blue Earth,2010,11,34
+Mankato,Blue Earth,2010,12,14.9
+Mankato,Blue Earth,2011,1,10
+Mankato,Blue Earth,2011,2,16.9
+Mankato,Blue Earth,2011,3,28.4
+Mankato,Blue Earth,2011,4,45.2
+Mankato,Blue Earth,2011,5,57.8
+Mankato,Blue Earth,2011,6,69.2
+Mankato,Blue Earth,2011,7,76.7
+Mankato,Blue Earth,2011,8,70.6
+Mankato,Blue Earth,2011,9,60.1
+Mankato,Blue Earth,2011,10,51.2
+Mankato,Blue Earth,2011,11,37.9
+Mankato,Blue Earth,2011,12,27.5
+Mankato,Blue Earth,2012,1,23.8
+Mankato,Blue Earth,2012,2,27.3
+Mankato,Blue Earth,2012,3,48.3
+Mankato,Blue Earth,2012,4,50.3
+Mankato,Blue Earth,2012,5,63.3
+Mankato,Blue Earth,2012,6,71.2
+Mankato,Blue Earth,2012,7,78.2
+Mankato,Blue Earth,2012,8,70
+Mankato,Blue Earth,2012,9,62.6
+Mankato,Blue Earth,2012,10,46.5
+Mankato,Blue Earth,2012,11,37.4
+Mankato,Blue Earth,2012,12,21.7
+Mankato,Blue Earth,2013,1,17.7
+Mankato,Blue Earth,2013,2,17.7
+Mankato,Blue Earth,2013,3,M
+Mankato,Blue Earth,2013,4,M
+Mankato,Blue Earth,2013,5,56.9
+Mankato,Blue Earth,2013,6,67.7
+Mankato,Blue Earth,2013,7,72.2
+Mankato,Blue Earth,2013,8,70.4
+Mankato,Blue Earth,2013,9,65.5
+Mankato,Blue Earth,2013,10,48.7
+Mankato,Blue Earth,2013,11,32.3
+Mankato,Blue Earth,2013,12,12.6
+Mankato,Blue Earth,2014,1,8.6
+Mankato,Blue Earth,2014,2,8.9
+Mankato,Blue Earth,2014,3,26.3
+Mankato,Blue Earth,2014,4,43.5
+Mankato,Blue Earth,2014,5,58
+Mankato,Blue Earth,2014,6,68.9
+Mankato,Blue Earth,2014,7,69.3
+Mankato,Blue Earth,2014,8,71.3
+Mankato,Blue Earth,2014,9,61.3
+Mankato,Blue Earth,2014,10,49.2
+Mankato,Blue Earth,2014,11,25.4
+Mankato,Blue Earth,2014,12,24.4
+Mankato,Blue Earth,2015,1,19.6
+Mankato,Blue Earth,2015,2,11.7
+Mankato,Blue Earth,2015,3,35.5
+Mankato,Blue Earth,2015,4,49.3
+Mankato,Blue Earth,2015,5,58.4
+Mankato,Blue Earth,2015,6,69
+Mankato,Blue Earth,2015,7,71
+Mankato,Blue Earth,2015,8,68.1
+Mankato,Blue Earth,2015,9,67.1
+Mankato,Blue Earth,2015,10,52.2
+Mankato,Blue Earth,2015,11,40.7
+Mankato,Blue Earth,2015,12,29
+Mankato,Blue Earth,2016,1,16.6
+Mankato,Blue Earth,2016,2,24.7
+Mankato,Blue Earth,2016,3,40.2
+Mankato,Blue Earth,2016,4,49
+Mankato,Blue Earth,2016,5,60.3
+Mankato,Blue Earth,2016,6,70.5
+Mankato,Blue Earth,2016,7,72.4
+Mankato,Blue Earth,2016,8,70.8
+Mankato,Blue Earth,2016,9,64.8
+Mankato,Blue Earth,2016,10,52
+Mankato,Blue Earth,2016,11,43
+Mankato,Blue Earth,2016,12,19.4
+Milaca,Mille Lacs,2007,1,M
+Milaca,Mille Lacs,2007,2,M
+Milaca,Mille Lacs,2007,3,M
+Milaca,Mille Lacs,2007,4,M
+Milaca,Mille Lacs,2007,5,M
+Milaca,Mille Lacs,2007,6,M
+Milaca,Mille Lacs,2007,7,M
+Milaca,Mille Lacs,2007,8,M
+Milaca,Mille Lacs,2007,9,M
+Milaca,Mille Lacs,2007,10,M
+Milaca,Mille Lacs,2007,11,31.6
+Milaca,Mille Lacs,2007,12,M
+Milaca,Mille Lacs,2008,1,M
+Milaca,Mille Lacs,2008,2,9.7
+Milaca,Mille Lacs,2008,3,22.9
+Milaca,Mille Lacs,2008,4,38.2
+Milaca,Mille Lacs,2008,5,52.3
+Milaca,Mille Lacs,2008,6,63.6
+Milaca,Mille Lacs,2008,7,69.3
+Milaca,Mille Lacs,2008,8,67.1
+Milaca,Mille Lacs,2008,9,58.8
+Milaca,Mille Lacs,2008,10,46.1
+Milaca,Mille Lacs,2008,11,32.4
+Milaca,Mille Lacs,2008,12,8.5
+Milaca,Mille Lacs,2009,1,-0.3
+Milaca,Mille Lacs,2009,2,14.8
+Milaca,Mille Lacs,2009,3,25.9
+Milaca,Mille Lacs,2009,4,42.6
+Milaca,Mille Lacs,2009,5,54.5
+Milaca,Mille Lacs,2009,6,63
+Milaca,Mille Lacs,2009,7,64.8
+Milaca,Mille Lacs,2009,8,64.8
+Milaca,Mille Lacs,2009,9,63
+Milaca,Mille Lacs,2009,10,40
+Milaca,Mille Lacs,2009,11,38.5
+Milaca,Mille Lacs,2009,12,13.8
+Milaca,Mille Lacs,2010,1,9.6
+Milaca,Mille Lacs,2010,2,14.9
+Milaca,Mille Lacs,2010,3,36.3
+Milaca,Mille Lacs,2010,4,50.2
+Milaca,Mille Lacs,2010,5,56.1
+Milaca,Mille Lacs,2010,6,64.1
+Milaca,Mille Lacs,2010,7,70.4
+Milaca,Mille Lacs,2010,8,70.6
+Milaca,Mille Lacs,2010,9,55.4
+Milaca,Mille Lacs,2010,10,48.9
+Milaca,Mille Lacs,2010,11,31.3
+Milaca,Mille Lacs,2010,12,12.1
+Milaca,Mille Lacs,2011,1,6.4
+Milaca,Mille Lacs,2011,2,12.6
+Milaca,Mille Lacs,2011,3,22.4
+Milaca,Mille Lacs,2011,4,41.3
+Milaca,Mille Lacs,2011,5,54.1
+Milaca,Mille Lacs,2011,6,63.1
+Milaca,Mille Lacs,2011,7,M
+Milaca,Mille Lacs,2011,8,68.4
+Milaca,Mille Lacs,2011,9,57.9
+Milaca,Mille Lacs,2011,10,50.3
+Milaca,Mille Lacs,2011,11,33.9
+Milaca,Mille Lacs,2011,12,23.4
+Milaca,Mille Lacs,2012,1,18.3
+Milaca,Mille Lacs,2012,2,23.1
+Milaca,Mille Lacs,2012,3,40.8
+Milaca,Mille Lacs,2012,4,45.7
+Milaca,Mille Lacs,2012,5,58.2
+Milaca,Mille Lacs,2012,6,66.4
+Milaca,Mille Lacs,2012,7,74.6
+Milaca,Mille Lacs,2012,8,66.5
+Milaca,Mille Lacs,2012,9,57.9
+Milaca,Mille Lacs,2012,10,43.8
+Milaca,Mille Lacs,2012,11,31.9
+Milaca,Mille Lacs,2012,12,18.7
+Milaca,Mille Lacs,2013,1,11.1
+Milaca,Mille Lacs,2013,2,12.9
+Milaca,Mille Lacs,2013,3,20.6
+Milaca,Mille Lacs,2013,4,34.8
+Milaca,Mille Lacs,2013,5,54.2
+Milaca,Mille Lacs,2013,6,64.5
+Milaca,Mille Lacs,2013,7,69.8
+Milaca,Mille Lacs,2013,8,69
+Milaca,Mille Lacs,2013,9,62
+Milaca,Mille Lacs,2013,10,45.6
+Milaca,Mille Lacs,2013,11,28.2
+Milaca,Mille Lacs,2013,12,5.8
+Milaca,Mille Lacs,2014,1,1.6
+Milaca,Mille Lacs,2014,2,2.4
+Milaca,Mille Lacs,2014,3,19.2
+Milaca,Mille Lacs,2014,4,37.8
+Milaca,Mille Lacs,2014,5,54.7
+Milaca,Mille Lacs,2014,6,65.8
+Milaca,Mille Lacs,2014,7,67
+Milaca,Mille Lacs,2014,8,68.1
+Milaca,Mille Lacs,2014,9,58.3
+Milaca,Mille Lacs,2014,10,45.8
+Milaca,Mille Lacs,2014,11,20.8
+Milaca,Mille Lacs,2014,12,21.5
+Milaca,Mille Lacs,2015,1,14.6
+Milaca,Mille Lacs,2015,2,6.7
+Milaca,Mille Lacs,2015,3,29.8
+Milaca,Mille Lacs,2015,4,45.4
+Milaca,Mille Lacs,2015,5,54.9
+Milaca,Mille Lacs,2015,6,65.4
+Milaca,Mille Lacs,2015,7,69.6
+Milaca,Mille Lacs,2015,8,66.7
+Milaca,Mille Lacs,2015,9,64.2
+Milaca,Mille Lacs,2015,10,47.6
+Milaca,Mille Lacs,2015,11,37.9
+Milaca,Mille Lacs,2015,12,26.4
+Milaca,Mille Lacs,2016,1,12.9
+Milaca,Mille Lacs,2016,2,20.2
+Milaca,Mille Lacs,2016,3,36.2
+Milaca,Mille Lacs,2016,4,42.8
+Milaca,Mille Lacs,2016,5,56.6
+Milaca,Mille Lacs,2016,6,66.1
+Milaca,Mille Lacs,2016,7,70.2
+Milaca,Mille Lacs,2016,8,68.6
+Milaca,Mille Lacs,2016,9,60.8
+Milaca,Mille Lacs,2016,10,48.2
+Milaca,Mille Lacs,2016,11,39.9
+Milaca,Mille Lacs,2016,12,16.4
+Montevideo,Chippewa,2007,1,19.2
+Montevideo,Chippewa,2007,2,11.6
+Montevideo,Chippewa,2007,3,36.3
+Montevideo,Chippewa,2007,4,44.1
+Montevideo,Chippewa,2007,5,61.7
+Montevideo,Chippewa,2007,6,M
+Montevideo,Chippewa,2007,7,71.4
+Montevideo,Chippewa,2007,8,67.4
+Montevideo,Chippewa,2007,9,61.8
+Montevideo,Chippewa,2007,10,M
+Montevideo,Chippewa,2007,11,31.8
+Montevideo,Chippewa,2007,12,12.7
+Montevideo,Chippewa,2008,1,8.9
+Montevideo,Chippewa,2008,2,M
+Montevideo,Chippewa,2008,3,24
+Montevideo,Chippewa,2008,4,41.1
+Montevideo,Chippewa,2008,5,M
+Montevideo,Chippewa,2008,6,65.1
+Montevideo,Chippewa,2008,7,70.9
+Montevideo,Chippewa,2008,8,69
+Montevideo,Chippewa,2008,9,60.2
+Montevideo,Chippewa,2008,10,46.7
+Montevideo,Chippewa,2008,11,M
+Montevideo,Chippewa,2008,12,M
+Montevideo,Chippewa,2009,1,M
+Montevideo,Chippewa,2009,2,15.4
+Montevideo,Chippewa,2009,3,27
+Montevideo,Chippewa,2009,4,42.8
+Montevideo,Chippewa,2009,5,56.6
+Montevideo,Chippewa,2009,6,64.3
+Montevideo,Chippewa,2009,7,65.8
+Montevideo,Chippewa,2009,8,66.3
+Montevideo,Chippewa,2009,9,63.8
+Montevideo,Chippewa,2009,10,40.7
+Montevideo,Chippewa,2009,11,39.2
+Montevideo,Chippewa,2009,12,12.7
+Montevideo,Chippewa,2010,1,7.2
+Montevideo,Chippewa,2010,2,10.4
+Montevideo,Chippewa,2010,3,34.1
+Montevideo,Chippewa,2010,4,52.2
+Montevideo,Chippewa,2010,5,57.2
+Montevideo,Chippewa,2010,6,65.8
+Montevideo,Chippewa,2010,7,71.3
+Montevideo,Chippewa,2010,8,72.6
+Montevideo,Chippewa,2010,9,58.1
+Montevideo,Chippewa,2010,10,50.7
+Montevideo,Chippewa,2010,11,32.5
+Montevideo,Chippewa,2010,12,12
+Montevideo,Chippewa,2011,1,5.9
+Montevideo,Chippewa,2011,2,12.5
+Montevideo,Chippewa,2011,3,22.3
+Montevideo,Chippewa,2011,4,43.2
+Montevideo,Chippewa,2011,5,55.2
+Montevideo,Chippewa,2011,6,66.5
+Montevideo,Chippewa,2011,7,76
+Montevideo,Chippewa,2011,8,69.9
+Montevideo,Chippewa,2011,9,59.5
+Montevideo,Chippewa,2011,10,51.7
+Montevideo,Chippewa,2011,11,34
+Montevideo,Chippewa,2011,12,25.3
+Montevideo,Chippewa,2012,1,20.7
+Montevideo,Chippewa,2012,2,24
+Montevideo,Chippewa,2012,3,42.6
+Montevideo,Chippewa,2012,4,48.2
+Montevideo,Chippewa,2012,5,61.7
+Montevideo,Chippewa,2012,6,69.7
+Montevideo,Chippewa,2012,7,77
+Montevideo,Chippewa,2012,8,68.1
+Montevideo,Chippewa,2012,9,58.9
+Montevideo,Chippewa,2012,10,43.5
+Montevideo,Chippewa,2012,11,33
+Montevideo,Chippewa,2012,12,16.6
+Montevideo,Chippewa,2013,1,13.2
+Montevideo,Chippewa,2013,2,12.9
+Montevideo,Chippewa,2013,3,20.5
+Montevideo,Chippewa,2013,4,34.2
+Montevideo,Chippewa,2013,5,54.6
+Montevideo,Chippewa,2013,6,65.7
+Montevideo,Chippewa,2013,7,71.3
+Montevideo,Chippewa,2013,8,69.3
+Montevideo,Chippewa,2013,9,63.8
+Montevideo,Chippewa,2013,10,45.9
+Montevideo,Chippewa,2013,11,29.3
+Montevideo,Chippewa,2013,12,9.2
+Montevideo,Chippewa,2014,1,7
+Montevideo,Chippewa,2014,2,6.6
+Montevideo,Chippewa,2014,3,23.7
+Montevideo,Chippewa,2014,4,39.9
+Montevideo,Chippewa,2014,5,56.2
+Montevideo,Chippewa,2014,6,67.7
+Montevideo,Chippewa,2014,7,68.6
+Montevideo,Chippewa,2014,8,69
+Montevideo,Chippewa,2014,9,60.7
+Montevideo,Chippewa,2014,10,48.6
+Montevideo,Chippewa,2014,11,21.8
+Montevideo,Chippewa,2014,12,21.5
+Montevideo,Chippewa,2015,1,17.4
+Montevideo,Chippewa,2015,2,8.5
+Montevideo,Chippewa,2015,3,32.5
+Montevideo,Chippewa,2015,4,46.3
+Montevideo,Chippewa,2015,5,56.1
+Montevideo,Chippewa,2015,6,67.7
+Montevideo,Chippewa,2015,7,71
+Montevideo,Chippewa,2015,8,67.1
+Montevideo,Chippewa,2015,9,66.2
+Montevideo,Chippewa,2015,10,50.4
+Montevideo,Chippewa,2015,11,39
+Montevideo,Chippewa,2015,12,24.7
+Montevideo,Chippewa,2016,1,14.3
+Montevideo,Chippewa,2016,2,22.6
+Montevideo,Chippewa,2016,3,38.3
+Montevideo,Chippewa,2016,4,46.3
+Montevideo,Chippewa,2016,5,58.5
+Montevideo,Chippewa,2016,6,68.7
+Montevideo,Chippewa,2016,7,70.5
+Montevideo,Chippewa,2016,8,69.6
+Montevideo,Chippewa,2016,9,62.2
+Montevideo,Chippewa,2016,10,49.4
+Montevideo,Chippewa,2016,11,40.7
+Montevideo,Chippewa,2016,12,16.1
+Mora,Kanabec,2007,1,15.2
+Mora,Kanabec,2007,2,8.8
+Mora,Kanabec,2007,3,31.8
+Mora,Kanabec,2007,4,42.3
+Mora,Kanabec,2007,5,58.9
+Mora,Kanabec,2007,6,67.3
+Mora,Kanabec,2007,7,70.9
+Mora,Kanabec,2007,8,66.6
+Mora,Kanabec,2007,9,58.9
+Mora,Kanabec,2007,10,50.5
+Mora,Kanabec,2007,11,31.8
+Mora,Kanabec,2007,12,12.3
+Mora,Kanabec,2008,1,8.9
+Mora,Kanabec,2008,2,9.1
+Mora,Kanabec,2008,3,23.1
+Mora,Kanabec,2008,4,40.1
+Mora,Kanabec,2008,5,51.8
+Mora,Kanabec,2008,6,63.1
+Mora,Kanabec,2008,7,70.9
+Mora,Kanabec,2008,8,66.5
+Mora,Kanabec,2008,9,58.8
+Mora,Kanabec,2008,10,46.6
+Mora,Kanabec,2008,11,32.4
+Mora,Kanabec,2008,12,8.3
+Mora,Kanabec,2009,1,-0.1
+Mora,Kanabec,2009,2,16.1
+Mora,Kanabec,2009,3,26.6
+Mora,Kanabec,2009,4,42.7
+Mora,Kanabec,2009,5,54.5
+Mora,Kanabec,2009,6,63.3
+Mora,Kanabec,2009,7,64
+Mora,Kanabec,2009,8,64.2
+Mora,Kanabec,2009,9,62.8
+Mora,Kanabec,2009,10,40.1
+Mora,Kanabec,2009,11,38.2
+Mora,Kanabec,2009,12,14.1
+Mora,Kanabec,2010,1,9
+Mora,Kanabec,2010,2,15.5
+Mora,Kanabec,2010,3,36.5
+Mora,Kanabec,2010,4,50.1
+Mora,Kanabec,2010,5,56.5
+Mora,Kanabec,2010,6,64.3
+Mora,Kanabec,2010,7,70.4
+Mora,Kanabec,2010,8,70.4
+Mora,Kanabec,2010,9,54.9
+Mora,Kanabec,2010,10,48.7
+Mora,Kanabec,2010,11,31.9
+Mora,Kanabec,2010,12,12.4
+Mora,Kanabec,2011,1,7
+Mora,Kanabec,2011,2,14.5
+Mora,Kanabec,2011,3,23.4
+Mora,Kanabec,2011,4,41.7
+Mora,Kanabec,2011,5,54.1
+Mora,Kanabec,2011,6,62.6
+Mora,Kanabec,2011,7,73.5
+Mora,Kanabec,2011,8,68.3
+Mora,Kanabec,2011,9,57.4
+Mora,Kanabec,2011,10,50.1
+Mora,Kanabec,2011,11,34.1
+Mora,Kanabec,2011,12,23.8
+Mora,Kanabec,2012,1,18.4
+Mora,Kanabec,2012,2,24.4
+Mora,Kanabec,2012,3,41.3
+Mora,Kanabec,2012,4,45.7
+Mora,Kanabec,2012,5,58.9
+Mora,Kanabec,2012,6,66.8
+Mora,Kanabec,2012,7,74.1
+Mora,Kanabec,2012,8,66.6
+Mora,Kanabec,2012,9,57.7
+Mora,Kanabec,2012,10,43.3
+Mora,Kanabec,2012,11,32.1
+Mora,Kanabec,2012,12,18.7
+Mora,Kanabec,2013,1,12.1
+Mora,Kanabec,2013,2,13.3
+Mora,Kanabec,2013,3,21.6
+Mora,Kanabec,2013,4,35.4
+Mora,Kanabec,2013,5,53.2
+Mora,Kanabec,2013,6,63.6
+Mora,Kanabec,2013,7,69.4
+Mora,Kanabec,2013,8,68.6
+Mora,Kanabec,2013,9,61.6
+Mora,Kanabec,2013,10,45.4
+Mora,Kanabec,2013,11,28.8
+Mora,Kanabec,2013,12,5.7
+Mora,Kanabec,2014,1,1.8
+Mora,Kanabec,2014,2,2.7
+Mora,Kanabec,2014,3,19.2
+Mora,Kanabec,2014,4,37.8
+Mora,Kanabec,2014,5,54.7
+Mora,Kanabec,2014,6,65.5
+Mora,Kanabec,2014,7,67.3
+Mora,Kanabec,2014,8,67.7
+Mora,Kanabec,2014,9,58.5
+Mora,Kanabec,2014,10,45.6
+Mora,Kanabec,2014,11,22.8
+Mora,Kanabec,2014,12,22.4
+Mora,Kanabec,2015,1,14.9
+Mora,Kanabec,2015,2,6.6
+Mora,Kanabec,2015,3,30
+Mora,Kanabec,2015,4,45.3
+Mora,Kanabec,2015,5,55.1
+Mora,Kanabec,2015,6,64.8
+Mora,Kanabec,2015,7,70.4
+Mora,Kanabec,2015,8,66.5
+Mora,Kanabec,2015,9,64.6
+Mora,Kanabec,2015,10,48.2
+Mora,Kanabec,2015,11,39.1
+Mora,Kanabec,2015,12,27.2
+Mora,Kanabec,2016,1,13.4
+Mora,Kanabec,2016,2,20.2
+Mora,Kanabec,2016,3,36.9
+Mora,Kanabec,2016,4,43
+Mora,Kanabec,2016,5,56.7
+Mora,Kanabec,2016,6,66
+Mora,Kanabec,2016,7,69.9
+Mora,Kanabec,2016,8,69.3
+Mora,Kanabec,2016,9,61.4
+Mora,Kanabec,2016,10,50.2
+Mora,Kanabec,2016,11,40.1
+Mora,Kanabec,2016,12,17.8
+Morris,Stevens,2007,1,14.9
+Morris,Stevens,2007,2,6.9
+Morris,Stevens,2007,3,31.2
+Morris,Stevens,2007,4,41
+Morris,Stevens,2007,5,60.5
+Morris,Stevens,2007,6,68.8
+Morris,Stevens,2007,7,71.9
+Morris,Stevens,2007,8,66.8
+Morris,Stevens,2007,9,60.9
+Morris,Stevens,2007,10,49.4
+Morris,Stevens,2007,11,30.6
+Morris,Stevens,2007,12,9.7
+Morris,Stevens,2008,1,5.9
+Morris,Stevens,2008,2,7.9
+Morris,Stevens,2008,3,22.6
+Morris,Stevens,2008,4,39.4
+Morris,Stevens,2008,5,53.6
+Morris,Stevens,2008,6,64.3
+Morris,Stevens,2008,7,70.8
+Morris,Stevens,2008,8,68.2
+Morris,Stevens,2008,9,59.9
+Morris,Stevens,2008,10,45.6
+Morris,Stevens,2008,11,31.3
+Morris,Stevens,2008,12,6.9
+Morris,Stevens,2009,1,0.9
+Morris,Stevens,2009,2,12.2
+Morris,Stevens,2009,3,24.8
+Morris,Stevens,2009,4,41.4
+Morris,Stevens,2009,5,55.5
+Morris,Stevens,2009,6,64.5
+Morris,Stevens,2009,7,66
+Morris,Stevens,2009,8,65.1
+Morris,Stevens,2009,9,63.1
+Morris,Stevens,2009,10,39.5
+Morris,Stevens,2009,11,37.9
+Morris,Stevens,2009,12,11.9
+Morris,Stevens,2010,1,8.9
+Morris,Stevens,2010,2,9.5
+Morris,Stevens,2010,3,33
+Morris,Stevens,2010,4,50.9
+Morris,Stevens,2010,5,56.9
+Morris,Stevens,2010,6,66.2
+Morris,Stevens,2010,7,71.3
+Morris,Stevens,2010,8,71.2
+Morris,Stevens,2010,9,56.2
+Morris,Stevens,2010,10,48.8
+Morris,Stevens,2010,11,30.7
+Morris,Stevens,2010,12,10.5
+Morris,Stevens,2011,1,4
+Morris,Stevens,2011,2,10.2
+Morris,Stevens,2011,3,20.2
+Morris,Stevens,2011,4,41.4
+Morris,Stevens,2011,5,53.7
+Morris,Stevens,2011,6,65
+Morris,Stevens,2011,7,74.5
+Morris,Stevens,2011,8,68.5
+Morris,Stevens,2011,9,58.3
+Morris,Stevens,2011,10,50
+Morris,Stevens,2011,11,32.6
+Morris,Stevens,2011,12,24.2
+Morris,Stevens,2012,1,19
+Morris,Stevens,2012,2,21.6
+Morris,Stevens,2012,3,40.1
+Morris,Stevens,2012,4,46.4
+Morris,Stevens,2012,5,59.5
+Morris,Stevens,2012,6,68.2
+Morris,Stevens,2012,7,75.4
+Morris,Stevens,2012,8,66.9
+Morris,Stevens,2012,9,58.2
+Morris,Stevens,2012,10,42.9
+Morris,Stevens,2012,11,31.4
+Morris,Stevens,2012,12,15.8
+Morris,Stevens,2013,1,11.2
+Morris,Stevens,2013,2,10.4
+Morris,Stevens,2013,3,16.7
+Morris,Stevens,2013,4,32.4
+Morris,Stevens,2013,5,54.1
+Morris,Stevens,2013,6,65
+Morris,Stevens,2013,7,70.7
+Morris,Stevens,2013,8,68.4
+Morris,Stevens,2013,9,62.9
+Morris,Stevens,2013,10,45.1
+Morris,Stevens,2013,11,27.7
+Morris,Stevens,2013,12,6.6
+Morris,Stevens,2014,1,4.3
+Morris,Stevens,2014,2,3.7
+Morris,Stevens,2014,3,21.9
+Morris,Stevens,2014,4,38.7
+Morris,Stevens,2014,5,54.7
+Morris,Stevens,2014,6,66.5
+Morris,Stevens,2014,7,67.6
+Morris,Stevens,2014,8,68
+Morris,Stevens,2014,9,59.4
+Morris,Stevens,2014,10,47
+Morris,Stevens,2014,11,20.6
+Morris,Stevens,2014,12,20.2
+Morris,Stevens,2015,1,15.6
+Morris,Stevens,2015,2,6.4
+Morris,Stevens,2015,3,30.7
+Morris,Stevens,2015,4,45.8
+Morris,Stevens,2015,5,55.6
+Morris,Stevens,2015,6,67.7
+Morris,Stevens,2015,7,70.6
+Morris,Stevens,2015,8,67
+Morris,Stevens,2015,9,65.7
+Morris,Stevens,2015,10,49.4
+Morris,Stevens,2015,11,37.2
+Morris,Stevens,2015,12,22.3
+Morris,Stevens,2016,1,12.7
+Morris,Stevens,2016,2,21.3
+Morris,Stevens,2016,3,37
+Morris,Stevens,2016,4,43.4
+Morris,Stevens,2016,5,57.7
+Morris,Stevens,2016,6,67.8
+Morris,Stevens,2016,7,69.6
+Morris,Stevens,2016,8,69
+Morris,Stevens,2016,9,61.2
+Morris,Stevens,2016,10,48
+Morris,Stevens,2016,11,40
+Morris,Stevens,2016,12,14.9
+New Ulm,Brown,2007,1,M
+New Ulm,Brown,2007,2,M
+New Ulm,Brown,2007,3,M
+New Ulm,Brown,2007,4,M
+New Ulm,Brown,2007,5,M
+New Ulm,Brown,2007,6,M
+New Ulm,Brown,2007,7,M
+New Ulm,Brown,2007,8,M
+New Ulm,Brown,2007,9,M
+New Ulm,Brown,2007,10,M
+New Ulm,Brown,2007,11,M
+New Ulm,Brown,2007,12,M
+New Ulm,Brown,2008,1,M
+New Ulm,Brown,2008,2,M
+New Ulm,Brown,2008,3,M
+New Ulm,Brown,2008,4,M
+New Ulm,Brown,2008,5,M
+New Ulm,Brown,2008,6,M
+New Ulm,Brown,2008,7,M
+New Ulm,Brown,2008,8,M
+New Ulm,Brown,2008,9,M
+New Ulm,Brown,2008,10,M
+New Ulm,Brown,2008,11,M
+New Ulm,Brown,2008,12,M
+New Ulm,Brown,2009,1,M
+New Ulm,Brown,2009,2,M
+New Ulm,Brown,2009,3,M
+New Ulm,Brown,2009,4,M
+New Ulm,Brown,2009,5,M
+New Ulm,Brown,2009,6,M
+New Ulm,Brown,2009,7,M
+New Ulm,Brown,2009,8,M
+New Ulm,Brown,2009,9,M
+New Ulm,Brown,2009,10,M
+New Ulm,Brown,2009,11,M
+New Ulm,Brown,2009,12,M
+New Ulm,Brown,2010,1,M
+New Ulm,Brown,2010,2,M
+New Ulm,Brown,2010,3,M
+New Ulm,Brown,2010,4,M
+New Ulm,Brown,2010,5,M
+New Ulm,Brown,2010,6,M
+New Ulm,Brown,2010,7,M
+New Ulm,Brown,2010,8,M
+New Ulm,Brown,2010,9,M
+New Ulm,Brown,2010,10,M
+New Ulm,Brown,2010,11,31.5
+New Ulm,Brown,2010,12,12.7
+New Ulm,Brown,2011,1,7.4
+New Ulm,Brown,2011,2,13.8
+New Ulm,Brown,2011,3,24.8
+New Ulm,Brown,2011,4,43.3
+New Ulm,Brown,2011,5,55.9
+New Ulm,Brown,2011,6,66.8
+New Ulm,Brown,2011,7,75.2
+New Ulm,Brown,2011,8,69.1
+New Ulm,Brown,2011,9,58.4
+New Ulm,Brown,2011,10,51.8
+New Ulm,Brown,2011,11,36
+New Ulm,Brown,2011,12,24.9
+New Ulm,Brown,2012,1,21.9
+New Ulm,Brown,2012,2,25.1
+New Ulm,Brown,2012,3,46.1
+New Ulm,Brown,2012,4,48.2
+New Ulm,Brown,2012,5,61.7
+New Ulm,Brown,2012,6,69.1
+New Ulm,Brown,2012,7,76.8
+New Ulm,Brown,2012,8,68.7
+New Ulm,Brown,2012,9,59.9
+New Ulm,Brown,2012,10,45.1
+New Ulm,Brown,2012,11,35.2
+New Ulm,Brown,2012,12,19.4
+New Ulm,Brown,2013,1,15.7
+New Ulm,Brown,2013,2,15.5
+New Ulm,Brown,2013,3,23.5
+New Ulm,Brown,2013,4,36.6
+New Ulm,Brown,2013,5,55.1
+New Ulm,Brown,2013,6,66.3
+New Ulm,Brown,2013,7,70.9
+New Ulm,Brown,2013,8,69.3
+New Ulm,Brown,2013,9,64.5
+New Ulm,Brown,2013,10,47.6
+New Ulm,Brown,2013,11,30.7
+New Ulm,Brown,2013,12,11.2
+New Ulm,Brown,2014,1,7.5
+New Ulm,Brown,2014,2,7.1
+New Ulm,Brown,2014,3,23.5
+New Ulm,Brown,2014,4,42.2
+New Ulm,Brown,2014,5,55.7
+New Ulm,Brown,2014,6,67.5
+New Ulm,Brown,2014,7,67.9
+New Ulm,Brown,2014,8,69.5
+New Ulm,Brown,2014,9,60
+New Ulm,Brown,2014,10,48
+New Ulm,Brown,2014,11,23.9
+New Ulm,Brown,2014,12,22.2
+New Ulm,Brown,2015,1,16.8
+New Ulm,Brown,2015,2,9.8
+New Ulm,Brown,2015,3,33.3
+New Ulm,Brown,2015,4,47.5
+New Ulm,Brown,2015,5,56.4
+New Ulm,Brown,2015,6,67.2
+New Ulm,Brown,2015,7,69.8
+New Ulm,Brown,2015,8,67
+New Ulm,Brown,2015,9,66
+New Ulm,Brown,2015,10,50.1
+New Ulm,Brown,2015,11,39.6
+New Ulm,Brown,2015,12,27.1
+New Ulm,Brown,2016,1,14.7
+New Ulm,Brown,2016,2,23.3
+New Ulm,Brown,2016,3,38.4
+New Ulm,Brown,2016,4,47.5
+New Ulm,Brown,2016,5,57.4
+New Ulm,Brown,2016,6,69
+New Ulm,Brown,2016,7,70.9
+New Ulm,Brown,2016,8,69.8
+New Ulm,Brown,2016,9,63.7
+New Ulm,Brown,2016,10,50.5
+New Ulm,Brown,2016,11,41.9
+New Ulm,Brown,2016,12,17.6
+Owatonna,Steele,2007,1,18.5
+Owatonna,Steele,2007,2,9.4
+Owatonna,Steele,2007,3,35.2
+Owatonna,Steele,2007,4,44.8
+Owatonna,Steele,2007,5,62.3
+Owatonna,Steele,2007,6,69.9
+Owatonna,Steele,2007,7,72.2
+Owatonna,Steele,2007,8,70.7
+Owatonna,Steele,2007,9,63.5
+Owatonna,Steele,2007,10,53.5
+Owatonna,Steele,2007,11,33.6
+Owatonna,Steele,2007,12,15.2
+Owatonna,Steele,2008,1,9.8
+Owatonna,Steele,2008,2,12.5
+Owatonna,Steele,2008,3,26.9
+Owatonna,Steele,2008,4,41.9
+Owatonna,Steele,2008,5,55.2
+Owatonna,Steele,2008,6,66.6
+Owatonna,Steele,2008,7,72.6
+Owatonna,Steele,2008,8,69.3
+Owatonna,Steele,2008,9,63.1
+Owatonna,Steele,2008,10,48.8
+Owatonna,Steele,2008,11,34.8
+Owatonna,Steele,2008,12,12.5
+Owatonna,Steele,2009,1,6.8
+Owatonna,Steele,2009,2,19.1
+Owatonna,Steele,2009,3,30.6
+Owatonna,Steele,2009,4,45.2
+Owatonna,Steele,2009,5,57
+Owatonna,Steele,2009,6,65.4
+Owatonna,Steele,2009,7,66.5
+Owatonna,Steele,2009,8,66.7
+Owatonna,Steele,2009,9,64.3
+Owatonna,Steele,2009,10,42
+Owatonna,Steele,2009,11,40.9
+Owatonna,Steele,2009,12,15.8
+Owatonna,Steele,2010,1,7.1
+Owatonna,Steele,2010,2,12.9
+Owatonna,Steele,2010,3,35.6
+Owatonna,Steele,2010,4,53
+Owatonna,Steele,2010,5,58.4
+Owatonna,Steele,2010,6,66.9
+Owatonna,Steele,2010,7,73.3
+Owatonna,Steele,2010,8,73.8
+Owatonna,Steele,2010,9,59
+Owatonna,Steele,2010,10,51.7
+Owatonna,Steele,2010,11,33.6
+Owatonna,Steele,2010,12,13.6
+Owatonna,Steele,2011,1,9.2
+Owatonna,Steele,2011,2,16.1
+Owatonna,Steele,2011,3,27
+Owatonna,Steele,2011,4,43.5
+Owatonna,Steele,2011,5,56.4
+Owatonna,Steele,2011,6,67.8
+Owatonna,Steele,2011,7,76.5
+Owatonna,Steele,2011,8,70.6
+Owatonna,Steele,2011,9,59.6
+Owatonna,Steele,2011,10,52.3
+Owatonna,Steele,2011,11,37.5
+Owatonna,Steele,2011,12,25.1
+Owatonna,Steele,2012,1,21.7
+Owatonna,Steele,2012,2,26.6
+Owatonna,Steele,2012,3,47.1
+Owatonna,Steele,2012,4,48.1
+Owatonna,Steele,2012,5,62.8
+Owatonna,Steele,2012,6,70.4
+Owatonna,Steele,2012,7,77.7
+Owatonna,Steele,2012,8,69.6
+Owatonna,Steele,2012,9,61.3
+Owatonna,Steele,2012,10,45.8
+Owatonna,Steele,2012,11,35.7
+Owatonna,Steele,2012,12,22.5
+Owatonna,Steele,2013,1,15.7
+Owatonna,Steele,2013,2,15.9
+Owatonna,Steele,2013,3,23.2
+Owatonna,Steele,2013,4,38
+Owatonna,Steele,2013,5,55.2
+Owatonna,Steele,2013,6,67.3
+Owatonna,Steele,2013,7,71.8
+Owatonna,Steele,2013,8,70.5
+Owatonna,Steele,2013,9,64.9
+Owatonna,Steele,2013,10,48.1
+Owatonna,Steele,2013,11,31.2
+Owatonna,Steele,2013,12,12.8
+Owatonna,Steele,2014,1,3.6
+Owatonna,Steele,2014,2,6.2
+Owatonna,Steele,2014,3,22.5
+Owatonna,Steele,2014,4,42.2
+Owatonna,Steele,2014,5,56.7
+Owatonna,Steele,2014,6,68.5
+Owatonna,Steele,2014,7,68.8
+Owatonna,Steele,2014,8,71.2
+Owatonna,Steele,2014,9,61.2
+Owatonna,Steele,2014,10,47.2
+Owatonna,Steele,2014,11,24.3
+Owatonna,Steele,2014,12,23.4
+Owatonna,Steele,2015,1,16.1
+Owatonna,Steele,2015,2,9
+Owatonna,Steele,2015,3,31
+Owatonna,Steele,2015,4,46.6
+Owatonna,Steele,2015,5,53
+Owatonna,Steele,2015,6,67.1
+Owatonna,Steele,2015,7,71.2
+Owatonna,Steele,2015,8,68.1
+Owatonna,Steele,2015,9,67.3
+Owatonna,Steele,2015,10,51
+Owatonna,Steele,2015,11,40.7
+Owatonna,Steele,2015,12,29.2
+Owatonna,Steele,2016,1,14.8
+Owatonna,Steele,2016,2,22.9
+Owatonna,Steele,2016,3,38.6
+Owatonna,Steele,2016,4,47.6
+Owatonna,Steele,2016,5,58.5
+Owatonna,Steele,2016,6,70.2
+Owatonna,Steele,2016,7,72.1
+Owatonna,Steele,2016,8,71.4
+Owatonna,Steele,2016,9,65.4
+Owatonna,Steele,2016,10,51.8
+Owatonna,Steele,2016,11,42.8
+Owatonna,Steele,2016,12,18.5
+Red Wing,Goodhue,2007,1,19.8
+Red Wing,Goodhue,2007,2,11.1
+Red Wing,Goodhue,2007,3,35.9
+Red Wing,Goodhue,2007,4,45.9
+Red Wing,Goodhue,2007,5,62.3
+Red Wing,Goodhue,2007,6,70.5
+Red Wing,Goodhue,2007,7,72.7
+Red Wing,Goodhue,2007,8,70.5
+Red Wing,Goodhue,2007,9,63.7
+Red Wing,Goodhue,2007,10,55
+Red Wing,Goodhue,2007,11,34.9
+Red Wing,Goodhue,2007,12,15.9
+Red Wing,Goodhue,2008,1,12.1
+Red Wing,Goodhue,2008,2,13
+Red Wing,Goodhue,2008,3,26.8
+Red Wing,Goodhue,2008,4,43.2
+Red Wing,Goodhue,2008,5,55.4
+Red Wing,Goodhue,2008,6,67.5
+Red Wing,Goodhue,2008,7,72.6
+Red Wing,Goodhue,2008,8,69.3
+Red Wing,Goodhue,2008,9,63.7
+Red Wing,Goodhue,2008,10,49.6
+Red Wing,Goodhue,2008,11,34.2
+Red Wing,Goodhue,2008,12,12.7
+Red Wing,Goodhue,2009,1,4.8
+Red Wing,Goodhue,2009,2,20.4
+Red Wing,Goodhue,2009,3,30.5
+Red Wing,Goodhue,2009,4,46.7
+Red Wing,Goodhue,2009,5,58.3
+Red Wing,Goodhue,2009,6,65
+Red Wing,Goodhue,2009,7,66.6
+Red Wing,Goodhue,2009,8,67.9
+Red Wing,Goodhue,2009,9,64.9
+Red Wing,Goodhue,2009,10,43.4
+Red Wing,Goodhue,2009,11,41
+Red Wing,Goodhue,2009,12,18.2
+Red Wing,Goodhue,2010,1,11.1
+Red Wing,Goodhue,2010,2,16
+Red Wing,Goodhue,2010,3,38.4
+Red Wing,Goodhue,2010,4,53.6
+Red Wing,Goodhue,2010,5,59.3
+Red Wing,Goodhue,2010,6,68.1
+Red Wing,Goodhue,2010,7,74.6
+Red Wing,Goodhue,2010,8,74.9
+Red Wing,Goodhue,2010,9,59.7
+Red Wing,Goodhue,2010,10,53.3
+Red Wing,Goodhue,2010,11,35.4
+Red Wing,Goodhue,2010,12,15.5
+Red Wing,Goodhue,2011,1,10.1
+Red Wing,Goodhue,2011,2,16.8
+Red Wing,Goodhue,2011,3,28.2
+Red Wing,Goodhue,2011,4,44.8
+Red Wing,Goodhue,2011,5,57.1
+Red Wing,Goodhue,2011,6,67.5
+Red Wing,Goodhue,2011,7,77.4
+Red Wing,Goodhue,2011,8,72
+Red Wing,Goodhue,2011,9,61
+Red Wing,Goodhue,2011,10,53.3
+Red Wing,Goodhue,2011,11,38.4
+Red Wing,Goodhue,2011,12,26
+Red Wing,Goodhue,2012,1,22
+Red Wing,Goodhue,2012,2,26.8
+Red Wing,Goodhue,2012,3,48
+Red Wing,Goodhue,2012,4,48.4
+Red Wing,Goodhue,2012,5,63.1
+Red Wing,Goodhue,2012,6,70.8
+Red Wing,Goodhue,2012,7,78
+Red Wing,Goodhue,2012,8,70.1
+Red Wing,Goodhue,2012,9,61
+Red Wing,Goodhue,2012,10,46.4
+Red Wing,Goodhue,2012,11,36.4
+Red Wing,Goodhue,2012,12,23.6
+Red Wing,Goodhue,2013,1,16.5
+Red Wing,Goodhue,2013,2,17.5
+Red Wing,Goodhue,2013,3,25
+Red Wing,Goodhue,2013,4,39.2
+Red Wing,Goodhue,2013,5,56.5
+Red Wing,Goodhue,2013,6,68
+Red Wing,Goodhue,2013,7,73.2
+Red Wing,Goodhue,2013,8,71.6
+Red Wing,Goodhue,2013,9,64.9
+Red Wing,Goodhue,2013,10,48.4
+Red Wing,Goodhue,2013,11,31.8
+Red Wing,Goodhue,2013,12,12.8
+Red Wing,Goodhue,2014,1,7.6
+Red Wing,Goodhue,2014,2,5.6
+Red Wing,Goodhue,2014,3,23.2
+Red Wing,Goodhue,2014,4,42.5
+Red Wing,Goodhue,2014,5,57.7
+Red Wing,Goodhue,2014,6,70.1
+Red Wing,Goodhue,2014,7,70.9
+Red Wing,Goodhue,2014,8,72.4
+Red Wing,Goodhue,2014,9,62.5
+Red Wing,Goodhue,2014,10,48.2
+Red Wing,Goodhue,2014,11,26.3
+Red Wing,Goodhue,2014,12,24.4
+Red Wing,Goodhue,2015,1,17.4
+Red Wing,Goodhue,2015,2,9.5
+Red Wing,Goodhue,2015,3,32.4
+Red Wing,Goodhue,2015,4,48.3
+Red Wing,Goodhue,2015,5,58.5
+Red Wing,Goodhue,2015,6,68.6
+Red Wing,Goodhue,2015,7,72.1
+Red Wing,Goodhue,2015,8,69.3
+Red Wing,Goodhue,2015,9,67.8
+Red Wing,Goodhue,2015,10,50.9
+Red Wing,Goodhue,2015,11,41.5
+Red Wing,Goodhue,2015,12,31.4
+Red Wing,Goodhue,2016,1,15.7
+Red Wing,Goodhue,2016,2,23.2
+Red Wing,Goodhue,2016,3,40
+Red Wing,Goodhue,2016,4,47.4
+Red Wing,Goodhue,2016,5,58.7
+Red Wing,Goodhue,2016,6,69.4
+Red Wing,Goodhue,2016,7,73.5
+Red Wing,Goodhue,2016,8,72.4
+Red Wing,Goodhue,2016,9,65.5
+Red Wing,Goodhue,2016,10,53
+Red Wing,Goodhue,2016,11,43.6
+Red Wing,Goodhue,2016,12,20.7
+Redwood Falls,Redwood,2007,1,17.8
+Redwood Falls,Redwood,2007,2,11.7
+Redwood Falls,Redwood,2007,3,35.8
+Redwood Falls,Redwood,2007,4,44.7
+Redwood Falls,Redwood,2007,5,62.8
+Redwood Falls,Redwood,2007,6,70
+Redwood Falls,Redwood,2007,7,74.1
+Redwood Falls,Redwood,2007,8,70.2
+Redwood Falls,Redwood,2007,9,63.3
+Redwood Falls,Redwood,2007,10,53.1
+Redwood Falls,Redwood,2007,11,33.1
+Redwood Falls,Redwood,2007,12,13.9
+Redwood Falls,Redwood,2008,1,11.4
+Redwood Falls,Redwood,2008,2,13.2
+Redwood Falls,Redwood,2008,3,27.7
+Redwood Falls,Redwood,2008,4,42.7
+Redwood Falls,Redwood,2008,5,56.2
+Redwood Falls,Redwood,2008,6,66.7
+Redwood Falls,Redwood,2008,7,73.2
+Redwood Falls,Redwood,2008,8,70.5
+Redwood Falls,Redwood,2008,9,62.8
+Redwood Falls,Redwood,2008,10,50.3
+Redwood Falls,Redwood,2008,11,34.8
+Redwood Falls,Redwood,2008,12,13
+Redwood Falls,Redwood,2009,1,10
+Redwood Falls,Redwood,2009,2,20
+Redwood Falls,Redwood,2009,3,31.5
+Redwood Falls,Redwood,2009,4,46.6
+Redwood Falls,Redwood,2009,5,60
+Redwood Falls,Redwood,2009,6,67.1
+Redwood Falls,Redwood,2009,7,68.9
+Redwood Falls,Redwood,2009,8,68.3
+Redwood Falls,Redwood,2009,9,64.4
+Redwood Falls,Redwood,2009,10,42
+Redwood Falls,Redwood,2009,11,41.2
+Redwood Falls,Redwood,2009,12,14.1
+Redwood Falls,Redwood,2010,1,9.2
+Redwood Falls,Redwood,2010,2,13.3
+Redwood Falls,Redwood,2010,3,36.6
+Redwood Falls,Redwood,2010,4,54.1
+Redwood Falls,Redwood,2010,5,59.5
+Redwood Falls,Redwood,2010,6,68.6
+Redwood Falls,Redwood,2010,7,74
+Redwood Falls,Redwood,2010,8,74.4
+Redwood Falls,Redwood,2010,9,59.7
+Redwood Falls,Redwood,2010,10,52.1
+Redwood Falls,Redwood,2010,11,33.3
+Redwood Falls,Redwood,2010,12,13.1
+Redwood Falls,Redwood,2011,1,8.3
+Redwood Falls,Redwood,2011,2,14.4
+Redwood Falls,Redwood,2011,3,25.5
+Redwood Falls,Redwood,2011,4,44.8
+Redwood Falls,Redwood,2011,5,57.5
+Redwood Falls,Redwood,2011,6,68.8
+Redwood Falls,Redwood,2011,7,77.3
+Redwood Falls,Redwood,2011,8,71.5
+Redwood Falls,Redwood,2011,9,60.8
+Redwood Falls,Redwood,2011,10,52.9
+Redwood Falls,Redwood,2011,11,36.1
+Redwood Falls,Redwood,2011,12,26.6
+Redwood Falls,Redwood,2012,1,23.6
+Redwood Falls,Redwood,2012,2,26.3
+Redwood Falls,Redwood,2012,3,46.5
+Redwood Falls,Redwood,2012,4,50.3
+Redwood Falls,Redwood,2012,5,63.1
+Redwood Falls,Redwood,2012,6,71.5
+Redwood Falls,Redwood,2012,7,79.4
+Redwood Falls,Redwood,2012,8,70.3
+Redwood Falls,Redwood,2012,9,62.3
+Redwood Falls,Redwood,2012,10,46.7
+Redwood Falls,Redwood,2012,11,36.3
+Redwood Falls,Redwood,2012,12,18.8
+Redwood Falls,Redwood,2013,1,15.1
+Redwood Falls,Redwood,2013,2,16.3
+Redwood Falls,Redwood,2013,3,23.2
+Redwood Falls,Redwood,2013,4,38.6
+Redwood Falls,Redwood,2013,5,56.4
+Redwood Falls,Redwood,2013,6,68
+Redwood Falls,Redwood,2013,7,73.1
+Redwood Falls,Redwood,2013,8,72.1
+Redwood Falls,Redwood,2013,9,66.3
+Redwood Falls,Redwood,2013,10,47.6
+Redwood Falls,Redwood,2013,11,31.4
+Redwood Falls,Redwood,2013,12,11
+Redwood Falls,Redwood,2014,1,9.5
+Redwood Falls,Redwood,2014,2,8.9
+Redwood Falls,Redwood,2014,3,27
+Redwood Falls,Redwood,2014,4,43.1
+Redwood Falls,Redwood,2014,5,58.5
+Redwood Falls,Redwood,2014,6,69.1
+Redwood Falls,Redwood,2014,7,70.5
+Redwood Falls,Redwood,2014,8,71.7
+Redwood Falls,Redwood,2014,9,62.1
+Redwood Falls,Redwood,2014,10,49.6
+Redwood Falls,Redwood,2014,11,24
+Redwood Falls,Redwood,2014,12,24.3
+Redwood Falls,Redwood,2015,1,19.6
+Redwood Falls,Redwood,2015,2,12.3
+Redwood Falls,Redwood,2015,3,36.5
+Redwood Falls,Redwood,2015,4,49.2
+Redwood Falls,Redwood,2015,5,58.4
+Redwood Falls,Redwood,2015,6,69.9
+Redwood Falls,Redwood,2015,7,72.5
+Redwood Falls,Redwood,2015,8,69.1
+Redwood Falls,Redwood,2015,9,67.8
+Redwood Falls,Redwood,2015,10,52.6
+Redwood Falls,Redwood,2015,11,40.6
+Redwood Falls,Redwood,2015,12,27.1
+Redwood Falls,Redwood,2016,1,16.7
+Redwood Falls,Redwood,2016,2,24.9
+Redwood Falls,Redwood,2016,3,40.2
+Redwood Falls,Redwood,2016,4,49
+Redwood Falls,Redwood,2016,5,60.5
+Redwood Falls,Redwood,2016,6,70.8
+Redwood Falls,Redwood,2016,7,72.9
+Redwood Falls,Redwood,2016,8,71.2
+Redwood Falls,Redwood,2016,9,64.9
+Redwood Falls,Redwood,2016,10,51.5
+Redwood Falls,Redwood,2016,11,42.7
+Redwood Falls,Redwood,2016,12,19.1
+St Cloud,Stearns,2007,1,17.1
+St Cloud,Stearns,2007,2,10.7
+St Cloud,Stearns,2007,3,34
+St Cloud,Stearns,2007,4,43.8
+St Cloud,Stearns,2007,5,61.1
+St Cloud,Stearns,2007,6,69
+St Cloud,Stearns,2007,7,72.3
+St Cloud,Stearns,2007,8,68.2
+St Cloud,Stearns,2007,9,61
+St Cloud,Stearns,2007,10,50.9
+St Cloud,Stearns,2007,11,31.2
+St Cloud,Stearns,2007,12,11.5
+St Cloud,Stearns,2008,1,9.3
+St Cloud,Stearns,2008,2,10.8
+St Cloud,Stearns,2008,3,24.6
+St Cloud,Stearns,2008,4,41
+St Cloud,Stearns,2008,5,53.4
+St Cloud,Stearns,2008,6,65
+St Cloud,Stearns,2008,7,70.4
+St Cloud,Stearns,2008,8,68.4
+St Cloud,Stearns,2008,9,59.4
+St Cloud,Stearns,2008,10,47.1
+St Cloud,Stearns,2008,11,31.9
+St Cloud,Stearns,2008,12,8.5
+St Cloud,Stearns,2009,1,3.3
+St Cloud,Stearns,2009,2,16.4
+St Cloud,Stearns,2009,3,27.5
+St Cloud,Stearns,2009,4,44.2
+St Cloud,Stearns,2009,5,55.3
+St Cloud,Stearns,2009,6,63.4
+St Cloud,Stearns,2009,7,66
+St Cloud,Stearns,2009,8,65.9
+St Cloud,Stearns,2009,9,63.3
+St Cloud,Stearns,2009,10,40.9
+St Cloud,Stearns,2009,11,39.4
+St Cloud,Stearns,2009,12,14.4
+St Cloud,Stearns,2010,1,9.7
+St Cloud,Stearns,2010,2,15.4
+St Cloud,Stearns,2010,3,37.6
+St Cloud,Stearns,2010,4,51.1
+St Cloud,Stearns,2010,5,57.1
+St Cloud,Stearns,2010,6,65.7
+St Cloud,Stearns,2010,7,72.2
+St Cloud,Stearns,2010,8,72.7
+St Cloud,Stearns,2010,9,56.8
+St Cloud,Stearns,2010,10,49.5
+St Cloud,Stearns,2010,11,32.5
+St Cloud,Stearns,2010,12,13.1
+St Cloud,Stearns,2011,1,7.6
+St Cloud,Stearns,2011,2,14.1
+St Cloud,Stearns,2011,3,24.3
+St Cloud,Stearns,2011,4,43.7
+St Cloud,Stearns,2011,5,55.6
+St Cloud,Stearns,2011,6,65.4
+St Cloud,Stearns,2011,7,75.1
+St Cloud,Stearns,2011,8,69.6
+St Cloud,Stearns,2011,9,58.9
+St Cloud,Stearns,2011,10,51
+St Cloud,Stearns,2011,11,34.1
+St Cloud,Stearns,2011,12,25.1
+St Cloud,Stearns,2012,1,20.2
+St Cloud,Stearns,2012,2,24.7
+St Cloud,Stearns,2012,3,43.9
+St Cloud,Stearns,2012,4,47.7
+St Cloud,Stearns,2012,5,60.3
+St Cloud,Stearns,2012,6,68.8
+St Cloud,Stearns,2012,7,76.5
+St Cloud,Stearns,2012,8,67.8
+St Cloud,Stearns,2012,9,59.6
+St Cloud,Stearns,2012,10,44.4
+St Cloud,Stearns,2012,11,32.9
+St Cloud,Stearns,2012,12,17.9
+St Cloud,Stearns,2013,1,13.2
+St Cloud,Stearns,2013,2,14.8
+St Cloud,Stearns,2013,3,21.9
+St Cloud,Stearns,2013,4,36.2
+St Cloud,Stearns,2013,5,54.4
+St Cloud,Stearns,2013,6,65.1
+St Cloud,Stearns,2013,7,70.8
+St Cloud,Stearns,2013,8,69.7
+St Cloud,Stearns,2013,9,62.9
+St Cloud,Stearns,2013,10,44.9
+St Cloud,Stearns,2013,11,28.8
+St Cloud,Stearns,2013,12,6.2
+St Cloud,Stearns,2014,1,4.7
+St Cloud,Stearns,2014,2,5.5
+St Cloud,Stearns,2014,3,22.5
+St Cloud,Stearns,2014,4,40.8
+St Cloud,Stearns,2014,5,57.6
+St Cloud,Stearns,2014,6,68.3
+St Cloud,Stearns,2014,7,70.2
+St Cloud,Stearns,2014,8,71.2
+St Cloud,Stearns,2014,9,61.2
+St Cloud,Stearns,2014,10,48.2
+St Cloud,Stearns,2014,11,22.9
+St Cloud,Stearns,2014,12,24.1
+St Cloud,Stearns,2015,1,16.5
+St Cloud,Stearns,2015,2,8.7
+St Cloud,Stearns,2015,3,32.4
+St Cloud,Stearns,2015,4,46.4
+St Cloud,Stearns,2015,5,55.1
+St Cloud,Stearns,2015,6,66.2
+St Cloud,Stearns,2015,7,70.7
+St Cloud,Stearns,2015,8,67.1
+St Cloud,Stearns,2015,9,64.8
+St Cloud,Stearns,2015,10,48.6
+St Cloud,Stearns,2015,11,38.1
+St Cloud,Stearns,2015,12,26.5
+St Cloud,Stearns,2016,1,13.9
+St Cloud,Stearns,2016,2,22.3
+St Cloud,Stearns,2016,3,38.3
+St Cloud,Stearns,2016,4,44.8
+St Cloud,Stearns,2016,5,57.1
+St Cloud,Stearns,2016,6,67.3
+St Cloud,Stearns,2016,7,70.4
+St Cloud,Stearns,2016,8,69.3
+St Cloud,Stearns,2016,9,61.7
+St Cloud,Stearns,2016,10,48.9
+St Cloud,Stearns,2016,11,40.1
+St Cloud,Stearns,2016,12,17.5
+St James,Watonwan,2007,1,17.3
+St James,Watonwan,2007,2,11.6
+St James,Watonwan,2007,3,35.3
+St James,Watonwan,2007,4,44
+St James,Watonwan,2007,5,62.4
+St James,Watonwan,2007,6,70.4
+St James,Watonwan,2007,7,73.1
+St James,Watonwan,2007,8,69.8
+St James,Watonwan,2007,9,61.6
+St James,Watonwan,2007,10,50
+St James,Watonwan,2007,11,34.6
+St James,Watonwan,2007,12,M
+St James,Watonwan,2008,1,M
+St James,Watonwan,2008,2,13
+St James,Watonwan,2008,3,27.3
+St James,Watonwan,2008,4,42.1
+St James,Watonwan,2008,5,55.3
+St James,Watonwan,2008,6,67
+St James,Watonwan,2008,7,72.4
+St James,Watonwan,2008,8,69.4
+St James,Watonwan,2008,9,61.6
+St James,Watonwan,2008,10,49
+St James,Watonwan,2008,11,32.2
+St James,Watonwan,2008,12,13
+St James,Watonwan,2009,1,8.2
+St James,Watonwan,2009,2,19.4
+St James,Watonwan,2009,3,29.9
+St James,Watonwan,2009,4,44.4
+St James,Watonwan,2009,5,58.3
+St James,Watonwan,2009,6,65.6
+St James,Watonwan,2009,7,67.1
+St James,Watonwan,2009,8,67
+St James,Watonwan,2009,9,62.8
+St James,Watonwan,2009,10,41.7
+St James,Watonwan,2009,11,40.6
+St James,Watonwan,2009,12,13.7
+St James,Watonwan,2010,1,7.7
+St James,Watonwan,2010,2,12.3
+St James,Watonwan,2010,3,34.2
+St James,Watonwan,2010,4,52.9
+St James,Watonwan,2010,5,58
+St James,Watonwan,2010,6,67.7
+St James,Watonwan,2010,7,73.6
+St James,Watonwan,2010,8,74.6
+St James,Watonwan,2010,9,58
+St James,Watonwan,2010,10,M
+St James,Watonwan,2010,11,32.7
+St James,Watonwan,2010,12,14.2
+St James,Watonwan,2011,1,8.5
+St James,Watonwan,2011,2,14.8
+St James,Watonwan,2011,3,26.8
+St James,Watonwan,2011,4,43.8
+St James,Watonwan,2011,5,56.2
+St James,Watonwan,2011,6,68.8
+St James,Watonwan,2011,7,76.9
+St James,Watonwan,2011,8,71.5
+St James,Watonwan,2011,9,59.8
+St James,Watonwan,2011,10,55.3
+St James,Watonwan,2011,11,38.9
+St James,Watonwan,2011,12,26.5
+St James,Watonwan,2012,1,21.8
+St James,Watonwan,2012,2,27.1
+St James,Watonwan,2012,3,49.2
+St James,Watonwan,2012,4,52
+St James,Watonwan,2012,5,65.6
+St James,Watonwan,2012,6,72.4
+St James,Watonwan,2012,7,78.8
+St James,Watonwan,2012,8,71
+St James,Watonwan,2012,9,62.9
+St James,Watonwan,2012,10,46.9
+St James,Watonwan,2012,11,37.5
+St James,Watonwan,2012,12,20.9
+St James,Watonwan,2013,1,16.1
+St James,Watonwan,2013,2,18.3
+St James,Watonwan,2013,3,25.2
+St James,Watonwan,2013,4,40.1
+St James,Watonwan,2013,5,57.6
+St James,Watonwan,2013,6,69.6
+St James,Watonwan,2013,7,73.4
+St James,Watonwan,2013,8,70.7
+St James,Watonwan,2013,9,66.6
+St James,Watonwan,2013,10,49.1
+St James,Watonwan,2013,11,31.7
+St James,Watonwan,2013,12,11.8
+St James,Watonwan,2014,1,9.7
+St James,Watonwan,2014,2,8.6
+St James,Watonwan,2014,3,25.2
+St James,Watonwan,2014,4,43.8
+St James,Watonwan,2014,5,57.1
+St James,Watonwan,2014,6,68.7
+St James,Watonwan,2014,7,69.5
+St James,Watonwan,2014,8,70.5
+St James,Watonwan,2014,9,61.9
+St James,Watonwan,2014,10,48.5
+St James,Watonwan,2014,11,24.7
+St James,Watonwan,2014,12,22.9
+St James,Watonwan,2015,1,18
+St James,Watonwan,2015,2,11.2
+St James,Watonwan,2015,3,34.4
+St James,Watonwan,2015,4,47.8
+St James,Watonwan,2015,5,57.8
+St James,Watonwan,2015,6,68
+St James,Watonwan,2015,7,71.2
+St James,Watonwan,2015,8,68
+St James,Watonwan,2015,9,66.4
+St James,Watonwan,2015,10,50.7
+St James,Watonwan,2015,11,39.8
+St James,Watonwan,2015,12,26.9
+St James,Watonwan,2016,1,14.8
+St James,Watonwan,2016,2,23.8
+St James,Watonwan,2016,3,38.2
+St James,Watonwan,2016,4,47.6
+St James,Watonwan,2016,5,58.9
+St James,Watonwan,2016,6,72.5
+St James,Watonwan,2016,7,75.2
+St James,Watonwan,2016,8,72.9
+St James,Watonwan,2016,9,65.4
+St James,Watonwan,2016,10,51.1
+St James,Watonwan,2016,11,43
+St James,Watonwan,2016,12,18.7
+St Peter,Nicollet,2007,1,19.2
+St Peter,Nicollet,2007,2,12.1
+St Peter,Nicollet,2007,3,36
+St Peter,Nicollet,2007,4,45.5
+St Peter,Nicollet,2007,5,63.1
+St Peter,Nicollet,2007,6,70.9
+St Peter,Nicollet,2007,7,74.5
+St Peter,Nicollet,2007,8,70.4
+St Peter,Nicollet,2007,9,63.7
+St Peter,Nicollet,2007,10,53.8
+St Peter,Nicollet,2007,11,34.8
+St Peter,Nicollet,2007,12,15.4
+St Peter,Nicollet,2008,1,11.4
+St Peter,Nicollet,2008,2,14.7
+St Peter,Nicollet,2008,3,28
+St Peter,Nicollet,2008,4,42.9
+St Peter,Nicollet,2008,5,56.3
+St Peter,Nicollet,2008,6,67.4
+St Peter,Nicollet,2008,7,72.9
+St Peter,Nicollet,2008,8,69.8
+St Peter,Nicollet,2008,9,63.1
+St Peter,Nicollet,2008,10,50.3
+St Peter,Nicollet,2008,11,39.9
+St Peter,Nicollet,2008,12,M
+St Peter,Nicollet,2009,1,M
+St Peter,Nicollet,2009,2,M
+St Peter,Nicollet,2009,3,30.4
+St Peter,Nicollet,2009,4,M
+St Peter,Nicollet,2009,5,58
+St Peter,Nicollet,2009,6,65.6
+St Peter,Nicollet,2009,7,67.2
+St Peter,Nicollet,2009,8,67.3
+St Peter,Nicollet,2009,9,64.2
+St Peter,Nicollet,2009,10,41.9
+St Peter,Nicollet,2009,11,40.3
+St Peter,Nicollet,2009,12,15.2
+St Peter,Nicollet,2010,1,8
+St Peter,Nicollet,2010,2,12
+St Peter,Nicollet,2010,3,36.4
+St Peter,Nicollet,2010,4,53.3
+St Peter,Nicollet,2010,5,58.5
+St Peter,Nicollet,2010,6,67.4
+St Peter,Nicollet,2010,7,73.6
+St Peter,Nicollet,2010,8,74
+St Peter,Nicollet,2010,9,58.7
+St Peter,Nicollet,2010,10,51.4
+St Peter,Nicollet,2010,11,33.1
+St Peter,Nicollet,2010,12,13.6
+St Peter,Nicollet,2011,1,8.2
+St Peter,Nicollet,2011,2,15.4
+St Peter,Nicollet,2011,3,26.4
+St Peter,Nicollet,2011,4,43.7
+St Peter,Nicollet,2011,5,56.8
+St Peter,Nicollet,2011,6,68
+St Peter,Nicollet,2011,7,76.5
+St Peter,Nicollet,2011,8,70.2
+St Peter,Nicollet,2011,9,59.6
+St Peter,Nicollet,2011,10,51.9
+St Peter,Nicollet,2011,11,36.3
+St Peter,Nicollet,2011,12,24.7
+St Peter,Nicollet,2012,1,22
+St Peter,Nicollet,2012,2,25.4
+St Peter,Nicollet,2012,3,46.4
+St Peter,Nicollet,2012,4,48.3
+St Peter,Nicollet,2012,5,62
+St Peter,Nicollet,2012,6,69.4
+St Peter,Nicollet,2012,7,78
+St Peter,Nicollet,2012,8,69
+St Peter,Nicollet,2012,9,59.1
+St Peter,Nicollet,2012,10,45.5
+St Peter,Nicollet,2012,11,36.7
+St Peter,Nicollet,2012,12,21.5
+St Peter,Nicollet,2013,1,16.3
+St Peter,Nicollet,2013,2,16.4
+St Peter,Nicollet,2013,3,23.9
+St Peter,Nicollet,2013,4,37.4
+St Peter,Nicollet,2013,5,55.6
+St Peter,Nicollet,2013,6,66.6
+St Peter,Nicollet,2013,7,71.7
+St Peter,Nicollet,2013,8,70
+St Peter,Nicollet,2013,9,64
+St Peter,Nicollet,2013,10,47.4
+St Peter,Nicollet,2013,11,30.1
+St Peter,Nicollet,2013,12,11.8
+St Peter,Nicollet,2014,1,7.2
+St Peter,Nicollet,2014,2,6.1
+St Peter,Nicollet,2014,3,23.4
+St Peter,Nicollet,2014,4,42.5
+St Peter,Nicollet,2014,5,56.9
+St Peter,Nicollet,2014,6,68.6
+St Peter,Nicollet,2014,7,69.3
+St Peter,Nicollet,2014,8,71
+St Peter,Nicollet,2014,9,60.7
+St Peter,Nicollet,2014,10,47.6
+St Peter,Nicollet,2014,11,24
+St Peter,Nicollet,2014,12,23.1
+St Peter,Nicollet,2015,1,16.5
+St Peter,Nicollet,2015,2,9.8
+St Peter,Nicollet,2015,3,33.5
+St Peter,Nicollet,2015,4,47.7
+St Peter,Nicollet,2015,5,57.7
+St Peter,Nicollet,2015,6,67.1
+St Peter,Nicollet,2015,7,70.6
+St Peter,Nicollet,2015,8,67.4
+St Peter,Nicollet,2015,9,64.9
+St Peter,Nicollet,2015,10,49.3
+St Peter,Nicollet,2015,11,37.6
+St Peter,Nicollet,2015,12,26.8
+St Peter,Nicollet,2016,1,14.1
+St Peter,Nicollet,2016,2,22.7
+St Peter,Nicollet,2016,3,38.2
+St Peter,Nicollet,2016,4,47.4
+St Peter,Nicollet,2016,5,58
+St Peter,Nicollet,2016,6,69.5
+St Peter,Nicollet,2016,7,71.9
+St Peter,Nicollet,2016,8,69.7
+St Peter,Nicollet,2016,9,63.4
+St Peter,Nicollet,2016,10,50.2
+St Peter,Nicollet,2016,11,41.8
+St Peter,Nicollet,2016,12,17.6
+Stillwater,Washington,2007,1,18.3
+Stillwater,Washington,2007,2,10.7
+Stillwater,Washington,2007,3,34.8
+Stillwater,Washington,2007,4,44.1
+Stillwater,Washington,2007,5,60.6
+Stillwater,Washington,2007,6,68
+Stillwater,Washington,2007,7,71.8
+Stillwater,Washington,2007,8,68.9
+Stillwater,Washington,2007,9,61.4
+Stillwater,Washington,2007,10,52.6
+Stillwater,Washington,2007,11,33.9
+Stillwater,Washington,2007,12,14.8
+Stillwater,Washington,2008,1,11.8
+Stillwater,Washington,2008,2,12.6
+Stillwater,Washington,2008,3,24.7
+Stillwater,Washington,2008,4,M
+Stillwater,Washington,2008,5,54.2
+Stillwater,Washington,2008,6,65.5
+Stillwater,Washington,2008,7,71.2
+Stillwater,Washington,2008,8,68.6
+Stillwater,Washington,2008,9,61.8
+Stillwater,Washington,2008,10,48.9
+Stillwater,Washington,2008,11,33.7
+Stillwater,Washington,2008,12,12
+Stillwater,Washington,2009,1,3.5
+Stillwater,Washington,2009,2,18.4
+Stillwater,Washington,2009,3,28.5
+Stillwater,Washington,2009,4,45.2
+Stillwater,Washington,2009,5,56.7
+Stillwater,Washington,2009,6,64.4
+Stillwater,Washington,2009,7,M
+Stillwater,Washington,2009,8,66.6
+Stillwater,Washington,2009,9,64.3
+Stillwater,Washington,2009,10,42.5
+Stillwater,Washington,2009,11,40.6
+Stillwater,Washington,2009,12,16.4
+Stillwater,Washington,2010,1,11
+Stillwater,Washington,2010,2,15.5
+Stillwater,Washington,2010,3,37.3
+Stillwater,Washington,2010,4,52.6
+Stillwater,Washington,2010,5,58.3
+Stillwater,Washington,2010,6,66.2
+Stillwater,Washington,2010,7,72.7
+Stillwater,Washington,2010,8,73.3
+Stillwater,Washington,2010,9,57.9
+Stillwater,Washington,2010,10,51.4
+Stillwater,Washington,2010,11,34.4
+Stillwater,Washington,2010,12,13.5
+Stillwater,Washington,2011,1,8.7
+Stillwater,Washington,2011,2,15.4
+Stillwater,Washington,2011,3,25.2
+Stillwater,Washington,2011,4,43.1
+Stillwater,Washington,2011,5,56.2
+Stillwater,Washington,2011,6,65.9
+Stillwater,Washington,2011,7,75.4
+Stillwater,Washington,2011,8,70.5
+Stillwater,Washington,2011,9,59.4
+Stillwater,Washington,2011,10,52.6
+Stillwater,Washington,2011,11,37.1
+Stillwater,Washington,2011,12,25
+Stillwater,Washington,2012,1,19.8
+Stillwater,Washington,2012,2,M
+Stillwater,Washington,2012,3,44.2
+Stillwater,Washington,2012,4,47.9
+Stillwater,Washington,2012,5,61.5
+Stillwater,Washington,2012,6,68.8
+Stillwater,Washington,2012,7,76
+Stillwater,Washington,2012,8,69
+Stillwater,Washington,2012,9,60.1
+Stillwater,Washington,2012,10,45.4
+Stillwater,Washington,2012,11,35.1
+Stillwater,Washington,2012,12,22.2
+Stillwater,Washington,2013,1,15.4
+Stillwater,Washington,2013,2,15.9
+Stillwater,Washington,2013,3,24
+Stillwater,Washington,2013,4,38.2
+Stillwater,Washington,2013,5,55.4
+Stillwater,Washington,2013,6,65.6
+Stillwater,Washington,2013,7,70.5
+Stillwater,Washington,2013,8,70
+Stillwater,Washington,2013,9,63.5
+Stillwater,Washington,2013,10,47.9
+Stillwater,Washington,2013,11,31
+Stillwater,Washington,2013,12,11.4
+Stillwater,Washington,2014,1,5.7
+Stillwater,Washington,2014,2,5.6
+Stillwater,Washington,2014,3,22.4
+Stillwater,Washington,2014,4,41.1
+Stillwater,Washington,2014,5,56.7
+Stillwater,Washington,2014,6,67.1
+Stillwater,Washington,2014,7,68.4
+Stillwater,Washington,2014,8,69.6
+Stillwater,Washington,2014,9,60.1
+Stillwater,Washington,2014,10,47.3
+Stillwater,Washington,2014,11,24.6
+Stillwater,Washington,2014,12,23.4
+Stillwater,Washington,2015,1,15.9
+Stillwater,Washington,2015,2,9.5
+Stillwater,Washington,2015,3,32.1
+Stillwater,Washington,2015,4,47.7
+Stillwater,Washington,2015,5,57.1
+Stillwater,Washington,2015,6,66.3
+Stillwater,Washington,2015,7,70.5
+Stillwater,Washington,2015,8,67.5
+Stillwater,Washington,2015,9,65.8
+Stillwater,Washington,2015,10,49.7
+Stillwater,Washington,2015,11,39.9
+Stillwater,Washington,2015,12,29.3
+Stillwater,Washington,2016,1,15.1
+Stillwater,Washington,2016,2,22.2
+Stillwater,Washington,2016,3,38.8
+Stillwater,Washington,2016,4,46
+Stillwater,Washington,2016,5,57.4
+Stillwater,Washington,2016,6,67.8
+Stillwater,Washington,2016,7,71.9
+Stillwater,Washington,2016,8,70.5
+Stillwater,Washington,2016,9,62.9
+Stillwater,Washington,2016,10,50.7
+Stillwater,Washington,2016,11,42.6
+Stillwater,Washington,2016,12,19.5
+Waseca,Waseca,2007,1,17.5
+Waseca,Waseca,2007,2,9.3
+Waseca,Waseca,2007,3,35.1
+Waseca,Waseca,2007,4,44.6
+Waseca,Waseca,2007,5,62.6
+Waseca,Waseca,2007,6,69.6
+Waseca,Waseca,2007,7,71.9
+Waseca,Waseca,2007,8,70.1
+Waseca,Waseca,2007,9,62.6
+Waseca,Waseca,2007,10,53.3
+Waseca,Waseca,2007,11,33.1
+Waseca,Waseca,2007,12,14.6
+Waseca,Waseca,2008,1,10
+Waseca,Waseca,2008,2,13.7
+Waseca,Waseca,2008,3,27.4
+Waseca,Waseca,2008,4,42.2
+Waseca,Waseca,2008,5,55.5
+Waseca,Waseca,2008,6,66.8
+Waseca,Waseca,2008,7,71.6
+Waseca,Waseca,2008,8,68.3
+Waseca,Waseca,2008,9,62.6
+Waseca,Waseca,2008,10,47.9
+Waseca,Waseca,2008,11,33.7
+Waseca,Waseca,2008,12,12
+Waseca,Waseca,2009,1,5.8
+Waseca,Waseca,2009,2,20.2
+Waseca,Waseca,2009,3,30.8
+Waseca,Waseca,2009,4,45.7
+Waseca,Waseca,2009,5,58
+Waseca,Waseca,2009,6,66
+Waseca,Waseca,2009,7,66.1
+Waseca,Waseca,2009,8,66.4
+Waseca,Waseca,2009,9,64.1
+Waseca,Waseca,2009,10,42
+Waseca,Waseca,2009,11,41.1
+Waseca,Waseca,2009,12,15
+Waseca,Waseca,2010,1,7
+Waseca,Waseca,2010,2,11.3
+Waseca,Waseca,2010,3,35.2
+Waseca,Waseca,2010,4,53.7
+Waseca,Waseca,2010,5,59.2
+Waseca,Waseca,2010,6,67
+Waseca,Waseca,2010,7,72.5
+Waseca,Waseca,2010,8,73
+Waseca,Waseca,2010,9,58.9
+Waseca,Waseca,2010,10,51
+Waseca,Waseca,2010,11,33.2
+Waseca,Waseca,2010,12,13
+Waseca,Waseca,2011,1,7.7
+Waseca,Waseca,2011,2,15
+Waseca,Waseca,2011,3,26.9
+Waseca,Waseca,2011,4,43.8
+Waseca,Waseca,2011,5,57
+Waseca,Waseca,2011,6,68.6
+Waseca,Waseca,2011,7,76.3
+Waseca,Waseca,2011,8,69.9
+Waseca,Waseca,2011,9,59.6
+Waseca,Waseca,2011,10,51.3
+Waseca,Waseca,2011,11,36.6
+Waseca,Waseca,2011,12,24.6
+Waseca,Waseca,2012,1,21.4
+Waseca,Waseca,2012,2,26.3
+Waseca,Waseca,2012,3,47.1
+Waseca,Waseca,2012,4,47.7
+Waseca,Waseca,2012,5,62.7
+Waseca,Waseca,2012,6,69.8
+Waseca,Waseca,2012,7,76.8
+Waseca,Waseca,2012,8,68.5
+Waseca,Waseca,2012,9,59.7
+Waseca,Waseca,2012,10,45.3
+Waseca,Waseca,2012,11,35.5
+Waseca,Waseca,2012,12,21.4
+Waseca,Waseca,2013,1,15.4
+Waseca,Waseca,2013,2,16.6
+Waseca,Waseca,2013,3,23.8
+Waseca,Waseca,2013,4,38.4
+Waseca,Waseca,2013,5,55.4
+Waseca,Waseca,2013,6,67.3
+Waseca,Waseca,2013,7,71.8
+Waseca,Waseca,2013,8,69.6
+Waseca,Waseca,2013,9,64.3
+Waseca,Waseca,2013,10,47.5
+Waseca,Waseca,2013,11,29.9
+Waseca,Waseca,2013,12,12.4
+Waseca,Waseca,2014,1,6.4
+Waseca,Waseca,2014,2,5
+Waseca,Waseca,2014,3,22.9
+Waseca,Waseca,2014,4,42.5
+Waseca,Waseca,2014,5,56.6
+Waseca,Waseca,2014,6,68.4
+Waseca,Waseca,2014,7,68.2
+Waseca,Waseca,2014,8,70.7
+Waseca,Waseca,2014,9,60.8
+Waseca,Waseca,2014,10,47.8
+Waseca,Waseca,2014,11,23.6
+Waseca,Waseca,2014,12,23.3
+Waseca,Waseca,2015,1,17.3
+Waseca,Waseca,2015,2,9.5
+Waseca,Waseca,2015,3,32.4
+Waseca,Waseca,2015,4,47.7
+Waseca,Waseca,2015,5,58
+Waseca,Waseca,2015,6,68.4
+Waseca,Waseca,2015,7,70.6
+Waseca,Waseca,2015,8,67.7
+Waseca,Waseca,2015,9,67.9
+Waseca,Waseca,2015,10,51.4
+Waseca,Waseca,2015,11,40.3
+Waseca,Waseca,2015,12,29.4
+Waseca,Waseca,2016,1,14.8
+Waseca,Waseca,2016,2,23.5
+Waseca,Waseca,2016,3,39.3
+Waseca,Waseca,2016,4,48.4
+Waseca,Waseca,2016,5,59.2
+Waseca,Waseca,2016,6,70.6
+Waseca,Waseca,2016,7,72.8
+Waseca,Waseca,2016,8,71.9
+Waseca,Waseca,2016,9,66.6
+Waseca,Waseca,2016,10,53
+Waseca,Waseca,2016,11,44.1
+Waseca,Waseca,2016,12,17.9
+Willmar,Kandiyohi,2007,1,M
+Willmar,Kandiyohi,2007,2,M
+Willmar,Kandiyohi,2007,3,M
+Willmar,Kandiyohi,2007,4,M
+Willmar,Kandiyohi,2007,5,M
+Willmar,Kandiyohi,2007,6,M
+Willmar,Kandiyohi,2007,7,M
+Willmar,Kandiyohi,2007,8,M
+Willmar,Kandiyohi,2007,9,M
+Willmar,Kandiyohi,2007,10,M
+Willmar,Kandiyohi,2007,11,M
+Willmar,Kandiyohi,2007,12,M
+Willmar,Kandiyohi,2008,1,M
+Willmar,Kandiyohi,2008,2,M
+Willmar,Kandiyohi,2008,3,M
+Willmar,Kandiyohi,2008,4,M
+Willmar,Kandiyohi,2008,5,M
+Willmar,Kandiyohi,2008,6,M
+Willmar,Kandiyohi,2008,7,M
+Willmar,Kandiyohi,2008,8,M
+Willmar,Kandiyohi,2008,9,M
+Willmar,Kandiyohi,2008,10,M
+Willmar,Kandiyohi,2008,11,M
+Willmar,Kandiyohi,2008,12,M
+Willmar,Kandiyohi,2009,1,M
+Willmar,Kandiyohi,2009,2,M
+Willmar,Kandiyohi,2009,3,M
+Willmar,Kandiyohi,2009,4,M
+Willmar,Kandiyohi,2009,5,M
+Willmar,Kandiyohi,2009,6,M
+Willmar,Kandiyohi,2009,7,M
+Willmar,Kandiyohi,2009,8,M
+Willmar,Kandiyohi,2009,9,M
+Willmar,Kandiyohi,2009,10,M
+Willmar,Kandiyohi,2009,11,M
+Willmar,Kandiyohi,2009,12,M
+Willmar,Kandiyohi,2010,1,M
+Willmar,Kandiyohi,2010,2,M
+Willmar,Kandiyohi,2010,3,M
+Willmar,Kandiyohi,2010,4,M
+Willmar,Kandiyohi,2010,5,M
+Willmar,Kandiyohi,2010,6,M
+Willmar,Kandiyohi,2010,7,M
+Willmar,Kandiyohi,2010,8,71.9
+Willmar,Kandiyohi,2010,9,57
+Willmar,Kandiyohi,2010,10,49.7
+Willmar,Kandiyohi,2010,11,31
+Willmar,Kandiyohi,2010,12,10.6
+Willmar,Kandiyohi,2011,1,4.6
+Willmar,Kandiyohi,2011,2,11.2
+Willmar,Kandiyohi,2011,3,21.7
+Willmar,Kandiyohi,2011,4,41.7
+Willmar,Kandiyohi,2011,5,54.6
+Willmar,Kandiyohi,2011,6,65.2
+Willmar,Kandiyohi,2011,7,75.1
+Willmar,Kandiyohi,2011,8,68.4
+Willmar,Kandiyohi,2011,9,58.3
+Willmar,Kandiyohi,2011,10,50.6
+Willmar,Kandiyohi,2011,11,33.4
+Willmar,Kandiyohi,2011,12,24.3
+Willmar,Kandiyohi,2012,1,20.1
+Willmar,Kandiyohi,2012,2,22.7
+Willmar,Kandiyohi,2012,3,42.2
+Willmar,Kandiyohi,2012,4,46.8
+Willmar,Kandiyohi,2012,5,60.4
+Willmar,Kandiyohi,2012,6,68.5
+Willmar,Kandiyohi,2012,7,76.3
+Willmar,Kandiyohi,2012,8,67.6
+Willmar,Kandiyohi,2012,9,58.8
+Willmar,Kandiyohi,2012,10,43.3
+Willmar,Kandiyohi,2012,11,32.5
+Willmar,Kandiyohi,2012,12,16.5
+Willmar,Kandiyohi,2013,1,11.5
+Willmar,Kandiyohi,2013,2,12
+Willmar,Kandiyohi,2013,3,19.6
+Willmar,Kandiyohi,2013,4,34.1
+Willmar,Kandiyohi,2013,5,53.9
+Willmar,Kandiyohi,2013,6,65.3
+Willmar,Kandiyohi,2013,7,71
+Willmar,Kandiyohi,2013,8,69.4
+Willmar,Kandiyohi,2013,9,63.5
+Willmar,Kandiyohi,2013,10,45.6
+Willmar,Kandiyohi,2013,11,28.3
+Willmar,Kandiyohi,2013,12,7.6
+Willmar,Kandiyohi,2014,1,4.4
+Willmar,Kandiyohi,2014,2,3.5
+Willmar,Kandiyohi,2014,3,21.4
+Willmar,Kandiyohi,2014,4,39.1
+Willmar,Kandiyohi,2014,5,54.8
+Willmar,Kandiyohi,2014,6,66.8
+Willmar,Kandiyohi,2014,7,67.6
+Willmar,Kandiyohi,2014,8,69
+Willmar,Kandiyohi,2014,9,60
+Willmar,Kandiyohi,2014,10,46.9
+Willmar,Kandiyohi,2014,11,20.7
+Willmar,Kandiyohi,2014,12,21.3
+Willmar,Kandiyohi,2015,1,15.5
+Willmar,Kandiyohi,2015,2,7.4
+Willmar,Kandiyohi,2015,3,30.4
+Willmar,Kandiyohi,2015,4,M
+Willmar,Kandiyohi,2015,5,M
+Willmar,Kandiyohi,2015,6,M
+Willmar,Kandiyohi,2015,7,69.9
+Willmar,Kandiyohi,2015,8,66.7
+Willmar,Kandiyohi,2015,9,66.2
+Willmar,Kandiyohi,2015,10,49.7
+Willmar,Kandiyohi,2015,11,38.3
+Willmar,Kandiyohi,2015,12,24.5
+Willmar,Kandiyohi,2016,1,13.1
+Willmar,Kandiyohi,2016,2,21.8
+Willmar,Kandiyohi,2016,3,37.3
+Willmar,Kandiyohi,2016,4,44.9
+Willmar,Kandiyohi,2016,5,57.3
+Willmar,Kandiyohi,2016,6,67.7
+Willmar,Kandiyohi,2016,7,69.9
+Willmar,Kandiyohi,2016,8,69.5
+Willmar,Kandiyohi,2016,9,62.2
+Willmar,Kandiyohi,2016,10,49.4
+Willmar,Kandiyohi,2016,11,40.7
+Willmar,Kandiyohi,2016,12,15.1
+Duluth,St. Louis,2007,1,13.7
+Duluth,St. Louis,2007,2,7.9
+Duluth,St. Louis,2007,3,29.4
+Duluth,St. Louis,2007,4,38.8
+Duluth,St. Louis,2007,5,53.9
+Duluth,St. Louis,2007,6,63.1
+Duluth,St. Louis,2007,7,67.4
+Duluth,St. Louis,2007,8,65.1
+Duluth,St. Louis,2007,9,57.4
+Duluth,St. Louis,2007,10,47.7
+Duluth,St. Louis,2007,11,28.9
+Duluth,St. Louis,2007,12,13.4
+Duluth,St. Louis,2008,1,10
+Duluth,St. Louis,2008,2,10.2
+Duluth,St. Louis,2008,3,22.3
+Duluth,St. Louis,2008,4,37.9
+Duluth,St. Louis,2008,5,48.5
+Duluth,St. Louis,2008,6,60
+Duluth,St. Louis,2008,7,64.4
+Duluth,St. Louis,2008,8,64.4
+Duluth,St. Louis,2008,9,56.2
+Duluth,St. Louis,2008,10,44.6
+Duluth,St. Louis,2008,11,28.9
+Duluth,St. Louis,2008,12,7
+Duluth,St. Louis,2009,1,3.3
+Duluth,St. Louis,2009,2,15.2
+Duluth,St. Louis,2009,3,24.6
+Duluth,St. Louis,2009,4,39.7
+Duluth,St. Louis,2009,5,50.2
+Duluth,St. Louis,2009,6,58.8
+Duluth,St. Louis,2009,7,62.1
+Duluth,St. Louis,2009,8,62.2
+Duluth,St. Louis,2009,9,62.1
+Duluth,St. Louis,2009,10,39
+Duluth,St. Louis,2009,11,37.9
+Duluth,St. Louis,2009,12,12.4
+Duluth,St. Louis,2010,1,10.6
+Duluth,St. Louis,2010,2,15.5
+Duluth,St. Louis,2010,3,37
+Duluth,St. Louis,2010,4,46.1
+Duluth,St. Louis,2010,5,53.8
+Duluth,St. Louis,2010,6,59.8
+Duluth,St. Louis,2010,7,69
+Duluth,St. Louis,2010,8,68.1
+Duluth,St. Louis,2010,9,52
+Duluth,St. Louis,2010,10,46.9
+Duluth,St. Louis,2010,11,30.5
+Duluth,St. Louis,2010,12,12.8
+Duluth,St. Louis,2011,1,7.1
+Duluth,St. Louis,2011,2,14.5
+Duluth,St. Louis,2011,3,24
+Duluth,St. Louis,2011,4,39.1
+Duluth,St. Louis,2011,5,49.7
+Duluth,St. Louis,2011,6,58.1
+Duluth,St. Louis,2011,7,69.8
+Duluth,St. Louis,2011,8,66.8
+Duluth,St. Louis,2011,9,56.2
+Duluth,St. Louis,2011,10,48.5
+Duluth,St. Louis,2011,11,33.1
+Duluth,St. Louis,2011,12,21.7
+Duluth,St. Louis,2012,1,18
+Duluth,St. Louis,2012,2,23.7
+Duluth,St. Louis,2012,3,39.2
+Duluth,St. Louis,2012,4,42.4
+Duluth,St. Louis,2012,5,55
+Duluth,St. Louis,2012,6,64.2
+Duluth,St. Louis,2012,7,71.9
+Duluth,St. Louis,2012,8,66.1
+Duluth,St. Louis,2012,9,56.2
+Duluth,St. Louis,2012,10,42.5
+Duluth,St. Louis,2012,11,30.9
+Duluth,St. Louis,2012,12,18.4
+Duluth,St. Louis,2013,1,12.1
+Duluth,St. Louis,2013,2,14.6
+Duluth,St. Louis,2013,3,21.8
+Duluth,St. Louis,2013,4,34.4
+Duluth,St. Louis,2013,5,49.5
+Duluth,St. Louis,2013,6,61.6
+Duluth,St. Louis,2013,7,67.8
+Duluth,St. Louis,2013,8,69
+Duluth,St. Louis,2013,9,59.9
+Duluth,St. Louis,2013,10,45
+Duluth,St. Louis,2013,11,27.9
+Duluth,St. Louis,2013,12,4.6
+Duluth,St. Louis,2014,1,1.6
+Duluth,St. Louis,2014,2,5.3
+Duluth,St. Louis,2014,3,18.4
+Duluth,St. Louis,2014,4,35.1
+Duluth,St. Louis,2014,5,51.9
+Duluth,St. Louis,2014,6,60.5
+Duluth,St. Louis,2014,7,66.3
+Duluth,St. Louis,2014,8,64.7
+Duluth,St. Louis,2014,9,57.4
+Duluth,St. Louis,2014,10,44.8
+Duluth,St. Louis,2014,11,21.8
+Duluth,St. Louis,2014,12,21.5
+Duluth,St. Louis,2015,1,12.7
+Duluth,St. Louis,2015,2,5.2
+Duluth,St. Louis,2015,3,30.6
+Duluth,St. Louis,2015,4,42.2
+Duluth,St. Louis,2015,5,51.7
+Duluth,St. Louis,2015,6,61.4
+Duluth,St. Louis,2015,7,69.2
+Duluth,St. Louis,2015,8,65.4
+Duluth,St. Louis,2015,9,61.5
+Duluth,St. Louis,2015,10,46.3
+Duluth,St. Louis,2015,11,36.7
+Duluth,St. Louis,2015,12,26.4
+Duluth,St. Louis,2016,1,12.8
+Duluth,St. Louis,2016,2,17.3
+Duluth,St. Louis,2016,3,31.6
+Duluth,St. Louis,2016,4,37.7
+Duluth,St. Louis,2016,5,53.2
+Duluth,St. Louis,2016,6,61.5
+Duluth,St. Louis,2016,7,67.1
+Duluth,St. Louis,2016,8,67.5
+Duluth,St. Louis,2016,9,59.9
+Duluth,St. Louis,2016,10,47.6
+Duluth,St. Louis,2016,11,40.2
+Duluth,St. Louis,2016,12,15.9
+Brainerd,Crow Wing,2007,1,15.5
+Brainerd,Crow Wing,2007,2,9.6
+Brainerd,Crow Wing,2007,3,33.2
+Brainerd,Crow Wing,2007,4,41.9
+Brainerd,Crow Wing,2007,5,59.5
+Brainerd,Crow Wing,2007,6,68.7
+Brainerd,Crow Wing,2007,7,73
+Brainerd,Crow Wing,2007,8,67.5
+Brainerd,Crow Wing,2007,9,60.2
+Brainerd,Crow Wing,2007,10,50.2
+Brainerd,Crow Wing,2007,11,31.3
+Brainerd,Crow Wing,2007,12,11.2
+Brainerd,Crow Wing,2008,1,9
+Brainerd,Crow Wing,2008,2,9.7
+Brainerd,Crow Wing,2008,3,24
+Brainerd,Crow Wing,2008,4,40
+Brainerd,Crow Wing,2008,5,52.4
+Brainerd,Crow Wing,2008,6,63.2
+Brainerd,Crow Wing,2008,7,69.3
+Brainerd,Crow Wing,2008,8,68.1
+Brainerd,Crow Wing,2008,9,59
+Brainerd,Crow Wing,2008,10,46.7
+Brainerd,Crow Wing,2008,11,31.6
+Brainerd,Crow Wing,2008,12,7.1
+Brainerd,Crow Wing,2009,1,3.1
+Brainerd,Crow Wing,2009,2,15.3
+Brainerd,Crow Wing,2009,3,26.3
+Brainerd,Crow Wing,2009,4,43.3
+Brainerd,Crow Wing,2009,5,54.2
+Brainerd,Crow Wing,2009,6,62.6
+Brainerd,Crow Wing,2009,7,65.3
+Brainerd,Crow Wing,2009,8,65.4
+Brainerd,Crow Wing,2009,9,63.6
+Brainerd,Crow Wing,2009,10,40
+Brainerd,Crow Wing,2009,11,38.5
+Brainerd,Crow Wing,2009,12,12.7
+Brainerd,Crow Wing,2010,1,9.4
+Brainerd,Crow Wing,2010,2,15
+Brainerd,Crow Wing,2010,3,38.1
+Brainerd,Crow Wing,2010,4,50.5
+Brainerd,Crow Wing,2010,5,56.2
+Brainerd,Crow Wing,2010,6,65
+Brainerd,Crow Wing,2010,7,71.2
+Brainerd,Crow Wing,2010,8,71.1
+Brainerd,Crow Wing,2010,9,55
+Brainerd,Crow Wing,2010,10,49.1
+Brainerd,Crow Wing,2010,11,31.7
+Brainerd,Crow Wing,2010,12,13.6
+Brainerd,Crow Wing,2011,1,5.9
+Brainerd,Crow Wing,2011,2,13.9
+Brainerd,Crow Wing,2011,3,24.1
+Brainerd,Crow Wing,2011,4,42.2
+Brainerd,Crow Wing,2011,5,55.1
+Brainerd,Crow Wing,2011,6,64.3
+Brainerd,Crow Wing,2011,7,73.3
+Brainerd,Crow Wing,2011,8,69.3
+Brainerd,Crow Wing,2011,9,58.2
+Brainerd,Crow Wing,2011,10,51.2
+Brainerd,Crow Wing,2011,11,33.7
+Brainerd,Crow Wing,2011,12,24.2
+Brainerd,Crow Wing,2012,1,18.5
+Brainerd,Crow Wing,2012,2,24.1
+Brainerd,Crow Wing,2012,3,42
+Brainerd,Crow Wing,2012,4,46.1
+Brainerd,Crow Wing,2012,5,58.6
+Brainerd,Crow Wing,2012,6,67.1
+Brainerd,Crow Wing,2012,7,74.4
+Brainerd,Crow Wing,2012,8,67.2
+Brainerd,Crow Wing,2012,9,57.9
+Brainerd,Crow Wing,2012,10,44.5
+Brainerd,Crow Wing,2012,11,33.1
+Brainerd,Crow Wing,2012,12,17.3
+Brainerd,Crow Wing,2013,1,12.8
+Brainerd,Crow Wing,2013,2,14.5
+Brainerd,Crow Wing,2013,3,21.9
+Brainerd,Crow Wing,2013,4,35.4
+Brainerd,Crow Wing,2013,5,53.9
+Brainerd,Crow Wing,2013,6,64.4
+Brainerd,Crow Wing,2013,7,70.7
+Brainerd,Crow Wing,2013,8,69.8
+Brainerd,Crow Wing,2013,9,62.3
+Brainerd,Crow Wing,2013,10,45.6
+Brainerd,Crow Wing,2013,11,28.8
+Brainerd,Crow Wing,2013,12,4.7
+Brainerd,Crow Wing,2014,1,1.6
+Brainerd,Crow Wing,2014,2,7.1
+Brainerd,Crow Wing,2014,3,22.5
+Brainerd,Crow Wing,2014,4,41.5
+Brainerd,Crow Wing,2014,5,58.9
+Brainerd,Crow Wing,2014,6,69.5
+Brainerd,Crow Wing,2014,7,68
+Brainerd,Crow Wing,2014,8,66
+Brainerd,Crow Wing,2014,9,56.4
+Brainerd,Crow Wing,2014,10,43.9
+Brainerd,Crow Wing,2014,11,20.1
+Brainerd,Crow Wing,2014,12,20.7
+Brainerd,Crow Wing,2015,1,14
+Brainerd,Crow Wing,2015,2,6.1
+Brainerd,Crow Wing,2015,3,30.1
+Brainerd,Crow Wing,2015,4,44.4
+Brainerd,Crow Wing,2015,5,53.4
+Brainerd,Crow Wing,2015,6,64.5
+Brainerd,Crow Wing,2015,7,69.9
+Brainerd,Crow Wing,2015,8,65.9
+Brainerd,Crow Wing,2015,9,63.5
+Brainerd,Crow Wing,2015,10,47
+Brainerd,Crow Wing,2015,11,37.1
+Brainerd,Crow Wing,2015,12,25
+Brainerd,Crow Wing,2016,1,11.8
+Brainerd,Crow Wing,2016,2,19.3
+Brainerd,Crow Wing,2016,3,36.1
+Brainerd,Crow Wing,2016,4,42.5
+Brainerd,Crow Wing,2016,5,55.3
+Brainerd,Crow Wing,2016,6,64.5
+Brainerd,Crow Wing,2016,7,69.2
+Brainerd,Crow Wing,2016,8,67.9
+Brainerd,Crow Wing,2016,9,59.5
+Brainerd,Crow Wing,2016,10,47.4
+Brainerd,Crow Wing,2016,11,38.9
+Brainerd,Crow Wing,2016,12,15
+Aitkin,Aitkin,2007,1,M
+Aitkin,Aitkin,2007,2,M
+Aitkin,Aitkin,2007,3,M
+Aitkin,Aitkin,2007,4,M
+Aitkin,Aitkin,2007,5,M
+Aitkin,Aitkin,2007,6,M
+Aitkin,Aitkin,2007,7,M
+Aitkin,Aitkin,2007,8,M
+Aitkin,Aitkin,2007,9,M
+Aitkin,Aitkin,2007,10,M
+Aitkin,Aitkin,2007,11,M
+Aitkin,Aitkin,2007,12,M
+Aitkin,Aitkin,2008,1,M
+Aitkin,Aitkin,2008,2,M
+Aitkin,Aitkin,2008,3,M
+Aitkin,Aitkin,2008,4,M
+Aitkin,Aitkin,2008,5,M
+Aitkin,Aitkin,2008,6,M
+Aitkin,Aitkin,2008,7,M
+Aitkin,Aitkin,2008,8,M
+Aitkin,Aitkin,2008,9,M
+Aitkin,Aitkin,2008,10,46.5
+Aitkin,Aitkin,2008,11,30.7
+Aitkin,Aitkin,2008,12,9.3
+Aitkin,Aitkin,2009,1,3.2
+Aitkin,Aitkin,2009,2,14.6
+Aitkin,Aitkin,2009,3,23.6
+Aitkin,Aitkin,2009,4,41.3
+Aitkin,Aitkin,2009,5,50.2
+Aitkin,Aitkin,2009,6,59.5
+Aitkin,Aitkin,2009,7,M
+Aitkin,Aitkin,2009,8,61.3
+Aitkin,Aitkin,2009,9,62.1
+Aitkin,Aitkin,2009,10,40.4
+Aitkin,Aitkin,2009,11,39.5
+Aitkin,Aitkin,2009,12,13.6
+Aitkin,Aitkin,2010,1,10.2
+Aitkin,Aitkin,2010,2,13.9
+Aitkin,Aitkin,2010,3,35.6
+Aitkin,Aitkin,2010,4,48.3
+Aitkin,Aitkin,2010,5,55.1
+Aitkin,Aitkin,2010,6,62.4
+Aitkin,Aitkin,2010,7,M
+Aitkin,Aitkin,2010,8,M
+Aitkin,Aitkin,2010,9,54.1
+Aitkin,Aitkin,2010,10,49.8
+Aitkin,Aitkin,2010,11,32
+Aitkin,Aitkin,2010,12,13.3
+Aitkin,Aitkin,2011,1,3.8
+Aitkin,Aitkin,2011,2,12.9
+Aitkin,Aitkin,2011,3,23.5
+Aitkin,Aitkin,2011,4,40
+Aitkin,Aitkin,2011,5,51.4
+Aitkin,Aitkin,2011,6,M
+Aitkin,Aitkin,2011,7,M
+Aitkin,Aitkin,2011,8,68.6
+Aitkin,Aitkin,2011,9,56.3
+Aitkin,Aitkin,2011,10,50.7
+Aitkin,Aitkin,2011,11,32.4
+Aitkin,Aitkin,2011,12,25.5
+Aitkin,Aitkin,2012,1,18
+Aitkin,Aitkin,2012,2,22.8
+Aitkin,Aitkin,2012,3,M
+Aitkin,Aitkin,2012,4,M
+Aitkin,Aitkin,2012,5,54
+Aitkin,Aitkin,2012,6,M
+Aitkin,Aitkin,2012,7,M
+Aitkin,Aitkin,2012,8,M
+Aitkin,Aitkin,2012,9,M
+Aitkin,Aitkin,2012,10,M
+Aitkin,Aitkin,2012,11,32.5
+Aitkin,Aitkin,2012,12,17.9
+Aitkin,Aitkin,2013,1,M
+Aitkin,Aitkin,2013,2,13
+Aitkin,Aitkin,2013,3,M
+Aitkin,Aitkin,2013,4,32.4
+Aitkin,Aitkin,2013,5,M
+Aitkin,Aitkin,2013,6,M
+Aitkin,Aitkin,2013,7,M
+Aitkin,Aitkin,2013,8,M
+Aitkin,Aitkin,2013,9,M
+Aitkin,Aitkin,2013,10,M
+Aitkin,Aitkin,2013,11,M
+Aitkin,Aitkin,2013,12,M
+Aitkin,Aitkin,2014,1,M
+Aitkin,Aitkin,2014,2,M
+Aitkin,Aitkin,2014,3,M
+Aitkin,Aitkin,2014,4,M
+Aitkin,Aitkin,2014,5,53.9
+Aitkin,Aitkin,2014,6,64.8
+Aitkin,Aitkin,2014,7,66.9
+Aitkin,Aitkin,2014,8,68.2
+Aitkin,Aitkin,2014,9,58.1
+Aitkin,Aitkin,2014,10,45.3
+Aitkin,Aitkin,2014,11,21.6
+Aitkin,Aitkin,2014,12,21.3
+Aitkin,Aitkin,2015,1,13.5
+Aitkin,Aitkin,2015,2,4.5
+Aitkin,Aitkin,2015,3,30.3
+Aitkin,Aitkin,2015,4,42.7
+Aitkin,Aitkin,2015,5,M
+Aitkin,Aitkin,2015,6,63.4
+Aitkin,Aitkin,2015,7,69.9
+Aitkin,Aitkin,2015,8,M
+Aitkin,Aitkin,2015,9,64.8
+Aitkin,Aitkin,2015,10,46.3
+Aitkin,Aitkin,2015,11,M
+Aitkin,Aitkin,2015,12,M
+Aitkin,Aitkin,2016,1,12
+Aitkin,Aitkin,2016,2,20.9
+Aitkin,Aitkin,2016,3,34.7
+Aitkin,Aitkin,2016,4,41
+Aitkin,Aitkin,2016,5,54.6
+Aitkin,Aitkin,2016,6,62.7
+Aitkin,Aitkin,2016,7,68.8
+Aitkin,Aitkin,2016,8,68.6
+Aitkin,Aitkin,2016,9,59.7
+Aitkin,Aitkin,2016,10,48.9
+Aitkin,Aitkin,2016,11,40.4
+Aitkin,Aitkin,2016,12,M
+Grand Marais,Cook,2007,1,16.8
+Grand Marais,Cook,2007,2,10.3
+Grand Marais,Cook,2007,3,29.5
+Grand Marais,Cook,2007,4,40
+Grand Marais,Cook,2007,5,52.3
+Grand Marais,Cook,2007,6,58.8
+Grand Marais,Cook,2007,7,64.4
+Grand Marais,Cook,2007,8,63
+Grand Marais,Cook,2007,9,56.1
+Grand Marais,Cook,2007,10,47.8
+Grand Marais,Cook,2007,11,30
+Grand Marais,Cook,2007,12,16.3
+Grand Marais,Cook,2008,1,M
+Grand Marais,Cook,2008,2,14.3
+Grand Marais,Cook,2008,3,M
+Grand Marais,Cook,2008,4,38
+Grand Marais,Cook,2008,5,46.4
+Grand Marais,Cook,2008,6,57
+Grand Marais,Cook,2008,7,63
+Grand Marais,Cook,2008,8,64.1
+Grand Marais,Cook,2008,9,55.6
+Grand Marais,Cook,2008,10,44.9
+Grand Marais,Cook,2008,11,31.2
+Grand Marais,Cook,2008,12,8.9
+Grand Marais,Cook,2009,1,6.9
+Grand Marais,Cook,2009,2,17.5
+Grand Marais,Cook,2009,3,24.7
+Grand Marais,Cook,2009,4,38.5
+Grand Marais,Cook,2009,5,48
+Grand Marais,Cook,2009,6,M
+Grand Marais,Cook,2009,7,59.7
+Grand Marais,Cook,2009,8,59.8
+Grand Marais,Cook,2009,9,57.4
+Grand Marais,Cook,2009,10,40.9
+Grand Marais,Cook,2009,11,37.7
+Grand Marais,Cook,2009,12,16.6
+Grand Marais,Cook,2010,1,15.7
+Grand Marais,Cook,2010,2,20.1
+Grand Marais,Cook,2010,3,35.8
+Grand Marais,Cook,2010,4,44
+Grand Marais,Cook,2010,5,51.2
+Grand Marais,Cook,2010,6,56.9
+Grand Marais,Cook,2010,7,66.5
+Grand Marais,Cook,2010,8,65.3
+Grand Marais,Cook,2010,9,50.7
+Grand Marais,Cook,2010,10,45.9
+Grand Marais,Cook,2010,11,32.8
+Grand Marais,Cook,2010,12,17.3
+Grand Marais,Cook,2011,1,10.1
+Grand Marais,Cook,2011,2,16.1
+Grand Marais,Cook,2011,3,24.7
+Grand Marais,Cook,2011,4,37.7
+Grand Marais,Cook,2011,5,48.3
+Grand Marais,Cook,2011,6,57.1
+Grand Marais,Cook,2011,7,66.3
+Grand Marais,Cook,2011,8,64.2
+Grand Marais,Cook,2011,9,55.3
+Grand Marais,Cook,2011,10,46.4
+Grand Marais,Cook,2011,11,M
+Grand Marais,Cook,2011,12,M
+Grand Marais,Cook,2012,1,M
+Grand Marais,Cook,2012,2,M
+Grand Marais,Cook,2012,3,M
+Grand Marais,Cook,2012,4,M
+Grand Marais,Cook,2012,5,51
+Grand Marais,Cook,2012,6,59.1
+Grand Marais,Cook,2012,7,68.1
+Grand Marais,Cook,2012,8,63.9
+Grand Marais,Cook,2012,9,54.1
+Grand Marais,Cook,2012,10,41
+Grand Marais,Cook,2012,11,30.1
+Grand Marais,Cook,2012,12,20.4
+Grand Marais,Cook,2013,1,12.4
+Grand Marais,Cook,2013,2,11.4
+Grand Marais,Cook,2013,3,21.8
+Grand Marais,Cook,2013,4,31.5
+Grand Marais,Cook,2013,5,44.8
+Grand Marais,Cook,2013,6,54.8
+Grand Marais,Cook,2013,7,57.6
+Grand Marais,Cook,2013,8,62.4
+Grand Marais,Cook,2013,9,56.3
+Grand Marais,Cook,2013,10,44.7
+Grand Marais,Cook,2013,11,29.8
+Grand Marais,Cook,2013,12,8.9
+Grand Marais,Cook,2014,1,2.5
+Grand Marais,Cook,2014,2,7.5
+Grand Marais,Cook,2014,3,16.8
+Grand Marais,Cook,2014,4,34.7
+Grand Marais,Cook,2014,5,45
+Grand Marais,Cook,2014,6,49.7
+Grand Marais,Cook,2014,7,56.5
+Grand Marais,Cook,2014,8,60.9
+Grand Marais,Cook,2014,9,53.6
+Grand Marais,Cook,2014,10,43.8
+Grand Marais,Cook,2014,11,24
+Grand Marais,Cook,2014,12,22.4
+Grand Marais,Cook,2015,1,11.6
+Grand Marais,Cook,2015,2,2.9
+Grand Marais,Cook,2015,3,25.9
+Grand Marais,Cook,2015,4,37.7
+Grand Marais,Cook,2015,5,45.7
+Grand Marais,Cook,2015,6,51
+Grand Marais,Cook,2015,7,60.4
+Grand Marais,Cook,2015,8,59.8
+Grand Marais,Cook,2015,9,57.9
+Grand Marais,Cook,2015,10,44.9
+Grand Marais,Cook,2015,11,36.6
+Grand Marais,Cook,2015,12,27.7
+Grand Marais,Cook,2016,1,16.1
+Grand Marais,Cook,2016,2,16.9
+Grand Marais,Cook,2016,3,29.3
+Grand Marais,Cook,2016,4,33.7
+Grand Marais,Cook,2016,5,47.4
+Grand Marais,Cook,2016,6,54.4
+Grand Marais,Cook,2016,7,61.9
+Grand Marais,Cook,2016,8,64.7
+Grand Marais,Cook,2016,9,59.3
+Grand Marais,Cook,2016,10,47.4
+Grand Marais,Cook,2016,11,38.6
+Grand Marais,Cook,2016,12,19.3
+Grand Rapids,Itasca,2007,1,13.8
+Grand Rapids,Itasca,2007,2,7.9
+Grand Rapids,Itasca,2007,3,31.3
+Grand Rapids,Itasca,2007,4,40.9
+Grand Rapids,Itasca,2007,5,57.6
+Grand Rapids,Itasca,2007,6,66.8
+Grand Rapids,Itasca,2007,7,69.8
+Grand Rapids,Itasca,2007,8,65.7
+Grand Rapids,Itasca,2007,9,57
+Grand Rapids,Itasca,2007,10,48.3
+Grand Rapids,Itasca,2007,11,28.9
+Grand Rapids,Itasca,2007,12,12
+Grand Rapids,Itasca,2008,1,8.3
+Grand Rapids,Itasca,2008,2,9.3
+Grand Rapids,Itasca,2008,3,23.8
+Grand Rapids,Itasca,2008,4,39.1
+Grand Rapids,Itasca,2008,5,50.2
+Grand Rapids,Itasca,2008,6,61.8
+Grand Rapids,Itasca,2008,7,66.9
+Grand Rapids,Itasca,2008,8,66.2
+Grand Rapids,Itasca,2008,9,57.1
+Grand Rapids,Itasca,2008,10,45.3
+Grand Rapids,Itasca,2008,11,29.7
+Grand Rapids,Itasca,2008,12,4.5
+Grand Rapids,Itasca,2009,1,2.6
+Grand Rapids,Itasca,2009,2,15.4
+Grand Rapids,Itasca,2009,3,26.1
+Grand Rapids,Itasca,2009,4,42.4
+Grand Rapids,Itasca,2009,5,51.4
+Grand Rapids,Itasca,2009,6,61.3
+Grand Rapids,Itasca,2009,7,62.6
+Grand Rapids,Itasca,2009,8,63.1
+Grand Rapids,Itasca,2009,9,62.6
+Grand Rapids,Itasca,2009,10,38.7
+Grand Rapids,Itasca,2009,11,36.9
+Grand Rapids,Itasca,2009,12,11.7
+Grand Rapids,Itasca,2010,1,9.4
+Grand Rapids,Itasca,2010,2,15.5
+Grand Rapids,Itasca,2010,3,37.6
+Grand Rapids,Itasca,2010,4,48.7
+Grand Rapids,Itasca,2010,5,55.4
+Grand Rapids,Itasca,2010,6,62.1
+Grand Rapids,Itasca,2010,7,69.3
+Grand Rapids,Itasca,2010,8,69
+Grand Rapids,Itasca,2010,9,53
+Grand Rapids,Itasca,2010,10,47.8
+Grand Rapids,Itasca,2010,11,30.5
+Grand Rapids,Itasca,2010,12,11.4
+Grand Rapids,Itasca,2011,1,4.8
+Grand Rapids,Itasca,2011,2,13.6
+Grand Rapids,Itasca,2011,3,25.4
+Grand Rapids,Itasca,2011,4,40.8
+Grand Rapids,Itasca,2011,5,52.7
+Grand Rapids,Itasca,2011,6,61.4
+Grand Rapids,Itasca,2011,7,71.3
+Grand Rapids,Itasca,2011,8,67.3
+Grand Rapids,Itasca,2011,9,55.3
+Grand Rapids,Itasca,2011,10,48.2
+Grand Rapids,Itasca,2011,11,31.3
+Grand Rapids,Itasca,2011,12,21.1
+Grand Rapids,Itasca,2012,1,16
+Grand Rapids,Itasca,2012,2,22.4
+Grand Rapids,Itasca,2012,3,39.3
+Grand Rapids,Itasca,2012,4,42.8
+Grand Rapids,Itasca,2012,5,55.6
+Grand Rapids,Itasca,2012,6,65.2
+Grand Rapids,Itasca,2012,7,72.4
+Grand Rapids,Itasca,2012,8,66
+Grand Rapids,Itasca,2012,9,55.6
+Grand Rapids,Itasca,2012,10,41.5
+Grand Rapids,Itasca,2012,11,29
+Grand Rapids,Itasca,2012,12,14.5
+Grand Rapids,Itasca,2013,1,9.8
+Grand Rapids,Itasca,2013,2,13.1
+Grand Rapids,Itasca,2013,3,22
+Grand Rapids,Itasca,2013,4,34.1
+Grand Rapids,Itasca,2013,5,52.1
+Grand Rapids,Itasca,2013,6,61.7
+Grand Rapids,Itasca,2013,7,67.5
+Grand Rapids,Itasca,2013,8,67.2
+Grand Rapids,Itasca,2013,9,59.3
+Grand Rapids,Itasca,2013,10,43.1
+Grand Rapids,Itasca,2013,11,25.6
+Grand Rapids,Itasca,2013,12,1
+Grand Rapids,Itasca,2014,1,-0.7
+Grand Rapids,Itasca,2014,2,3.3
+Grand Rapids,Itasca,2014,3,17.9
+Grand Rapids,Itasca,2014,4,36.1
+Grand Rapids,Itasca,2014,5,53.1
+Grand Rapids,Itasca,2014,6,63.3
+Grand Rapids,Itasca,2014,7,65.9
+Grand Rapids,Itasca,2014,8,65.3
+Grand Rapids,Itasca,2014,9,56.6
+Grand Rapids,Itasca,2014,10,43.2
+Grand Rapids,Itasca,2014,11,19.6
+Grand Rapids,Itasca,2014,12,18.9
+Grand Rapids,Itasca,2015,1,11.3
+Grand Rapids,Itasca,2015,2,3.8
+Grand Rapids,Itasca,2015,3,29.4
+Grand Rapids,Itasca,2015,4,42.7
+Grand Rapids,Itasca,2015,5,52.2
+Grand Rapids,Itasca,2015,6,63.1
+Grand Rapids,Itasca,2015,7,69.4
+Grand Rapids,Itasca,2015,8,64.9
+Grand Rapids,Itasca,2015,9,62.2
+Grand Rapids,Itasca,2015,10,45.8
+Grand Rapids,Itasca,2015,11,35.2
+Grand Rapids,Itasca,2015,12,23.7
+Grand Rapids,Itasca,2016,1,11.5
+Grand Rapids,Itasca,2016,2,17.4
+Grand Rapids,Itasca,2016,3,34.2
+Grand Rapids,Itasca,2016,4,40.8
+Grand Rapids,Itasca,2016,5,55.3
+Grand Rapids,Itasca,2016,6,62.8
+Grand Rapids,Itasca,2016,7,68.8
+Grand Rapids,Itasca,2016,8,67.6
+Grand Rapids,Itasca,2016,9,59.3
+Grand Rapids,Itasca,2016,10,47
+Grand Rapids,Itasca,2016,11,38.4
+Grand Rapids,Itasca,2016,12,13.6
+International Falls,Koochiching,2007,1,9.5
+International Falls,Koochiching,2007,2,2.5
+International Falls,Koochiching,2007,3,26.3
+International Falls,Koochiching,2007,4,37.2
+International Falls,Koochiching,2007,5,55
+International Falls,Koochiching,2007,6,63
+International Falls,Koochiching,2007,7,65.5
+International Falls,Koochiching,2007,8,61.5
+International Falls,Koochiching,2007,9,53.9
+International Falls,Koochiching,2007,10,44.4
+International Falls,Koochiching,2007,11,26
+International Falls,Koochiching,2007,12,8.5
+International Falls,Koochiching,2008,1,5.1
+International Falls,Koochiching,2008,2,4
+International Falls,Koochiching,2008,3,18.8
+International Falls,Koochiching,2008,4,35.9
+International Falls,Koochiching,2008,5,45.5
+International Falls,Koochiching,2008,6,57.9
+International Falls,Koochiching,2008,7,62.4
+International Falls,Koochiching,2008,8,62.2
+International Falls,Koochiching,2008,9,53.4
+International Falls,Koochiching,2008,10,42.7
+International Falls,Koochiching,2008,11,26.7
+International Falls,Koochiching,2008,12,-0.3
+International Falls,Koochiching,2009,1,-3.1
+International Falls,Koochiching,2009,2,8
+International Falls,Koochiching,2009,3,21.7
+International Falls,Koochiching,2009,4,38.6
+International Falls,Koochiching,2009,5,46.4
+International Falls,Koochiching,2009,6,57.8
+International Falls,Koochiching,2009,7,58.8
+International Falls,Koochiching,2009,8,60.3
+International Falls,Koochiching,2009,9,59.7
+International Falls,Koochiching,2009,10,37.7
+International Falls,Koochiching,2009,11,34.3
+International Falls,Koochiching,2009,12,7.7
+International Falls,Koochiching,2010,1,6.8
+International Falls,Koochiching,2010,2,8.5
+International Falls,Koochiching,2010,3,34.4
+International Falls,Koochiching,2010,4,45.6
+International Falls,Koochiching,2010,5,53.2
+International Falls,Koochiching,2010,6,58.9
+International Falls,Koochiching,2010,7,66.3
+International Falls,Koochiching,2010,8,65.8
+International Falls,Koochiching,2010,9,49.9
+International Falls,Koochiching,2010,10,45.8
+International Falls,Koochiching,2010,11,28.9
+International Falls,Koochiching,2010,12,7.8
+International Falls,Koochiching,2011,1,-1
+International Falls,Koochiching,2011,2,9.2
+International Falls,Koochiching,2011,3,21.5
+International Falls,Koochiching,2011,4,39.5
+International Falls,Koochiching,2011,5,50.9
+International Falls,Koochiching,2011,6,58.7
+International Falls,Koochiching,2011,7,67.5
+International Falls,Koochiching,2011,8,64.2
+International Falls,Koochiching,2011,9,53
+International Falls,Koochiching,2011,10,46.4
+International Falls,Koochiching,2011,11,29
+International Falls,Koochiching,2011,12,18.7
+International Falls,Koochiching,2012,1,14
+International Falls,Koochiching,2012,2,19.6
+International Falls,Koochiching,2012,3,38.2
+International Falls,Koochiching,2012,4,39.9
+International Falls,Koochiching,2012,5,53
+International Falls,Koochiching,2012,6,62.9
+International Falls,Koochiching,2012,7,69
+International Falls,Koochiching,2012,8,62
+International Falls,Koochiching,2012,9,51.5
+International Falls,Koochiching,2012,10,39.1
+International Falls,Koochiching,2012,11,26.1
+International Falls,Koochiching,2012,12,11.4
+International Falls,Koochiching,2013,1,5.6
+International Falls,Koochiching,2013,2,7.8
+International Falls,Koochiching,2013,3,16
+International Falls,Koochiching,2013,4,31.2
+International Falls,Koochiching,2013,5,49.7
+International Falls,Koochiching,2013,6,60.2
+International Falls,Koochiching,2013,7,64.9
+International Falls,Koochiching,2013,8,63.1
+International Falls,Koochiching,2013,9,57.8
+International Falls,Koochiching,2013,10,41.4
+International Falls,Koochiching,2013,11,25.1
+International Falls,Koochiching,2013,12,-4.1
+International Falls,Koochiching,2014,1,-3.7
+International Falls,Koochiching,2014,2,-0.2
+International Falls,Koochiching,2014,3,12.9
+International Falls,Koochiching,2014,4,34.6
+International Falls,Koochiching,2014,5,51.4
+International Falls,Koochiching,2014,6,61.4
+International Falls,Koochiching,2014,7,62.9
+International Falls,Koochiching,2014,8,61.7
+International Falls,Koochiching,2014,9,54.4
+International Falls,Koochiching,2014,10,42.4
+International Falls,Koochiching,2014,11,18.8
+International Falls,Koochiching,2014,12,17.6
+International Falls,Koochiching,2015,1,6.3
+International Falls,Koochiching,2015,2,-2
+International Falls,Koochiching,2015,3,27
+International Falls,Koochiching,2015,4,39.5
+International Falls,Koochiching,2015,5,50.1
+International Falls,Koochiching,2015,6,59.9
+International Falls,Koochiching,2015,7,66.2
+International Falls,Koochiching,2015,8,62.8
+International Falls,Koochiching,2015,9,59
+International Falls,Koochiching,2015,10,43.4
+International Falls,Koochiching,2015,11,33.3
+International Falls,Koochiching,2015,12,22.3
+International Falls,Koochiching,2016,1,10
+International Falls,Koochiching,2016,2,12.4
+International Falls,Koochiching,2016,3,29.2
+International Falls,Koochiching,2016,4,37.3
+International Falls,Koochiching,2016,5,52.9
+International Falls,Koochiching,2016,6,59.7
+International Falls,Koochiching,2016,7,65.9
+International Falls,Koochiching,2016,8,63.9
+International Falls,Koochiching,2016,9,57.1
+International Falls,Koochiching,2016,10,44.6
+International Falls,Koochiching,2016,11,37.2
+International Falls,Koochiching,2016,12,11
+Detroit Lakes,Becker,2007,1,M
+Detroit Lakes,Becker,2007,2,7.1
+Detroit Lakes,Becker,2007,3,M
+Detroit Lakes,Becker,2007,4,42.9
+Detroit Lakes,Becker,2007,5,60.4
+Detroit Lakes,Becker,2007,6,M
+Detroit Lakes,Becker,2007,7,72.7
+Detroit Lakes,Becker,2007,8,67.3
+Detroit Lakes,Becker,2007,9,61
+Detroit Lakes,Becker,2007,10,48.4
+Detroit Lakes,Becker,2007,11,M
+Detroit Lakes,Becker,2007,12,M
+Detroit Lakes,Becker,2008,1,M
+Detroit Lakes,Becker,2008,2,M
+Detroit Lakes,Becker,2008,3,M
+Detroit Lakes,Becker,2008,4,M
+Detroit Lakes,Becker,2008,5,M
+Detroit Lakes,Becker,2008,6,M
+Detroit Lakes,Becker,2008,7,M
+Detroit Lakes,Becker,2008,8,68.3
+Detroit Lakes,Becker,2008,9,M
+Detroit Lakes,Becker,2008,10,M
+Detroit Lakes,Becker,2008,11,M
+Detroit Lakes,Becker,2008,12,M
+Detroit Lakes,Becker,2009,1,M
+Detroit Lakes,Becker,2009,2,M
+Detroit Lakes,Becker,2009,3,M
+Detroit Lakes,Becker,2009,4,40.2
+Detroit Lakes,Becker,2009,5,M
+Detroit Lakes,Becker,2009,6,M
+Detroit Lakes,Becker,2009,7,63.4
+Detroit Lakes,Becker,2009,8,65
+Detroit Lakes,Becker,2009,9,62.6
+Detroit Lakes,Becker,2009,10,M
+Detroit Lakes,Becker,2009,11,37.5
+Detroit Lakes,Becker,2009,12,M
+Detroit Lakes,Becker,2010,1,M
+Detroit Lakes,Becker,2010,2,M
+Detroit Lakes,Becker,2010,3,37.4
+Detroit Lakes,Becker,2010,4,M
+Detroit Lakes,Becker,2010,5,57.2
+Detroit Lakes,Becker,2010,6,62.8
+Detroit Lakes,Becker,2010,7,69.5
+Detroit Lakes,Becker,2010,8,M
+Detroit Lakes,Becker,2010,9,55.2
+Detroit Lakes,Becker,2010,10,M
+Detroit Lakes,Becker,2010,11,M
+Detroit Lakes,Becker,2010,12,M
+Detroit Lakes,Becker,2011,1,M
+Detroit Lakes,Becker,2011,2,M
+Detroit Lakes,Becker,2011,3,M
+Detroit Lakes,Becker,2011,4,M
+Detroit Lakes,Becker,2011,5,M
+Detroit Lakes,Becker,2011,6,64.2
+Detroit Lakes,Becker,2011,7,72.9
+Detroit Lakes,Becker,2011,8,68.7
+Detroit Lakes,Becker,2011,9,M
+Detroit Lakes,Becker,2011,10,M
+Detroit Lakes,Becker,2011,11,M
+Detroit Lakes,Becker,2011,12,M
+Detroit Lakes,Becker,2012,1,M
+Detroit Lakes,Becker,2012,2,21.4
+Detroit Lakes,Becker,2012,3,42.8
+Detroit Lakes,Becker,2012,4,47.4
+Detroit Lakes,Becker,2012,5,58.6
+Detroit Lakes,Becker,2012,6,66.7
+Detroit Lakes,Becker,2012,7,73.6
+Detroit Lakes,Becker,2012,8,66.5
+Detroit Lakes,Becker,2012,9,57.7
+Detroit Lakes,Becker,2012,10,43.8
+Detroit Lakes,Becker,2012,11,30.3
+Detroit Lakes,Becker,2012,12,16.8
+Detroit Lakes,Becker,2013,1,11.4
+Detroit Lakes,Becker,2013,2,13.2
+Detroit Lakes,Becker,2013,3,19.8
+Detroit Lakes,Becker,2013,4,32.2
+Detroit Lakes,Becker,2013,5,M
+Detroit Lakes,Becker,2013,6,64.9
+Detroit Lakes,Becker,2013,7,69.9
+Detroit Lakes,Becker,2013,8,67.7
+Detroit Lakes,Becker,2013,9,62.4
+Detroit Lakes,Becker,2013,10,44.8
+Detroit Lakes,Becker,2013,11,27.9
+Detroit Lakes,Becker,2013,12,4.8
+Detroit Lakes,Becker,2014,1,4
+Detroit Lakes,Becker,2014,2,1.8
+Detroit Lakes,Becker,2014,3,20.9
+Detroit Lakes,Becker,2014,4,39.8
+Detroit Lakes,Becker,2014,5,56
+Detroit Lakes,Becker,2014,6,65.4
+Detroit Lakes,Becker,2014,7,67.1
+Detroit Lakes,Becker,2014,8,67.4
+Detroit Lakes,Becker,2014,9,59.4
+Detroit Lakes,Becker,2014,10,46.4
+Detroit Lakes,Becker,2014,11,M
+Detroit Lakes,Becker,2014,12,20.9
+Detroit Lakes,Becker,2015,1,13.4
+Detroit Lakes,Becker,2015,2,6.1
+Detroit Lakes,Becker,2015,3,30.6
+Detroit Lakes,Becker,2015,4,45
+Detroit Lakes,Becker,2015,5,54.1
+Detroit Lakes,Becker,2015,6,65.2
+Detroit Lakes,Becker,2015,7,70
+Detroit Lakes,Becker,2015,8,66
+Detroit Lakes,Becker,2015,9,63.2
+Detroit Lakes,Becker,2015,10,48.9
+Detroit Lakes,Becker,2015,11,35
+Detroit Lakes,Becker,2015,12,25
+Detroit Lakes,Becker,2016,1,12.5
+Detroit Lakes,Becker,2016,2,20.7
+Detroit Lakes,Becker,2016,3,36.9
+Detroit Lakes,Becker,2016,4,42.9
+Detroit Lakes,Becker,2016,5,57
+Detroit Lakes,Becker,2016,6,65.2
+Detroit Lakes,Becker,2016,7,69.6
+Detroit Lakes,Becker,2016,8,68.2
+Detroit Lakes,Becker,2016,9,60.4
+Detroit Lakes,Becker,2016,10,47.7
+Detroit Lakes,Becker,2016,11,39.1
+Detroit Lakes,Becker,2016,12,14.3
+Marshall,Lyon,2007,1,18.8
+Marshall,Lyon,2007,2,12.4
+Marshall,Lyon,2007,3,37.8
+Marshall,Lyon,2007,4,44.2
+Marshall,Lyon,2007,5,63
+Marshall,Lyon,2007,6,69.9
+Marshall,Lyon,2007,7,74.7
+Marshall,Lyon,2007,8,70
+Marshall,Lyon,2007,9,64.5
+Marshall,Lyon,2007,10,53.9
+Marshall,Lyon,2007,11,34.1
+Marshall,Lyon,2007,12,16.4
+Marshall,Lyon,2008,1,13.8
+Marshall,Lyon,2008,2,15.9
+Marshall,Lyon,2008,3,29.1
+Marshall,Lyon,2008,4,41.9
+Marshall,Lyon,2008,5,56.6
+Marshall,Lyon,2008,6,67.8
+Marshall,Lyon,2008,7,73.9
+Marshall,Lyon,2008,8,71
+Marshall,Lyon,2008,9,62.4
+Marshall,Lyon,2008,10,49.1
+Marshall,Lyon,2008,11,33.7
+Marshall,Lyon,2008,12,12.1
+Marshall,Lyon,2009,1,8.7
+Marshall,Lyon,2009,2,19.1
+Marshall,Lyon,2009,3,29.3
+Marshall,Lyon,2009,4,43.5
+Marshall,Lyon,2009,5,57.6
+Marshall,Lyon,2009,6,66.1
+Marshall,Lyon,2009,7,67.5
+Marshall,Lyon,2009,8,68.2
+Marshall,Lyon,2009,9,64.8
+Marshall,Lyon,2009,10,41.5
+Marshall,Lyon,2009,11,41.5
+Marshall,Lyon,2009,12,14
+Marshall,Lyon,2010,1,9.5
+Marshall,Lyon,2010,2,11.8
+Marshall,Lyon,2010,3,35.1
+Marshall,Lyon,2010,4,52.6
+Marshall,Lyon,2010,5,58.4
+Marshall,Lyon,2010,6,68.3
+Marshall,Lyon,2010,7,73.1
+Marshall,Lyon,2010,8,74.9
+Marshall,Lyon,2010,9,59.7
+Marshall,Lyon,2010,10,52.6
+Marshall,Lyon,2010,11,32.7
+Marshall,Lyon,2010,12,12.4
+Marshall,Lyon,2011,1,7.5
+Marshall,Lyon,2011,2,15.6
+Marshall,Lyon,2011,3,23.3
+Marshall,Lyon,2011,4,42.1
+Marshall,Lyon,2011,5,53.4
+Marshall,Lyon,2011,6,67.1
+Marshall,Lyon,2011,7,77.8
+Marshall,Lyon,2011,8,71.2
+Marshall,Lyon,2011,9,60.8
+Marshall,Lyon,2011,10,53.2
+Marshall,Lyon,2011,11,36.6
+Marshall,Lyon,2011,12,27
+Marshall,Lyon,2012,1,23.5
+Marshall,Lyon,2012,2,26.3
+Marshall,Lyon,2012,3,45.4
+Marshall,Lyon,2012,4,50
+Marshall,Lyon,2012,5,62.9
+Marshall,Lyon,2012,6,72.1
+Marshall,Lyon,2012,7,79.4
+Marshall,Lyon,2012,8,71.2
+Marshall,Lyon,2012,9,62.6
+Marshall,Lyon,2012,10,46.2
+Marshall,Lyon,2012,11,36.3
+Marshall,Lyon,2012,12,19
+Marshall,Lyon,2013,1,16.6
+Marshall,Lyon,2013,2,16.2
+Marshall,Lyon,2013,3,23.3
+Marshall,Lyon,2013,4,35.8
+Marshall,Lyon,2013,5,56.1
+Marshall,Lyon,2013,6,67.3
+Marshall,Lyon,2013,7,73.1
+Marshall,Lyon,2013,8,72.1
+Marshall,Lyon,2013,9,67.5
+Marshall,Lyon,2013,10,48.5
+Marshall,Lyon,2013,11,31.8
+Marshall,Lyon,2013,12,11.1
+Marshall,Lyon,2014,1,9.7
+Marshall,Lyon,2014,2,10.6
+Marshall,Lyon,2014,3,25.4
+Marshall,Lyon,2014,4,42.5
+Marshall,Lyon,2014,5,57.6
+Marshall,Lyon,2014,6,69.3
+Marshall,Lyon,2014,7,70.3
+Marshall,Lyon,2014,8,70.9
+Marshall,Lyon,2014,9,63.2
+Marshall,Lyon,2014,10,50.8
+Marshall,Lyon,2014,11,24.7
+Marshall,Lyon,2014,12,23.4
+Marshall,Lyon,2015,1,19.7
+Marshall,Lyon,2015,2,11.3
+Marshall,Lyon,2015,3,36.4
+Marshall,Lyon,2015,4,49.1
+Marshall,Lyon,2015,5,58.6
+Marshall,Lyon,2015,6,69.9
+Marshall,Lyon,2015,7,74.2
+Marshall,Lyon,2015,8,70.2
+Marshall,Lyon,2015,9,69
+Marshall,Lyon,2015,10,52.3
+Marshall,Lyon,2015,11,39.8
+Marshall,Lyon,2015,12,25.6
+Marshall,Lyon,2016,1,13.6
+Marshall,Lyon,2016,2,23.2
+Marshall,Lyon,2016,3,38.6
+Marshall,Lyon,2016,4,47.7
+Marshall,Lyon,2016,5,60.8
+Marshall,Lyon,2016,6,72.5
+Marshall,Lyon,2016,7,73.8
+Marshall,Lyon,2016,8,72.2
+Marshall,Lyon,2016,9,64.2
+Marshall,Lyon,2016,10,51
+Marshall,Lyon,2016,11,43.2
+Marshall,Lyon,2016,12,15.1
+Park Rapids,Hubbard,2007,1,13.9
+Park Rapids,Hubbard,2007,2,7.4
+Park Rapids,Hubbard,2007,3,31.4
+Park Rapids,Hubbard,2007,4,40.6
+Park Rapids,Hubbard,2007,5,58.4
+Park Rapids,Hubbard,2007,6,67.6
+Park Rapids,Hubbard,2007,7,72
+Park Rapids,Hubbard,2007,8,66.8
+Park Rapids,Hubbard,2007,9,59.1
+Park Rapids,Hubbard,2007,10,49
+Park Rapids,Hubbard,2007,11,30
+Park Rapids,Hubbard,2007,12,10.4
+Park Rapids,Hubbard,2008,1,7
+Park Rapids,Hubbard,2008,2,8
+Park Rapids,Hubbard,2008,3,23
+Park Rapids,Hubbard,2008,4,38.5
+Park Rapids,Hubbard,2008,5,51.4
+Park Rapids,Hubbard,2008,6,62.4
+Park Rapids,Hubbard,2008,7,69
+Park Rapids,Hubbard,2008,8,68.6
+Park Rapids,Hubbard,2008,9,57.9
+Park Rapids,Hubbard,2008,10,44.1
+Park Rapids,Hubbard,2008,11,28.7
+Park Rapids,Hubbard,2008,12,2.5
+Park Rapids,Hubbard,2009,1,-1.2
+Park Rapids,Hubbard,2009,2,10.4
+Park Rapids,Hubbard,2009,3,23.2
+Park Rapids,Hubbard,2009,4,40.1
+Park Rapids,Hubbard,2009,5,51.2
+Park Rapids,Hubbard,2009,6,60.1
+Park Rapids,Hubbard,2009,7,62.7
+Park Rapids,Hubbard,2009,8,62.9
+Park Rapids,Hubbard,2009,9,62.4
+Park Rapids,Hubbard,2009,10,37.5
+Park Rapids,Hubbard,2009,11,35.6
+Park Rapids,Hubbard,2009,12,10.1
+Park Rapids,Hubbard,2010,1,6.7
+Park Rapids,Hubbard,2010,2,11.3
+Park Rapids,Hubbard,2010,3,35.9
+Park Rapids,Hubbard,2010,4,48.1
+Park Rapids,Hubbard,2010,5,54.4
+Park Rapids,Hubbard,2010,6,62
+Park Rapids,Hubbard,2010,7,68.3
+Park Rapids,Hubbard,2010,8,68.6
+Park Rapids,Hubbard,2010,9,52.6
+Park Rapids,Hubbard,2010,10,46.5
+Park Rapids,Hubbard,2010,11,27.5
+Park Rapids,Hubbard,2010,12,9.9
+Park Rapids,Hubbard,2011,1,2.6
+Park Rapids,Hubbard,2011,2,10
+Park Rapids,Hubbard,2011,3,21.9
+Park Rapids,Hubbard,2011,4,39.9
+Park Rapids,Hubbard,2011,5,52.6
+Park Rapids,Hubbard,2011,6,62.7
+Park Rapids,Hubbard,2011,7,71.4
+Park Rapids,Hubbard,2011,8,67.1
+Park Rapids,Hubbard,2011,9,55.7
+Park Rapids,Hubbard,2011,10,48.3
+Park Rapids,Hubbard,2011,11,30.2
+Park Rapids,Hubbard,2011,12,20.7
+Park Rapids,Hubbard,2012,1,15.6
+Park Rapids,Hubbard,2012,2,18.8
+Park Rapids,Hubbard,2012,3,39.2
+Park Rapids,Hubbard,2012,4,44.5
+Park Rapids,Hubbard,2012,5,56.3
+Park Rapids,Hubbard,2012,6,65.3
+Park Rapids,Hubbard,2012,7,73.3
+Park Rapids,Hubbard,2012,8,65.5
+Park Rapids,Hubbard,2012,9,55.9
+Park Rapids,Hubbard,2012,10,41.4
+Park Rapids,Hubbard,2012,11,29.1
+Park Rapids,Hubbard,2012,12,13.6
+Park Rapids,Hubbard,2013,1,8.5
+Park Rapids,Hubbard,2013,2,11.1
+Park Rapids,Hubbard,2013,3,17.7
+Park Rapids,Hubbard,2013,4,31.6
+Park Rapids,Hubbard,2013,5,52.4
+Park Rapids,Hubbard,2013,6,63
+Park Rapids,Hubbard,2013,7,68.1
+Park Rapids,Hubbard,2013,8,68
+Park Rapids,Hubbard,2013,9,60.7
+Park Rapids,Hubbard,2013,10,42.9
+Park Rapids,Hubbard,2013,11,24.4
+Park Rapids,Hubbard,2013,12,0.3
+Park Rapids,Hubbard,2014,1,-1.1
+Park Rapids,Hubbard,2014,2,-0.4
+Park Rapids,Hubbard,2014,3,16.1
+Park Rapids,Hubbard,2014,4,37.4
+Park Rapids,Hubbard,2014,5,54
+Park Rapids,Hubbard,2014,6,64.4
+Park Rapids,Hubbard,2014,7,65.7
+Park Rapids,Hubbard,2014,8,66.7
+Park Rapids,Hubbard,2014,9,57.2
+Park Rapids,Hubbard,2014,10,44.1
+Park Rapids,Hubbard,2014,11,18.6
+Park Rapids,Hubbard,2014,12,20.1
+Park Rapids,Hubbard,2015,1,11.8
+Park Rapids,Hubbard,2015,2,5.2
+Park Rapids,Hubbard,2015,3,30.4
+Park Rapids,Hubbard,2015,4,45.6
+Park Rapids,Hubbard,2015,5,54.3
+Park Rapids,Hubbard,2015,6,65.3
+Park Rapids,Hubbard,2015,7,70.3
+Park Rapids,Hubbard,2015,8,66.6
+Park Rapids,Hubbard,2015,9,63.3
+Park Rapids,Hubbard,2015,10,47.9
+Park Rapids,Hubbard,2015,11,35.5
+Park Rapids,Hubbard,2015,12,23.9
+Park Rapids,Hubbard,2016,1,11.3
+Park Rapids,Hubbard,2016,2,19.2
+Park Rapids,Hubbard,2016,3,36.4
+Park Rapids,Hubbard,2016,4,42.3
+Park Rapids,Hubbard,2016,5,57
+Park Rapids,Hubbard,2016,6,65.4
+Park Rapids,Hubbard,2016,7,70
+Park Rapids,Hubbard,2016,8,68.4
+Park Rapids,Hubbard,2016,9,60.1
+Park Rapids,Hubbard,2016,10,47.2
+Park Rapids,Hubbard,2016,11,39.5
+Park Rapids,Hubbard,2016,12,12.7
+Pipestone,Pipestone,2007,1,16.2
+Pipestone,Pipestone,2007,2,9.3
+Pipestone,Pipestone,2007,3,34
+Pipestone,Pipestone,2007,4,42
+Pipestone,Pipestone,2007,5,61.5
+Pipestone,Pipestone,2007,6,68.6
+Pipestone,Pipestone,2007,7,73.4
+Pipestone,Pipestone,2007,8,69.8
+Pipestone,Pipestone,2007,9,61.9
+Pipestone,Pipestone,2007,10,51.3
+Pipestone,Pipestone,2007,11,31.8
+Pipestone,Pipestone,2007,12,12.1
+Pipestone,Pipestone,2008,1,8.3
+Pipestone,Pipestone,2008,2,10
+Pipestone,Pipestone,2008,3,25.3
+Pipestone,Pipestone,2008,4,39.9
+Pipestone,Pipestone,2008,5,54
+Pipestone,Pipestone,2008,6,64.6
+Pipestone,Pipestone,2008,7,71
+Pipestone,Pipestone,2008,8,68.6
+Pipestone,Pipestone,2008,9,60.1
+Pipestone,Pipestone,2008,10,46.3
+Pipestone,Pipestone,2008,11,31.1
+Pipestone,Pipestone,2008,12,10
+Pipestone,Pipestone,2009,1,6.6
+Pipestone,Pipestone,2009,2,18.7
+Pipestone,Pipestone,2009,3,29.2
+Pipestone,Pipestone,2009,4,42.1
+Pipestone,Pipestone,2009,5,57
+Pipestone,Pipestone,2009,6,64.2
+Pipestone,Pipestone,2009,7,65.3
+Pipestone,Pipestone,2009,8,65.5
+Pipestone,Pipestone,2009,9,62.3
+Pipestone,Pipestone,2009,10,39
+Pipestone,Pipestone,2009,11,38.6
+Pipestone,Pipestone,2009,12,12.7
+Pipestone,Pipestone,2010,1,7.3
+Pipestone,Pipestone,2010,2,10.9
+Pipestone,Pipestone,2010,3,34.6
+Pipestone,Pipestone,2010,4,50.9
+Pipestone,Pipestone,2010,5,55.1
+Pipestone,Pipestone,2010,6,65.5
+Pipestone,Pipestone,2010,7,71.7
+Pipestone,Pipestone,2010,8,73
+Pipestone,Pipestone,2010,9,58.3
+Pipestone,Pipestone,2010,10,50
+Pipestone,Pipestone,2010,11,31.8
+Pipestone,Pipestone,2010,12,11.8
+Pipestone,Pipestone,2011,1,4.6
+Pipestone,Pipestone,2011,2,12.1
+Pipestone,Pipestone,2011,3,24.6
+Pipestone,Pipestone,2011,4,42
+Pipestone,Pipestone,2011,5,55.1
+Pipestone,Pipestone,2011,6,65.4
+Pipestone,Pipestone,2011,7,74.8
+Pipestone,Pipestone,2011,8,68.8
+Pipestone,Pipestone,2011,9,57.3
+Pipestone,Pipestone,2011,10,50.5
+Pipestone,Pipestone,2011,11,32.6
+Pipestone,Pipestone,2011,12,23.9
+Pipestone,Pipestone,2012,1,20.3
+Pipestone,Pipestone,2012,2,22.7
+Pipestone,Pipestone,2012,3,43.5
+Pipestone,Pipestone,2012,4,49.8
+Pipestone,Pipestone,2012,5,60.2
+Pipestone,Pipestone,2012,6,69.2
+Pipestone,Pipestone,2012,7,77.2
+Pipestone,Pipestone,2012,8,69.3
+Pipestone,Pipestone,2012,9,60.2
+Pipestone,Pipestone,2012,10,42.6
+Pipestone,Pipestone,2012,11,32.1
+Pipestone,Pipestone,2012,12,19.4
+Pipestone,Pipestone,2013,1,14.5
+Pipestone,Pipestone,2013,2,15.5
+Pipestone,Pipestone,2013,3,23.5
+Pipestone,Pipestone,2013,4,35.8
+Pipestone,Pipestone,2013,5,55.2
+Pipestone,Pipestone,2013,6,65.2
+Pipestone,Pipestone,2013,7,69.7
+Pipestone,Pipestone,2013,8,69.1
+Pipestone,Pipestone,2013,9,64.8
+Pipestone,Pipestone,2013,10,46.7
+Pipestone,Pipestone,2013,11,29.5
+Pipestone,Pipestone,2013,12,10.3
+Pipestone,Pipestone,2014,1,9
+Pipestone,Pipestone,2014,2,5.6
+Pipestone,Pipestone,2014,3,22.1
+Pipestone,Pipestone,2014,4,39.5
+Pipestone,Pipestone,2014,5,56.3
+Pipestone,Pipestone,2014,6,68.1
+Pipestone,Pipestone,2014,7,67.5
+Pipestone,Pipestone,2014,8,69
+Pipestone,Pipestone,2014,9,61.2
+Pipestone,Pipestone,2014,10,49.5
+Pipestone,Pipestone,2014,11,22.7
+Pipestone,Pipestone,2014,12,22.5
+Pipestone,Pipestone,2015,1,18.3
+Pipestone,Pipestone,2015,2,11.6
+Pipestone,Pipestone,2015,3,33.9
+Pipestone,Pipestone,2015,4,47.9
+Pipestone,Pipestone,2015,5,56.4
+Pipestone,Pipestone,2015,6,67.9
+Pipestone,Pipestone,2015,7,71.1
+Pipestone,Pipestone,2015,8,67.4
+Pipestone,Pipestone,2015,9,66.6
+Pipestone,Pipestone,2015,10,51.3
+Pipestone,Pipestone,2015,11,38.9
+Pipestone,Pipestone,2015,12,24.9
+Pipestone,Pipestone,2016,1,14.8
+Pipestone,Pipestone,2016,2,23.6
+Pipestone,Pipestone,2016,3,37
+Pipestone,Pipestone,2016,4,46.7
+Pipestone,Pipestone,2016,5,58.1
+Pipestone,Pipestone,2016,6,70
+Pipestone,Pipestone,2016,7,70.8
+Pipestone,Pipestone,2016,8,70.3
+Pipestone,Pipestone,2016,9,63.1
+Pipestone,Pipestone,2016,10,50.5
+Pipestone,Pipestone,2016,11,41.9
+Pipestone,Pipestone,2016,12,16
+Red Lake Falls,Red Lake,2007,1,10.6
+Red Lake Falls,Red Lake,2007,2,1
+Red Lake Falls,Red Lake,2007,3,26.4
+Red Lake Falls,Red Lake,2007,4,39.8
+Red Lake Falls,Red Lake,2007,5,56.9
+Red Lake Falls,Red Lake,2007,6,67.5
+Red Lake Falls,Red Lake,2007,7,70.7
+Red Lake Falls,Red Lake,2007,8,65.6
+Red Lake Falls,Red Lake,2007,9,M
+Red Lake Falls,Red Lake,2007,10,46.6
+Red Lake Falls,Red Lake,2007,11,28.6
+Red Lake Falls,Red Lake,2007,12,9.2
+Red Lake Falls,Red Lake,2008,1,4.6
+Red Lake Falls,Red Lake,2008,2,3.3
+Red Lake Falls,Red Lake,2008,3,20.2
+Red Lake Falls,Red Lake,2008,4,38.2
+Red Lake Falls,Red Lake,2008,5,49.3
+Red Lake Falls,Red Lake,2008,6,61.6
+Red Lake Falls,Red Lake,2008,7,67.6
+Red Lake Falls,Red Lake,2008,8,67.4
+Red Lake Falls,Red Lake,2008,9,57.8
+Red Lake Falls,Red Lake,2008,10,45.3
+Red Lake Falls,Red Lake,2008,11,29
+Red Lake Falls,Red Lake,2008,12,4
+Red Lake Falls,Red Lake,2009,1,-2.3
+Red Lake Falls,Red Lake,2009,2,9.4
+Red Lake Falls,Red Lake,2009,3,20
+Red Lake Falls,Red Lake,2009,4,39.9
+Red Lake Falls,Red Lake,2009,5,50.8
+Red Lake Falls,Red Lake,2009,6,61.4
+Red Lake Falls,Red Lake,2009,7,64.6
+Red Lake Falls,Red Lake,2009,8,63.9
+Red Lake Falls,Red Lake,2009,9,63.7
+Red Lake Falls,Red Lake,2009,10,39.9
+Red Lake Falls,Red Lake,2009,11,36.5
+Red Lake Falls,Red Lake,2009,12,11.5
+Red Lake Falls,Red Lake,2010,1,8.3
+Red Lake Falls,Red Lake,2010,2,8.1
+Red Lake Falls,Red Lake,2010,3,33
+Red Lake Falls,Red Lake,2010,4,48.8
+Red Lake Falls,Red Lake,2010,5,55.3
+Red Lake Falls,Red Lake,2010,6,62.8
+Red Lake Falls,Red Lake,2010,7,69.7
+Red Lake Falls,Red Lake,2010,8,69.8
+Red Lake Falls,Red Lake,2010,9,53.1
+Red Lake Falls,Red Lake,2010,10,48.4
+Red Lake Falls,Red Lake,2010,11,28.7
+Red Lake Falls,Red Lake,2010,12,8.6
+Red Lake Falls,Red Lake,2011,1,-0.1
+Red Lake Falls,Red Lake,2011,2,9.6
+Red Lake Falls,Red Lake,2011,3,20.3
+Red Lake Falls,Red Lake,2011,4,40.6
+Red Lake Falls,Red Lake,2011,5,52.8
+Red Lake Falls,Red Lake,2011,6,62.3
+Red Lake Falls,Red Lake,2011,7,70.8
+Red Lake Falls,Red Lake,2011,8,68.3
+Red Lake Falls,Red Lake,2011,9,57.5
+Red Lake Falls,Red Lake,2011,10,49.2
+Red Lake Falls,Red Lake,2011,11,31.2
+Red Lake Falls,Red Lake,2011,12,21.1
+Red Lake Falls,Red Lake,2012,1,14.7
+Red Lake Falls,Red Lake,2012,2,16.8
+Red Lake Falls,Red Lake,2012,3,37.2
+Red Lake Falls,Red Lake,2012,4,44.9
+Red Lake Falls,Red Lake,2012,5,57
+Red Lake Falls,Red Lake,2012,6,65.9
+Red Lake Falls,Red Lake,2012,7,M
+Red Lake Falls,Red Lake,2012,8,M
+Red Lake Falls,Red Lake,2012,9,58.1
+Red Lake Falls,Red Lake,2012,10,41.4
+Red Lake Falls,Red Lake,2012,11,27.3
+Red Lake Falls,Red Lake,2012,12,12.9
+Red Lake Falls,Red Lake,2013,1,6.9
+Red Lake Falls,Red Lake,2013,2,8.6
+Red Lake Falls,Red Lake,2013,3,15.8
+Red Lake Falls,Red Lake,2013,4,31
+Red Lake Falls,Red Lake,2013,5,54.3
+Red Lake Falls,Red Lake,2013,6,64.9
+Red Lake Falls,Red Lake,2013,7,69.4
+Red Lake Falls,Red Lake,2013,8,68.1
+Red Lake Falls,Red Lake,2013,9,60.7
+Red Lake Falls,Red Lake,2013,10,42.6
+Red Lake Falls,Red Lake,2013,11,24.4
+Red Lake Falls,Red Lake,2013,12,-0.1
+Red Lake Falls,Red Lake,2014,1,-1.6
+Red Lake Falls,Red Lake,2014,2,-1.3
+Red Lake Falls,Red Lake,2014,3,14.7
+Red Lake Falls,Red Lake,2014,4,36.8
+Red Lake Falls,Red Lake,2014,5,53
+Red Lake Falls,Red Lake,2014,6,64.9
+Red Lake Falls,Red Lake,2014,7,66.1
+Red Lake Falls,Red Lake,2014,8,67.7
+Red Lake Falls,Red Lake,2014,9,58.2
+Red Lake Falls,Red Lake,2014,10,45.4
+Red Lake Falls,Red Lake,2014,11,19.4
+Red Lake Falls,Red Lake,2014,12,16.9
+Red Lake Falls,Red Lake,2015,1,10
+Red Lake Falls,Red Lake,2015,2,0.6
+Red Lake Falls,Red Lake,2015,3,27.9
+Red Lake Falls,Red Lake,2015,4,43.6
+Red Lake Falls,Red Lake,2015,5,54.3
+Red Lake Falls,Red Lake,2015,6,64.8
+Red Lake Falls,Red Lake,2015,7,69.7
+Red Lake Falls,Red Lake,2015,8,66.9
+Red Lake Falls,Red Lake,2015,9,62.8
+Red Lake Falls,Red Lake,2015,10,47.2
+Red Lake Falls,Red Lake,2015,11,32.8
+Red Lake Falls,Red Lake,2015,12,21.4
+Red Lake Falls,Red Lake,2016,1,9.8
+Red Lake Falls,Red Lake,2016,2,19.8
+Red Lake Falls,Red Lake,2016,3,33.8
+Red Lake Falls,Red Lake,2016,4,39.6
+Red Lake Falls,Red Lake,2016,5,57.6
+Red Lake Falls,Red Lake,2016,6,64.9
+Red Lake Falls,Red Lake,2016,7,68.8
+Red Lake Falls,Red Lake,2016,8,67.7
+Red Lake Falls,Red Lake,2016,9,58.5
+Red Lake Falls,Red Lake,2016,10,46.1
+Red Lake Falls,Red Lake,2016,11,39.7
+Red Lake Falls,Red Lake,2016,12,11.9
+Rochester,Olmsted,2007,1,18.3
+Rochester,Olmsted,2007,2,10.5
+Rochester,Olmsted,2007,3,35.7
+Rochester,Olmsted,2007,4,44.7
+Rochester,Olmsted,2007,5,62.5
+Rochester,Olmsted,2007,6,69.3
+Rochester,Olmsted,2007,7,71.8
+Rochester,Olmsted,2007,8,69.8
+Rochester,Olmsted,2007,9,63.9
+Rochester,Olmsted,2007,10,54.4
+Rochester,Olmsted,2007,11,33.7
+Rochester,Olmsted,2007,12,17
+Rochester,Olmsted,2008,1,12.8
+Rochester,Olmsted,2008,2,13.3
+Rochester,Olmsted,2008,3,28.5
+Rochester,Olmsted,2008,4,44.1
+Rochester,Olmsted,2008,5,56.2
+Rochester,Olmsted,2008,6,68.1
+Rochester,Olmsted,2008,7,71.2
+Rochester,Olmsted,2008,8,68.5
+Rochester,Olmsted,2008,9,62.6
+Rochester,Olmsted,2008,10,49.6
+Rochester,Olmsted,2008,11,34.6
+Rochester,Olmsted,2008,12,12.5
+Rochester,Olmsted,2009,1,8.5
+Rochester,Olmsted,2009,2,20.7
+Rochester,Olmsted,2009,3,32.7
+Rochester,Olmsted,2009,4,46.1
+Rochester,Olmsted,2009,5,58
+Rochester,Olmsted,2009,6,65.9
+Rochester,Olmsted,2009,7,65.3
+Rochester,Olmsted,2009,8,65.7
+Rochester,Olmsted,2009,9,62.6
+Rochester,Olmsted,2009,10,42.5
+Rochester,Olmsted,2009,11,42.8
+Rochester,Olmsted,2009,12,16.7
+Rochester,Olmsted,2010,1,11
+Rochester,Olmsted,2010,2,15.7
+Rochester,Olmsted,2010,3,38.3
+Rochester,Olmsted,2010,4,53
+Rochester,Olmsted,2010,5,59.1
+Rochester,Olmsted,2010,6,67.1
+Rochester,Olmsted,2010,7,72.7
+Rochester,Olmsted,2010,8,72.7
+Rochester,Olmsted,2010,9,59.6
+Rochester,Olmsted,2010,10,52.6
+Rochester,Olmsted,2010,11,35.1
+Rochester,Olmsted,2010,12,14.7
+Rochester,Olmsted,2011,1,11.4
+Rochester,Olmsted,2011,2,18
+Rochester,Olmsted,2011,3,29.9
+Rochester,Olmsted,2011,4,45.4
+Rochester,Olmsted,2011,5,57.8
+Rochester,Olmsted,2011,6,68
+Rochester,Olmsted,2011,7,75.1
+Rochester,Olmsted,2011,8,69.2
+Rochester,Olmsted,2011,9,59.3
+Rochester,Olmsted,2011,10,53
+Rochester,Olmsted,2011,11,38.5
+Rochester,Olmsted,2011,12,26.1
+Rochester,Olmsted,2012,1,22.8
+Rochester,Olmsted,2012,2,27.7
+Rochester,Olmsted,2012,3,49.1
+Rochester,Olmsted,2012,4,49.1
+Rochester,Olmsted,2012,5,63.3
+Rochester,Olmsted,2012,6,71
+Rochester,Olmsted,2012,7,77.1
+Rochester,Olmsted,2012,8,69.2
+Rochester,Olmsted,2012,9,61.8
+Rochester,Olmsted,2012,10,48.8
+Rochester,Olmsted,2012,11,38.4
+Rochester,Olmsted,2012,12,24
+Rochester,Olmsted,2013,1,17.5
+Rochester,Olmsted,2013,2,19.4
+Rochester,Olmsted,2013,3,23.8
+Rochester,Olmsted,2013,4,40.2
+Rochester,Olmsted,2013,5,55.7
+Rochester,Olmsted,2013,6,67
+Rochester,Olmsted,2013,7,71.4
+Rochester,Olmsted,2013,8,69.9
+Rochester,Olmsted,2013,9,64
+Rochester,Olmsted,2013,10,47.7
+Rochester,Olmsted,2013,11,31.1
+Rochester,Olmsted,2013,12,13.1
+Rochester,Olmsted,2014,1,6.5
+Rochester,Olmsted,2014,2,6.7
+Rochester,Olmsted,2014,3,24.2
+Rochester,Olmsted,2014,4,42.2
+Rochester,Olmsted,2014,5,57.9
+Rochester,Olmsted,2014,6,68.8
+Rochester,Olmsted,2014,7,67.6
+Rochester,Olmsted,2014,8,70.5
+Rochester,Olmsted,2014,9,59.8
+Rochester,Olmsted,2014,10,47.4
+Rochester,Olmsted,2014,11,24.7
+Rochester,Olmsted,2014,12,23.6
+Rochester,Olmsted,2015,1,16.9
+Rochester,Olmsted,2015,2,7.8
+Rochester,Olmsted,2015,3,32.5
+Rochester,Olmsted,2015,4,47.7
+Rochester,Olmsted,2015,5,57.7
+Rochester,Olmsted,2015,6,67.3
+Rochester,Olmsted,2015,7,69.5
+Rochester,Olmsted,2015,8,66.5
+Rochester,Olmsted,2015,9,66.2
+Rochester,Olmsted,2015,10,50.5
+Rochester,Olmsted,2015,11,39.3
+Rochester,Olmsted,2015,12,29.8
+Rochester,Olmsted,2016,1,14.8
+Rochester,Olmsted,2016,2,22.6
+Rochester,Olmsted,2016,3,38.5
+Rochester,Olmsted,2016,4,47
+Rochester,Olmsted,2016,5,58.9
+Rochester,Olmsted,2016,6,68.7
+Rochester,Olmsted,2016,7,71.5
+Rochester,Olmsted,2016,8,70.1
+Rochester,Olmsted,2016,9,64.4
+Rochester,Olmsted,2016,10,52
+Rochester,Olmsted,2016,11,42.8
+Rochester,Olmsted,2016,12,18.4
+Two Harbors,Lake,2007,1,14
+Two Harbors,Lake,2007,2,7.7
+Two Harbors,Lake,2007,3,28.3
+Two Harbors,Lake,2007,4,37.5
+Two Harbors,Lake,2007,5,53.3
+Two Harbors,Lake,2007,6,62.2
+Two Harbors,Lake,2007,7,65.9
+Two Harbors,Lake,2007,8,62.8
+Two Harbors,Lake,2007,9,55.2
+Two Harbors,Lake,2007,10,46.3
+Two Harbors,Lake,2007,11,27.7
+Two Harbors,Lake,2007,12,12.5
+Two Harbors,Lake,2008,1,9.8
+Two Harbors,Lake,2008,2,9.8
+Two Harbors,Lake,2008,3,21.1
+Two Harbors,Lake,2008,4,38.1
+Two Harbors,Lake,2008,5,47.4
+Two Harbors,Lake,2008,6,59.6
+Two Harbors,Lake,2008,7,63.9
+Two Harbors,Lake,2008,8,62.5
+Two Harbors,Lake,2008,9,54.4
+Two Harbors,Lake,2008,10,43.3
+Two Harbors,Lake,2008,11,28
+Two Harbors,Lake,2008,12,6.7
+Two Harbors,Lake,2009,1,3.1
+Two Harbors,Lake,2009,2,14.5
+Two Harbors,Lake,2009,3,23.7
+Two Harbors,Lake,2009,4,39.1
+Two Harbors,Lake,2009,5,50
+Two Harbors,Lake,2009,6,58.3
+Two Harbors,Lake,2009,7,60.6
+Two Harbors,Lake,2009,8,60.7
+Two Harbors,Lake,2009,9,58.8
+Two Harbors,Lake,2009,10,38.3
+Two Harbors,Lake,2009,11,35.7
+Two Harbors,Lake,2009,12,11.7
+Two Harbors,Lake,2010,1,10.8
+Two Harbors,Lake,2010,2,16
+Two Harbors,Lake,2010,3,36.7
+Two Harbors,Lake,2010,4,44.6
+Two Harbors,Lake,2010,5,52.8
+Two Harbors,Lake,2010,6,59.4
+Two Harbors,Lake,2010,7,67.2
+Two Harbors,Lake,2010,8,66
+Two Harbors,Lake,2010,9,50.7
+Two Harbors,Lake,2010,10,45.2
+Two Harbors,Lake,2010,11,29.3
+Two Harbors,Lake,2010,12,12.5
+Two Harbors,Lake,2011,1,6.7
+Two Harbors,Lake,2011,2,13.9
+Two Harbors,Lake,2011,3,22.4
+Two Harbors,Lake,2011,4,38.9
+Two Harbors,Lake,2011,5,49.4
+Two Harbors,Lake,2011,6,57.6
+Two Harbors,Lake,2011,7,68.5
+Two Harbors,Lake,2011,8,65
+Two Harbors,Lake,2011,9,54.3
+Two Harbors,Lake,2011,10,45.5
+Two Harbors,Lake,2011,11,30.7
+Two Harbors,Lake,2011,12,20.2
+Two Harbors,Lake,2012,1,16.6
+Two Harbors,Lake,2012,2,21.4
+Two Harbors,Lake,2012,3,37.3
+Two Harbors,Lake,2012,4,40.5
+Two Harbors,Lake,2012,5,53.1
+Two Harbors,Lake,2012,6,62.3
+Two Harbors,Lake,2012,7,69.2
+Two Harbors,Lake,2012,8,63.6
+Two Harbors,Lake,2012,9,53.1
+Two Harbors,Lake,2012,10,40
+Two Harbors,Lake,2012,11,28.5
+Two Harbors,Lake,2012,12,17.4
+Two Harbors,Lake,2013,1,9.9
+Two Harbors,Lake,2013,2,12.5
+Two Harbors,Lake,2013,3,19.6
+Two Harbors,Lake,2013,4,32.1
+Two Harbors,Lake,2013,5,47.4
+Two Harbors,Lake,2013,6,58.4
+Two Harbors,Lake,2013,7,63.7
+Two Harbors,Lake,2013,8,64.2
+Two Harbors,Lake,2013,9,55.7
+Two Harbors,Lake,2013,10,42.6
+Two Harbors,Lake,2013,11,27
+Two Harbors,Lake,2013,12,3.3
+Two Harbors,Lake,2014,1,0.3
+Two Harbors,Lake,2014,2,3.2
+Two Harbors,Lake,2014,3,16.6
+Two Harbors,Lake,2014,4,34
+Two Harbors,Lake,2014,5,50.1
+Two Harbors,Lake,2014,6,59.1
+Two Harbors,Lake,2014,7,63.5
+Two Harbors,Lake,2014,8,61.5
+Two Harbors,Lake,2014,9,54.8
+Two Harbors,Lake,2014,10,42.2
+Two Harbors,Lake,2014,11,20.6
+Two Harbors,Lake,2014,12,20.1
+Two Harbors,Lake,2015,1,11.2
+Two Harbors,Lake,2015,2,2.8
+Two Harbors,Lake,2015,3,28.7
+Two Harbors,Lake,2015,4,40.1
+Two Harbors,Lake,2015,5,50.2
+Two Harbors,Lake,2015,6,59.3
+Two Harbors,Lake,2015,7,66.3
+Two Harbors,Lake,2015,8,63
+Two Harbors,Lake,2015,9,59.8
+Two Harbors,Lake,2015,10,44.2
+Two Harbors,Lake,2015,11,34.3
+Two Harbors,Lake,2015,12,25.5
+Two Harbors,Lake,2016,1,12.5
+Two Harbors,Lake,2016,2,16
+Two Harbors,Lake,2016,3,30.5
+Two Harbors,Lake,2016,4,35.9
+Two Harbors,Lake,2016,5,52.1
+Two Harbors,Lake,2016,6,59.7
+Two Harbors,Lake,2016,7,65.5
+Two Harbors,Lake,2016,8,65
+Two Harbors,Lake,2016,9,57.5
+Two Harbors,Lake,2016,10,46
+Two Harbors,Lake,2016,11,37.9
+Two Harbors,Lake,2016,12,14.5
+Wadena,Wadena,2007,1,13.7
+Wadena,Wadena,2007,2,6.7
+Wadena,Wadena,2007,3,29.7
+Wadena,Wadena,2007,4,39.4
+Wadena,Wadena,2007,5,57.2
+Wadena,Wadena,2007,6,66.7
+Wadena,Wadena,2007,7,69.9
+Wadena,Wadena,2007,8,65.1
+Wadena,Wadena,2007,9,58.3
+Wadena,Wadena,2007,10,47.8
+Wadena,Wadena,2007,11,29.2
+Wadena,Wadena,2007,12,9.4
+Wadena,Wadena,2008,1,5
+Wadena,Wadena,2008,2,7.4
+Wadena,Wadena,2008,3,20.8
+Wadena,Wadena,2008,4,37.3
+Wadena,Wadena,2008,5,50.1
+Wadena,Wadena,2008,6,61.8
+Wadena,Wadena,2008,7,67.2
+Wadena,Wadena,2008,8,65.9
+Wadena,Wadena,2008,9,57.6
+Wadena,Wadena,2008,10,44
+Wadena,Wadena,2008,11,30.4
+Wadena,Wadena,2008,12,4.7
+Wadena,Wadena,2009,1,-1.5
+Wadena,Wadena,2009,2,11.5
+Wadena,Wadena,2009,3,21.2
+Wadena,Wadena,2009,4,39.3
+Wadena,Wadena,2009,5,52.3
+Wadena,Wadena,2009,6,61.2
+Wadena,Wadena,2009,7,62.9
+Wadena,Wadena,2009,8,63
+Wadena,Wadena,2009,9,61.3
+Wadena,Wadena,2009,10,38
+Wadena,Wadena,2009,11,36.7
+Wadena,Wadena,2009,12,11.4
+Wadena,Wadena,2010,1,7
+Wadena,Wadena,2010,2,10.6
+Wadena,Wadena,2010,3,35.1
+Wadena,Wadena,2010,4,48.5
+Wadena,Wadena,2010,5,54.5
+Wadena,Wadena,2010,6,62.8
+Wadena,Wadena,2010,7,69.1
+Wadena,Wadena,2010,8,68.3
+Wadena,Wadena,2010,9,53.4
+Wadena,Wadena,2010,10,48.1
+Wadena,Wadena,2010,11,29
+Wadena,Wadena,2010,12,11.1
+Wadena,Wadena,2011,1,4
+Wadena,Wadena,2011,2,11.6
+Wadena,Wadena,2011,3,20.1
+Wadena,Wadena,2011,4,40.8
+Wadena,Wadena,2011,5,53
+Wadena,Wadena,2011,6,62.4
+Wadena,Wadena,2011,7,71.6
+Wadena,Wadena,2011,8,66.5
+Wadena,Wadena,2011,9,56.3
+Wadena,Wadena,2011,10,49.3
+Wadena,Wadena,2011,11,31.7
+Wadena,Wadena,2011,12,22.6
+Wadena,Wadena,2012,1,17.7
+Wadena,Wadena,2012,2,20.2
+Wadena,Wadena,2012,3,39.1
+Wadena,Wadena,2012,4,44.7
+Wadena,Wadena,2012,5,57
+Wadena,Wadena,2012,6,65.9
+Wadena,Wadena,2012,7,72.8
+Wadena,Wadena,2012,8,65.9
+Wadena,Wadena,2012,9,56.8
+Wadena,Wadena,2012,10,42.2
+Wadena,Wadena,2012,11,30.3
+Wadena,Wadena,2012,12,15.5
+Wadena,Wadena,2013,1,9.6
+Wadena,Wadena,2013,2,10.9
+Wadena,Wadena,2013,3,17.4
+Wadena,Wadena,2013,4,31.3
+Wadena,Wadena,2013,5,53.3
+Wadena,Wadena,2013,6,63.5
+Wadena,Wadena,2013,7,69
+Wadena,Wadena,2013,8,67.6
+Wadena,Wadena,2013,9,60.8
+Wadena,Wadena,2013,10,44
+Wadena,Wadena,2013,11,26.7
+Wadena,Wadena,2013,12,3.4
+Wadena,Wadena,2014,1,0.8
+Wadena,Wadena,2014,2,M
+Wadena,Wadena,2014,3,19
+Wadena,Wadena,2014,4,36.7
+Wadena,Wadena,2014,5,54
+Wadena,Wadena,2014,6,64.9
+Wadena,Wadena,2014,7,66.4
+Wadena,Wadena,2014,8,66.1
+Wadena,Wadena,2014,9,M
+Wadena,Wadena,2014,10,M
+Wadena,Wadena,2014,11,M
+Wadena,Wadena,2014,12,M
+Wadena,Wadena,2015,1,M
+Wadena,Wadena,2015,2,M
+Wadena,Wadena,2015,3,M
+Wadena,Wadena,2015,4,M
+Wadena,Wadena,2015,5,M
+Wadena,Wadena,2015,6,M
+Wadena,Wadena,2015,7,M
+Wadena,Wadena,2015,8,M
+Wadena,Wadena,2015,9,M
+Wadena,Wadena,2015,10,M
+Wadena,Wadena,2015,11,M
+Wadena,Wadena,2015,12,M
+Wadena,Wadena,2016,1,M
+Wadena,Wadena,2016,2,M
+Wadena,Wadena,2016,3,M
+Wadena,Wadena,2016,4,M
+Wadena,Wadena,2016,5,M
+Wadena,Wadena,2016,6,M
+Wadena,Wadena,2016,7,M
+Wadena,Wadena,2016,8,M
+Wadena,Wadena,2016,9,M
+Wadena,Wadena,2016,10,M
+Wadena,Wadena,2016,11,M
+Wadena,Wadena,2016,12,M
+Worthington,Nobles,2007,1,16.8
+Worthington,Nobles,2007,2,10.3
+Worthington,Nobles,2007,3,35.6
+Worthington,Nobles,2007,4,42.2
+Worthington,Nobles,2007,5,62.4
+Worthington,Nobles,2007,6,70
+Worthington,Nobles,2007,7,72.9
+Worthington,Nobles,2007,8,69.6
+Worthington,Nobles,2007,9,62.3
+Worthington,Nobles,2007,10,52.5
+Worthington,Nobles,2007,11,33.7
+Worthington,Nobles,2007,12,15.5
+Worthington,Nobles,2008,1,11.8
+Worthington,Nobles,2008,2,11.9
+Worthington,Nobles,2008,3,26.4
+Worthington,Nobles,2008,4,40.8
+Worthington,Nobles,2008,5,53.9
+Worthington,Nobles,2008,6,67.1
+Worthington,Nobles,2008,7,72
+Worthington,Nobles,2008,8,69.1
+Worthington,Nobles,2008,9,61
+Worthington,Nobles,2008,10,48.3
+Worthington,Nobles,2008,11,33
+Worthington,Nobles,2008,12,12.7
+Worthington,Nobles,2009,1,9.1
+Worthington,Nobles,2009,2,20.2
+Worthington,Nobles,2009,3,29.9
+Worthington,Nobles,2009,4,42.6
+Worthington,Nobles,2009,5,57.2
+Worthington,Nobles,2009,6,65.1
+Worthington,Nobles,2009,7,66.7
+Worthington,Nobles,2009,8,66.2
+Worthington,Nobles,2009,9,62.7
+Worthington,Nobles,2009,10,40.8
+Worthington,Nobles,2009,11,40.4
+Worthington,Nobles,2009,12,13.5
+Worthington,Nobles,2010,1,8.8
+Worthington,Nobles,2010,2,12.9
+Worthington,Nobles,2010,3,33.9
+Worthington,Nobles,2010,4,51.6
+Worthington,Nobles,2010,5,57.1
+Worthington,Nobles,2010,6,67.7
+Worthington,Nobles,2010,7,72.5
+Worthington,Nobles,2010,8,73.3
+Worthington,Nobles,2010,9,58.8
+Worthington,Nobles,2010,10,51.8
+Worthington,Nobles,2010,11,33.1
+Worthington,Nobles,2010,12,12.3
+Worthington,Nobles,2011,1,7.8
+Worthington,Nobles,2011,2,15.6
+Worthington,Nobles,2011,3,26.2
+Worthington,Nobles,2011,4,42.5
+Worthington,Nobles,2011,5,55.3
+Worthington,Nobles,2011,6,66.5
+Worthington,Nobles,2011,7,76.6
+Worthington,Nobles,2011,8,69.6
+Worthington,Nobles,2011,9,58.5
+Worthington,Nobles,2011,10,52
+Worthington,Nobles,2011,11,35
+Worthington,Nobles,2011,12,24.7
+Worthington,Nobles,2012,1,21.6
+Worthington,Nobles,2012,2,24.2
+Worthington,Nobles,2012,3,45.7
+Worthington,Nobles,2012,4,49.2
+Worthington,Nobles,2012,5,62
+Worthington,Nobles,2012,6,69.9
+Worthington,Nobles,2012,7,78.1
+Worthington,Nobles,2012,8,69.1
+Worthington,Nobles,2012,9,60.6
+Worthington,Nobles,2012,10,44.4
+Worthington,Nobles,2012,11,34.6
+Worthington,Nobles,2012,12,20.3
+Worthington,Nobles,2013,1,15.3
+Worthington,Nobles,2013,2,17.7
+Worthington,Nobles,2013,3,24.1
+Worthington,Nobles,2013,4,35.6
+Worthington,Nobles,2013,5,54.7
+Worthington,Nobles,2013,6,66.8
+Worthington,Nobles,2013,7,72.1
+Worthington,Nobles,2013,8,69
+Worthington,Nobles,2013,9,64.3
+Worthington,Nobles,2013,10,47.8
+Worthington,Nobles,2013,11,29.7
+Worthington,Nobles,2013,12,10.8
+Worthington,Nobles,2014,1,9.2
+Worthington,Nobles,2014,2,8.7
+Worthington,Nobles,2014,3,24.9
+Worthington,Nobles,2014,4,43.2
+Worthington,Nobles,2014,5,56.5
+Worthington,Nobles,2014,6,67.4
+Worthington,Nobles,2014,7,67.2
+Worthington,Nobles,2014,8,67.9
+Worthington,Nobles,2014,9,60.5
+Worthington,Nobles,2014,10,48.7
+Worthington,Nobles,2014,11,23.8
+Worthington,Nobles,2014,12,22.8
+Worthington,Nobles,2015,1,17.8
+Worthington,Nobles,2015,2,11.3
+Worthington,Nobles,2015,3,34.5
+Worthington,Nobles,2015,4,47.7
+Worthington,Nobles,2015,5,55.9
+Worthington,Nobles,2015,6,67.1
+Worthington,Nobles,2015,7,70.2
+Worthington,Nobles,2015,8,66.5
+Worthington,Nobles,2015,9,65.3
+Worthington,Nobles,2015,10,50.6
+Worthington,Nobles,2015,11,37.7
+Worthington,Nobles,2015,12,26
+Worthington,Nobles,2016,1,14.5
+Worthington,Nobles,2016,2,23.5
+Worthington,Nobles,2016,3,37.7
+Worthington,Nobles,2016,4,46.7
+Worthington,Nobles,2016,5,57.4
+Worthington,Nobles,2016,6,69.9
+Worthington,Nobles,2016,7,70.5
+Worthington,Nobles,2016,8,69.6
+Worthington,Nobles,2016,9,63.2
+Worthington,Nobles,2016,10,50
+Worthington,Nobles,2016,11,42
+Worthington,Nobles,2016,12,17.4
+Austin,Mower,2007,1,16.4
+Austin,Mower,2007,2,8.4
+Austin,Mower,2007,3,33.6
+Austin,Mower,2007,4,43
+Austin,Mower,2007,5,60.6
+Austin,Mower,2007,6,67.4
+Austin,Mower,2007,7,69.4
+Austin,Mower,2007,8,68.5
+Austin,Mower,2007,9,60.3
+Austin,Mower,2007,10,52.2
+Austin,Mower,2007,11,32.4
+Austin,Mower,2007,12,14.8
+Austin,Mower,2008,1,10.1
+Austin,Mower,2008,2,11.9
+Austin,Mower,2008,3,26.3
+Austin,Mower,2008,4,40.9
+Austin,Mower,2008,5,54.6
+Austin,Mower,2008,6,66.4
+Austin,Mower,2008,7,70.9
+Austin,Mower,2008,8,67.8
+Austin,Mower,2008,9,61.4
+Austin,Mower,2008,10,47.4
+Austin,Mower,2008,11,33.6
+Austin,Mower,2008,12,12.6
+Austin,Mower,2009,1,5.3
+Austin,Mower,2009,2,19.6
+Austin,Mower,2009,3,30.8
+Austin,Mower,2009,4,44.7
+Austin,Mower,2009,5,56.3
+Austin,Mower,2009,6,64.7
+Austin,Mower,2009,7,65.4
+Austin,Mower,2009,8,65.2
+Austin,Mower,2009,9,61.9
+Austin,Mower,2009,10,41.7
+Austin,Mower,2009,11,39.9
+Austin,Mower,2009,12,15.8
+Austin,Mower,2010,1,8.7
+Austin,Mower,2010,2,12.5
+Austin,Mower,2010,3,34.7
+Austin,Mower,2010,4,51.4
+Austin,Mower,2010,5,57.3
+Austin,Mower,2010,6,66.2
+Austin,Mower,2010,7,72
+Austin,Mower,2010,8,72.4
+Austin,Mower,2010,9,58.5
+Austin,Mower,2010,10,50.9
+Austin,Mower,2010,11,32.8
+Austin,Mower,2010,12,13.7
+Austin,Mower,2011,1,8.8
+Austin,Mower,2011,2,15.5
+Austin,Mower,2011,3,26.6
+Austin,Mower,2011,4,42.4
+Austin,Mower,2011,5,55.7
+Austin,Mower,2011,6,67.7
+Austin,Mower,2011,7,75.2
+Austin,Mower,2011,8,69.6
+Austin,Mower,2011,9,58.7
+Austin,Mower,2011,10,51.1
+Austin,Mower,2011,11,36.1
+Austin,Mower,2011,12,24
+Austin,Mower,2012,1,20.4
+Austin,Mower,2012,2,25.6
+Austin,Mower,2012,3,46.4
+Austin,Mower,2012,4,46.5
+Austin,Mower,2012,5,61.5
+Austin,Mower,2012,6,68.9
+Austin,Mower,2012,7,76.9
+Austin,Mower,2012,8,67.6
+Austin,Mower,2012,9,59.6
+Austin,Mower,2012,10,45.1
+Austin,Mower,2012,11,35.3
+Austin,Mower,2012,12,22.4
+Austin,Mower,2013,1,14.3
+Austin,Mower,2013,2,19.7
+Austin,Mower,2013,3,23.8
+Austin,Mower,2013,4,38.8
+Austin,Mower,2013,5,55
+Austin,Mower,2013,6,66.5
+Austin,Mower,2013,7,71.1
+Austin,Mower,2013,8,70
+Austin,Mower,2013,9,64.1
+Austin,Mower,2013,10,47.9
+Austin,Mower,2013,11,30.2
+Austin,Mower,2013,12,13.2
+Austin,Mower,2014,1,6.1
+Austin,Mower,2014,2,6.5
+Austin,Mower,2014,3,22.9
+Austin,Mower,2014,4,42.1
+Austin,Mower,2014,5,56.8
+Austin,Mower,2014,6,68.7
+Austin,Mower,2014,7,67.9
+Austin,Mower,2014,8,70.9
+Austin,Mower,2014,9,60
+Austin,Mower,2014,10,48
+Austin,Mower,2014,11,24.4
+Austin,Mower,2014,12,23.9
+Austin,Mower,2015,1,16.4
+Austin,Mower,2015,2,8.5
+Austin,Mower,2015,3,31.2
+Austin,Mower,2015,4,47.2
+Austin,Mower,2015,5,57.4
+Austin,Mower,2015,6,67.6
+Austin,Mower,2015,7,70.1
+Austin,Mower,2015,8,66.9
+Austin,Mower,2015,9,66.5
+Austin,Mower,2015,10,50.4
+Austin,Mower,2015,11,39.3
+Austin,Mower,2015,12,29.7
+Austin,Mower,2016,1,14.1
+Austin,Mower,2016,2,22.6
+Austin,Mower,2016,3,37.8
+Austin,Mower,2016,4,47
+Austin,Mower,2016,5,57.7
+Austin,Mower,2016,6,69.9
+Austin,Mower,2016,7,71.6
+Austin,Mower,2016,8,70.5
+Austin,Mower,2016,9,64.8
+Austin,Mower,2016,10,51.7
+Austin,Mower,2016,11,42.8
+Austin,Mower,2016,12,19.3
+Caledonia,Houston,2007,1,19.7
+Caledonia,Houston,2007,2,10
+Caledonia,Houston,2007,3,34.7
+Caledonia,Houston,2007,4,43.7
+Caledonia,Houston,2007,5,61.1
+Caledonia,Houston,2007,6,67.9
+Caledonia,Houston,2007,7,70.8
+Caledonia,Houston,2007,8,70.1
+Caledonia,Houston,2007,9,62.5
+Caledonia,Houston,2007,10,53.8
+Caledonia,Houston,2007,11,32.9
+Caledonia,Houston,2007,12,16.6
+Caledonia,Houston,2008,1,12.2
+Caledonia,Houston,2008,2,12.1
+Caledonia,Houston,2008,3,26.9
+Caledonia,Houston,2008,4,42.8
+Caledonia,Houston,2008,5,54.5
+Caledonia,Houston,2008,6,66.3
+Caledonia,Houston,2008,7,70.7
+Caledonia,Houston,2008,8,67.6
+Caledonia,Houston,2008,9,61.7
+Caledonia,Houston,2008,10,48.2
+Caledonia,Houston,2008,11,34.4
+Caledonia,Houston,2008,12,12.3
+Caledonia,Houston,2009,1,5.9
+Caledonia,Houston,2009,2,21.2
+Caledonia,Houston,2009,3,32
+Caledonia,Houston,2009,4,44.4
+Caledonia,Houston,2009,5,56.3
+Caledonia,Houston,2009,6,65.5
+Caledonia,Houston,2009,7,65.4
+Caledonia,Houston,2009,8,65.9
+Caledonia,Houston,2009,9,61.5
+Caledonia,Houston,2009,10,42.2
+Caledonia,Houston,2009,11,40.9
+Caledonia,Houston,2009,12,18.4
+Caledonia,Houston,2010,1,12.5
+Caledonia,Houston,2010,2,18.3
+Caledonia,Houston,2010,3,38
+Caledonia,Houston,2010,4,51.7
+Caledonia,Houston,2010,5,58.2
+Caledonia,Houston,2010,6,67.4
+Caledonia,Houston,2010,7,72.7
+Caledonia,Houston,2010,8,71.9
+Caledonia,Houston,2010,9,59
+Caledonia,Houston,2010,10,51.8
+Caledonia,Houston,2010,11,35.1
+Caledonia,Houston,2010,12,15
+Caledonia,Houston,2011,1,11.9
+Caledonia,Houston,2011,2,18.7
+Caledonia,Houston,2011,3,28.9
+Caledonia,Houston,2011,4,43
+Caledonia,Houston,2011,5,56.1
+Caledonia,Houston,2011,6,67
+Caledonia,Houston,2011,7,75
+Caledonia,Houston,2011,8,69.2
+Caledonia,Houston,2011,9,57.8
+Caledonia,Houston,2011,10,51.1
+Caledonia,Houston,2011,11,37.3
+Caledonia,Houston,2011,12,25.3
+Caledonia,Houston,2012,1,20.7
+Caledonia,Houston,2012,2,26.7
+Caledonia,Houston,2012,3,47.3
+Caledonia,Houston,2012,4,46.8
+Caledonia,Houston,2012,5,62.1
+Caledonia,Houston,2012,6,68.9
+Caledonia,Houston,2012,7,76.9
+Caledonia,Houston,2012,8,68.2
+Caledonia,Houston,2012,9,59.3
+Caledonia,Houston,2012,10,45.9
+Caledonia,Houston,2012,11,35.8
+Caledonia,Houston,2012,12,24.3
+Caledonia,Houston,2013,1,18.3
+Caledonia,Houston,2013,2,17.5
+Caledonia,Houston,2013,3,24.2
+Caledonia,Houston,2013,4,38.7
+Caledonia,Houston,2013,5,M
+Caledonia,Houston,2013,6,65.3
+Caledonia,Houston,2013,7,70.5
+Caledonia,Houston,2013,8,68.7
+Caledonia,Houston,2013,9,62.7
+Caledonia,Houston,2013,10,47.6
+Caledonia,Houston,2013,11,30.7
+Caledonia,Houston,2013,12,13.2
+Caledonia,Houston,2014,1,7.3
+Caledonia,Houston,2014,2,6.9
+Caledonia,Houston,2014,3,22.3
+Caledonia,Houston,2014,4,42.1
+Caledonia,Houston,2014,5,57
+Caledonia,Houston,2014,6,69.1
+Caledonia,Houston,2014,7,67.4
+Caledonia,Houston,2014,8,70.1
+Caledonia,Houston,2014,9,60.3
+Caledonia,Houston,2014,10,47
+Caledonia,Houston,2014,11,25.5
+Caledonia,Houston,2014,12,25.2
+Caledonia,Houston,2015,1,16.1
+Caledonia,Houston,2015,2,7.9
+Caledonia,Houston,2015,3,31
+Caledonia,Houston,2015,4,47.6
+Caledonia,Houston,2015,5,58.2
+Caledonia,Houston,2015,6,66.9
+Caledonia,Houston,2015,7,69.5
+Caledonia,Houston,2015,8,67.5
+Caledonia,Houston,2015,9,66.5
+Caledonia,Houston,2015,10,50.7
+Caledonia,Houston,2015,11,40
+Caledonia,Houston,2015,12,32.1
+Caledonia,Houston,2016,1,14.8
+Caledonia,Houston,2016,2,23
+Caledonia,Houston,2016,3,37.6
+Caledonia,Houston,2016,4,46.5
+Caledonia,Houston,2016,5,57.6
+Caledonia,Houston,2016,6,68.4
+Caledonia,Houston,2016,7,71.4
+Caledonia,Houston,2016,8,70.4
+Caledonia,Houston,2016,9,63.9
+Caledonia,Houston,2016,10,51.7
+Caledonia,Houston,2016,11,42.2
+Caledonia,Houston,2016,12,22.2
+Preston,Fillmore,2007,1,19.3
+Preston,Fillmore,2007,2,9.7
+Preston,Fillmore,2007,3,34.7
+Preston,Fillmore,2007,4,43.8
+Preston,Fillmore,2007,5,60.9
+Preston,Fillmore,2007,6,67.8
+Preston,Fillmore,2007,7,70.3
+Preston,Fillmore,2007,8,69.9
+Preston,Fillmore,2007,9,62.1
+Preston,Fillmore,2007,10,53.7
+Preston,Fillmore,2007,11,32.9
+Preston,Fillmore,2007,12,16.8
+Preston,Fillmore,2008,1,11.8
+Preston,Fillmore,2008,2,12.5
+Preston,Fillmore,2008,3,26.4
+Preston,Fillmore,2008,4,43.1
+Preston,Fillmore,2008,5,53.8
+Preston,Fillmore,2008,6,65.9
+Preston,Fillmore,2008,7,71.5
+Preston,Fillmore,2008,8,67.8
+Preston,Fillmore,2008,9,62.8
+Preston,Fillmore,2008,10,47.9
+Preston,Fillmore,2008,11,34.7
+Preston,Fillmore,2008,12,13.1
+Preston,Fillmore,2009,1,5.7
+Preston,Fillmore,2009,2,21.2
+Preston,Fillmore,2009,3,32.1
+Preston,Fillmore,2009,4,44.7
+Preston,Fillmore,2009,5,56.9
+Preston,Fillmore,2009,6,65.3
+Preston,Fillmore,2009,7,65.6
+Preston,Fillmore,2009,8,66.4
+Preston,Fillmore,2009,9,62.2
+Preston,Fillmore,2009,10,43
+Preston,Fillmore,2009,11,41.2
+Preston,Fillmore,2009,12,17.1
+Preston,Fillmore,2010,1,11.5
+Preston,Fillmore,2010,2,15.5
+Preston,Fillmore,2010,3,37
+Preston,Fillmore,2010,4,51.7
+Preston,Fillmore,2010,5,57.9
+Preston,Fillmore,2010,6,68.1
+Preston,Fillmore,2010,7,73.5
+Preston,Fillmore,2010,8,73.8
+Preston,Fillmore,2010,9,59.5
+Preston,Fillmore,2010,10,50.6
+Preston,Fillmore,2010,11,35
+Preston,Fillmore,2010,12,15.6
+Preston,Fillmore,2011,1,11.5
+Preston,Fillmore,2011,2,17.9
+Preston,Fillmore,2011,3,29.3
+Preston,Fillmore,2011,4,44.1
+Preston,Fillmore,2011,5,56.3
+Preston,Fillmore,2011,6,67.3
+Preston,Fillmore,2011,7,75.8
+Preston,Fillmore,2011,8,70
+Preston,Fillmore,2011,9,59.2
+Preston,Fillmore,2011,10,51.2
+Preston,Fillmore,2011,11,37.5
+Preston,Fillmore,2011,12,25.6
+Preston,Fillmore,2012,1,21
+Preston,Fillmore,2012,2,27.8
+Preston,Fillmore,2012,3,48.6
+Preston,Fillmore,2012,4,47.2
+Preston,Fillmore,2012,5,62.2
+Preston,Fillmore,2012,6,69.1
+Preston,Fillmore,2012,7,76.9
+Preston,Fillmore,2012,8,67.8
+Preston,Fillmore,2012,9,58.7
+Preston,Fillmore,2012,10,45.8
+Preston,Fillmore,2012,11,36.6
+Preston,Fillmore,2012,12,23.9
+Preston,Fillmore,2013,1,16.9
+Preston,Fillmore,2013,2,18.2
+Preston,Fillmore,2013,3,24
+Preston,Fillmore,2013,4,39.5
+Preston,Fillmore,2013,5,55.8
+Preston,Fillmore,2013,6,66
+Preston,Fillmore,2013,7,70.3
+Preston,Fillmore,2013,8,69.2
+Preston,Fillmore,2013,9,62.8
+Preston,Fillmore,2013,10,47.7
+Preston,Fillmore,2013,11,31.2
+Preston,Fillmore,2013,12,13.8
+Preston,Fillmore,2014,1,7.1
+Preston,Fillmore,2014,2,6.1
+Preston,Fillmore,2014,3,23.4
+Preston,Fillmore,2014,4,42.3
+Preston,Fillmore,2014,5,55.5
+Preston,Fillmore,2014,6,68.3
+Preston,Fillmore,2014,7,67
+Preston,Fillmore,2014,8,69.8
+Preston,Fillmore,2014,9,60.3
+Preston,Fillmore,2014,10,46.4
+Preston,Fillmore,2014,11,25.4
+Preston,Fillmore,2014,12,24.7
+Preston,Fillmore,2015,1,16.4
+Preston,Fillmore,2015,2,7.4
+Preston,Fillmore,2015,3,30.3
+Preston,Fillmore,2015,4,45.9
+Preston,Fillmore,2015,5,57.1
+Preston,Fillmore,2015,6,65.7
+Preston,Fillmore,2015,7,68.5
+Preston,Fillmore,2015,8,66.3
+Preston,Fillmore,2015,9,66.3
+Preston,Fillmore,2015,10,49.4
+Preston,Fillmore,2015,11,39.8
+Preston,Fillmore,2015,12,31.5
+Preston,Fillmore,2016,1,14.8
+Preston,Fillmore,2016,2,22.4
+Preston,Fillmore,2016,3,37.2
+Preston,Fillmore,2016,4,46.2
+Preston,Fillmore,2016,5,56.3
+Preston,Fillmore,2016,6,67.9
+Preston,Fillmore,2016,7,70.5
+Preston,Fillmore,2016,8,69.9
+Preston,Fillmore,2016,9,63.5
+Preston,Fillmore,2016,10,50.8
+Preston,Fillmore,2016,11,41.9
+Preston,Fillmore,2016,12,20.3
+Winona,Winona,2007,1,21.4
+Winona,Winona,2007,2,12.3
+Winona,Winona,2007,3,36.6
+Winona,Winona,2007,4,45.2
+Winona,Winona,2007,5,61.7
+Winona,Winona,2007,6,69.1
+Winona,Winona,2007,7,71.4
+Winona,Winona,2007,8,69.6
+Winona,Winona,2007,9,63.4
+Winona,Winona,2007,10,54.9
+Winona,Winona,2007,11,34.9
+Winona,Winona,2007,12,18.3
+Winona,Winona,2008,1,13.7
+Winona,Winona,2008,2,11.2
+Winona,Winona,2008,3,26.9
+Winona,Winona,2008,4,44
+Winona,Winona,2008,5,55.6
+Winona,Winona,2008,6,66.7
+Winona,Winona,2008,7,70.7
+Winona,Winona,2008,8,68.6
+Winona,Winona,2008,9,62.9
+Winona,Winona,2008,10,49.1
+Winona,Winona,2008,11,34.9
+Winona,Winona,2008,12,13.1
+Winona,Winona,2009,1,6
+Winona,Winona,2009,2,22.9
+Winona,Winona,2009,3,35.1
+Winona,Winona,2009,4,46.8
+Winona,Winona,2009,5,57.7
+Winona,Winona,2009,6,65.9
+Winona,Winona,2009,7,66.7
+Winona,Winona,2009,8,68
+Winona,Winona,2009,9,64.7
+Winona,Winona,2009,10,43.9
+Winona,Winona,2009,11,42.6
+Winona,Winona,2009,12,20.1
+Winona,Winona,2010,1,13.4
+Winona,Winona,2010,2,17.2
+Winona,Winona,2010,3,38.6
+Winona,Winona,2010,4,53.5
+Winona,Winona,2010,5,58.4
+Winona,Winona,2010,6,67.9
+Winona,Winona,2010,7,73.2
+Winona,Winona,2010,8,75
+Winona,Winona,2010,9,59.7
+Winona,Winona,2010,10,53.7
+Winona,Winona,2010,11,36.7
+Winona,Winona,2010,12,15.7
+Winona,Winona,2011,1,11.7
+Winona,Winona,2011,2,19
+Winona,Winona,2011,3,30.1
+Winona,Winona,2011,4,44.7
+Winona,Winona,2011,5,56.8
+Winona,Winona,2011,6,67.8
+Winona,Winona,2011,7,76.4
+Winona,Winona,2011,8,72.3
+Winona,Winona,2011,9,60.8
+Winona,Winona,2011,10,53.6
+Winona,Winona,2011,11,40
+Winona,Winona,2011,12,27.4
+Winona,Winona,2012,1,22.6
+Winona,Winona,2012,2,28.1
+Winona,Winona,2012,3,49.1
+Winona,Winona,2012,4,48.7
+Winona,Winona,2012,5,62.4
+Winona,Winona,2012,6,70.2
+Winona,Winona,2012,7,78.5
+Winona,Winona,2012,8,70
+Winona,Winona,2012,9,61.4
+Winona,Winona,2012,10,47.8
+Winona,Winona,2012,11,38.2
+Winona,Winona,2012,12,25.8
+Winona,Winona,2013,1,18.1
+Winona,Winona,2013,2,18
+Winona,Winona,2013,3,24.9
+Winona,Winona,2013,4,39.5
+Winona,Winona,2013,5,56.5
+Winona,Winona,2013,6,66.8
+Winona,Winona,2013,7,72.5
+Winona,Winona,2013,8,71.8
+Winona,Winona,2013,9,65.2
+Winona,Winona,2013,10,48.9
+Winona,Winona,2013,11,32.8
+Winona,Winona,2013,12,14.7
+Winona,Winona,2014,1,7.3
+Winona,Winona,2014,2,6.3
+Winona,Winona,2014,3,23.8
+Winona,Winona,2014,4,42.9
+Winona,Winona,2014,5,57
+Winona,Winona,2014,6,70
+Winona,Winona,2014,7,69.7
+Winona,Winona,2014,8,71.8
+Winona,Winona,2014,9,62.1
+Winona,Winona,2014,10,48.9
+Winona,Winona,2014,11,28.2
+Winona,Winona,2014,12,25
+Winona,Winona,2015,1,17.1
+Winona,Winona,2015,2,7.5
+Winona,Winona,2015,3,32.4
+Winona,Winona,2015,4,49.1
+Winona,Winona,2015,5,59.6
+Winona,Winona,2015,6,68.6
+Winona,Winona,2015,7,72
+Winona,Winona,2015,8,69.8
+Winona,Winona,2015,9,69.3
+Winona,Winona,2015,10,52.4
+Winona,Winona,2015,11,43.1
+Winona,Winona,2015,12,33.2
+Winona,Winona,2016,1,15.3
+Winona,Winona,2016,2,23.3
+Winona,Winona,2016,3,40.2
+Winona,Winona,2016,4,47.9
+Winona,Winona,2016,5,59.2
+Winona,Winona,2016,6,70
+Winona,Winona,2016,7,73.7
+Winona,Winona,2016,8,73.7
+Winona,Winona,2016,9,66.2
+Winona,Winona,2016,10,54.2
+Winona,Winona,2016,11,45.5
+Winona,Winona,2016,12,20.4
+Wheaton,Traverse,2007,1,14
+Wheaton,Traverse,2007,2,7.3
+Wheaton,Traverse,2007,3,31.6
+Wheaton,Traverse,2007,4,40.5
+Wheaton,Traverse,2007,5,59.4
+Wheaton,Traverse,2007,6,68.4
+Wheaton,Traverse,2007,7,72.8
+Wheaton,Traverse,2007,8,66.8
+Wheaton,Traverse,2007,9,60.5
+Wheaton,Traverse,2007,10,50.2
+Wheaton,Traverse,2007,11,31.7
+Wheaton,Traverse,2007,12,11.1
+Wheaton,Traverse,2008,1,6.8
+Wheaton,Traverse,2008,2,8.2
+Wheaton,Traverse,2008,3,23.4
+Wheaton,Traverse,2008,4,39.4
+Wheaton,Traverse,2008,5,53.7
+Wheaton,Traverse,2008,6,64.7
+Wheaton,Traverse,2008,7,71
+Wheaton,Traverse,2008,8,69.3
+Wheaton,Traverse,2008,9,60.4
+Wheaton,Traverse,2008,10,46.3
+Wheaton,Traverse,2008,11,31.7
+Wheaton,Traverse,2008,12,7.3
+Wheaton,Traverse,2009,1,2.7
+Wheaton,Traverse,2009,2,11.3
+Wheaton,Traverse,2009,3,23
+Wheaton,Traverse,2009,4,40.7
+Wheaton,Traverse,2009,5,54.8
+Wheaton,Traverse,2009,6,64.3
+Wheaton,Traverse,2009,7,66.3
+Wheaton,Traverse,2009,8,66.1
+Wheaton,Traverse,2009,9,63.7
+Wheaton,Traverse,2009,10,40.1
+Wheaton,Traverse,2009,11,38.7
+Wheaton,Traverse,2009,12,11.7
+Wheaton,Traverse,2010,1,7.7
+Wheaton,Traverse,2010,2,9.4
+Wheaton,Traverse,2010,3,33.4
+Wheaton,Traverse,2010,4,51.1
+Wheaton,Traverse,2010,5,57
+Wheaton,Traverse,2010,6,66.7
+Wheaton,Traverse,2010,7,72.2
+Wheaton,Traverse,2010,8,71.6
+Wheaton,Traverse,2010,9,57
+Wheaton,Traverse,2010,10,50.3
+Wheaton,Traverse,2010,11,30.6
+Wheaton,Traverse,2010,12,10.7
+Wheaton,Traverse,2011,1,4.7
+Wheaton,Traverse,2011,2,11.3
+Wheaton,Traverse,2011,3,20.1
+Wheaton,Traverse,2011,4,42.4
+Wheaton,Traverse,2011,5,54.2
+Wheaton,Traverse,2011,6,65.2
+Wheaton,Traverse,2011,7,75.1
+Wheaton,Traverse,2011,8,69.9
+Wheaton,Traverse,2011,9,59.5
+Wheaton,Traverse,2011,10,51.2
+Wheaton,Traverse,2011,11,33.3
+Wheaton,Traverse,2011,12,24.1
+Wheaton,Traverse,2012,1,19.8
+Wheaton,Traverse,2012,2,21.8
+Wheaton,Traverse,2012,3,41
+Wheaton,Traverse,2012,4,47.1
+Wheaton,Traverse,2012,5,59.8
+Wheaton,Traverse,2012,6,68.9
+Wheaton,Traverse,2012,7,75.8
+Wheaton,Traverse,2012,8,67.7
+Wheaton,Traverse,2012,9,59.7
+Wheaton,Traverse,2012,10,44.4
+Wheaton,Traverse,2012,11,31.9
+Wheaton,Traverse,2012,12,16
+Wheaton,Traverse,2013,1,12.4
+Wheaton,Traverse,2013,2,10.4
+Wheaton,Traverse,2013,3,16.7
+Wheaton,Traverse,2013,4,31.7
+Wheaton,Traverse,2013,5,54.8
+Wheaton,Traverse,2013,6,65.6
+Wheaton,Traverse,2013,7,71
+Wheaton,Traverse,2013,8,69.9
+Wheaton,Traverse,2013,9,63.9
+Wheaton,Traverse,2013,10,45.1
+Wheaton,Traverse,2013,11,28.5
+Wheaton,Traverse,2013,12,6.9
+Wheaton,Traverse,2014,1,6.4
+Wheaton,Traverse,2014,2,5.7
+Wheaton,Traverse,2014,3,23.4
+Wheaton,Traverse,2014,4,39.4
+Wheaton,Traverse,2014,5,55.5
+Wheaton,Traverse,2014,6,66.4
+Wheaton,Traverse,2014,7,68
+Wheaton,Traverse,2014,8,68.4
+Wheaton,Traverse,2014,9,59.9
+Wheaton,Traverse,2014,10,48.2
+Wheaton,Traverse,2014,11,21.5
+Wheaton,Traverse,2014,12,20.4
+Wheaton,Traverse,2015,1,16.5
+Wheaton,Traverse,2015,2,6.2
+Wheaton,Traverse,2015,3,32.1
+Wheaton,Traverse,2015,4,46.3
+Wheaton,Traverse,2015,5,54.6
+Wheaton,Traverse,2015,6,66.9
+Wheaton,Traverse,2015,7,71
+Wheaton,Traverse,2015,8,67.9
+Wheaton,Traverse,2015,9,65.9
+Wheaton,Traverse,2015,10,50.1
+Wheaton,Traverse,2015,11,37.6
+Wheaton,Traverse,2015,12,23.4
+Wheaton,Traverse,2016,1,14.3
+Wheaton,Traverse,2016,2,23.3
+Wheaton,Traverse,2016,3,37.4
+Wheaton,Traverse,2016,4,43.7
+Wheaton,Traverse,2016,5,58.7
+Wheaton,Traverse,2016,6,68.8
+Wheaton,Traverse,2016,7,71.1
+Wheaton,Traverse,2016,8,70
+Wheaton,Traverse,2016,9,61.6
+Wheaton,Traverse,2016,10,48.5
+Wheaton,Traverse,2016,11,41.2
+Wheaton,Traverse,2016,12,15.7
+Moorhead,Clay,2007,1,13
+Moorhead,Clay,2007,2,6.5
+Moorhead,Clay,2007,3,31.6
+Moorhead,Clay,2007,4,42.9
+Moorhead,Clay,2007,5,60.4
+Moorhead,Clay,2007,6,69.8
+Moorhead,Clay,2007,7,74
+Moorhead,Clay,2007,8,67.2
+Moorhead,Clay,2007,9,60.6
+Moorhead,Clay,2007,10,50
+Moorhead,Clay,2007,11,31.1
+Moorhead,Clay,2007,12,10.3
+Moorhead,Clay,2008,1,6.5
+Moorhead,Clay,2008,2,7.4
+Moorhead,Clay,2008,3,22.8
+Moorhead,Clay,2008,4,41
+Moorhead,Clay,2008,5,53.9
+Moorhead,Clay,2008,6,63.6
+Moorhead,Clay,2008,7,70.3
+Moorhead,Clay,2008,8,69.4
+Moorhead,Clay,2008,9,59.7
+Moorhead,Clay,2008,10,46.7
+Moorhead,Clay,2008,11,31.7
+Moorhead,Clay,2008,12,5.9
+Moorhead,Clay,2009,1,1.7
+Moorhead,Clay,2009,2,11.6
+Moorhead,Clay,2009,3,24
+Moorhead,Clay,2009,4,41.9
+Moorhead,Clay,2009,5,53.8
+Moorhead,Clay,2009,6,63.6
+Moorhead,Clay,2009,7,66.5
+Moorhead,Clay,2009,8,65.9
+Moorhead,Clay,2009,9,65.1
+Moorhead,Clay,2009,10,40.3
+Moorhead,Clay,2009,11,38.4
+Moorhead,Clay,2009,12,9.7
+Moorhead,Clay,2010,1,8.4
+Moorhead,Clay,2010,2,10.1
+Moorhead,Clay,2010,3,35.4
+Moorhead,Clay,2010,4,51.6
+Moorhead,Clay,2010,5,58.1
+Moorhead,Clay,2010,6,66.5
+Moorhead,Clay,2010,7,72
+Moorhead,Clay,2010,8,71.2
+Moorhead,Clay,2010,9,56.4
+Moorhead,Clay,2010,10,50
+Moorhead,Clay,2010,11,29.2
+Moorhead,Clay,2010,12,10
+Moorhead,Clay,2011,1,3.2
+Moorhead,Clay,2011,2,11.2
+Moorhead,Clay,2011,3,20.5
+Moorhead,Clay,2011,4,42.4
+Moorhead,Clay,2011,5,54.6
+Moorhead,Clay,2011,6,66.8
+Moorhead,Clay,2011,7,74.5
+Moorhead,Clay,2011,8,70.6
+Moorhead,Clay,2011,9,59.9
+Moorhead,Clay,2011,10,52.6
+Moorhead,Clay,2011,11,33.8
+Moorhead,Clay,2011,12,25.3
+Moorhead,Clay,2012,1,19.6
+Moorhead,Clay,2012,2,21.4
+Moorhead,Clay,2012,3,41.6
+Moorhead,Clay,2012,4,48.1
+Moorhead,Clay,2012,5,60.8
+Moorhead,Clay,2012,6,69.9
+Moorhead,Clay,2012,7,76.6
+Moorhead,Clay,2012,8,68.8
+Moorhead,Clay,2012,9,59.3
+Moorhead,Clay,2012,10,44
+Moorhead,Clay,2012,11,30.3
+Moorhead,Clay,2012,12,14.7
+Moorhead,Clay,2013,1,10.8
+Moorhead,Clay,2013,2,12.7
+Moorhead,Clay,2013,3,17.3
+Moorhead,Clay,2013,4,33.8
+Moorhead,Clay,2013,5,57.6
+Moorhead,Clay,2013,6,67.5
+Moorhead,Clay,2013,7,71.7
+Moorhead,Clay,2013,8,70.9
+Moorhead,Clay,2013,9,64.4
+Moorhead,Clay,2013,10,44.8
+Moorhead,Clay,2013,11,28.2
+Moorhead,Clay,2013,12,4
+Moorhead,Clay,2014,1,4.4
+Moorhead,Clay,2014,2,4.6
+Moorhead,Clay,2014,3,22.3
+Moorhead,Clay,2014,4,40.3
+Moorhead,Clay,2014,5,57
+Moorhead,Clay,2014,6,67.2
+Moorhead,Clay,2014,7,69.4
+Moorhead,Clay,2014,8,69.3
+Moorhead,Clay,2014,9,60.8
+Moorhead,Clay,2014,10,48.4
+Moorhead,Clay,2014,11,22.8
+Moorhead,Clay,2014,12,21.1
+Moorhead,Clay,2015,1,16
+Moorhead,Clay,2015,2,7.7
+Moorhead,Clay,2015,3,33.5
+Moorhead,Clay,2015,4,47.1
+Moorhead,Clay,2015,5,55
+Moorhead,Clay,2015,6,67.1
+Moorhead,Clay,2015,7,72.5
+Moorhead,Clay,2015,8,69.4
+Moorhead,Clay,2015,9,65.6
+Moorhead,Clay,2015,10,50.8
+Moorhead,Clay,2015,11,36.2
+Moorhead,Clay,2015,12,23.1
+Moorhead,Clay,2016,1,13.2
+Moorhead,Clay,2016,2,23.6
+Moorhead,Clay,2016,3,38.3
+Moorhead,Clay,2016,4,43.9
+Moorhead,Clay,2016,5,60.6
+Moorhead,Clay,2016,6,68.8
+Moorhead,Clay,2016,7,71.9
+Moorhead,Clay,2016,8,70.3
+Moorhead,Clay,2016,9,62.7
+Moorhead,Clay,2016,10,49.3
+Moorhead,Clay,2016,11,41.8
+Moorhead,Clay,2016,12,16
+Chaska,Carver,2007,1,17.2
+Chaska,Carver,2007,2,9.5
+Chaska,Carver,2007,3,34.2
+Chaska,Carver,2007,4,44.7
+Chaska,Carver,2007,5,62.1
+Chaska,Carver,2007,6,69.7
+Chaska,Carver,2007,7,72.8
+Chaska,Carver,2007,8,69.4
+Chaska,Carver,2007,9,62.7
+Chaska,Carver,2007,10,52.4
+Chaska,Carver,2007,11,33
+Chaska,Carver,2007,12,12.9
+Chaska,Carver,2008,1,9.7
+Chaska,Carver,2008,2,12.5
+Chaska,Carver,2008,3,25
+Chaska,Carver,2008,4,40.9
+Chaska,Carver,2008,5,54.4
+Chaska,Carver,2008,6,65.3
+Chaska,Carver,2008,7,71.8
+Chaska,Carver,2008,8,68.9
+Chaska,Carver,2008,9,61.7
+Chaska,Carver,2008,10,48
+Chaska,Carver,2008,11,33.2
+Chaska,Carver,2008,12,10.8
+Chaska,Carver,2009,1,3.5
+Chaska,Carver,2009,2,18.6
+Chaska,Carver,2009,3,29.2
+Chaska,Carver,2009,4,45
+Chaska,Carver,2009,5,56.9
+Chaska,Carver,2009,6,64.3
+Chaska,Carver,2009,7,66.8
+Chaska,Carver,2009,8,66.5
+Chaska,Carver,2009,9,63.6
+Chaska,Carver,2009,10,41.6
+Chaska,Carver,2009,11,40.2
+Chaska,Carver,2009,12,15.5
+Chaska,Carver,2010,1,9.7
+Chaska,Carver,2010,2,14.4
+Chaska,Carver,2010,3,36.6
+Chaska,Carver,2010,4,52.1
+Chaska,Carver,2010,5,57.2
+Chaska,Carver,2010,6,66.1
+Chaska,Carver,2010,7,72.3
+Chaska,Carver,2010,8,73.1
+Chaska,Carver,2010,9,57.6
+Chaska,Carver,2010,10,50.9
+Chaska,Carver,2010,11,32.6
+Chaska,Carver,2010,12,13
+Chaska,Carver,2011,1,7.8
+Chaska,Carver,2011,2,14.3
+Chaska,Carver,2011,3,25.4
+Chaska,Carver,2011,4,42.8
+Chaska,Carver,2011,5,55.2
+Chaska,Carver,2011,6,66.6
+Chaska,Carver,2011,7,75.8
+Chaska,Carver,2011,8,69.9
+Chaska,Carver,2011,9,59.9
+Chaska,Carver,2011,10,51.9
+Chaska,Carver,2011,11,35.9
+Chaska,Carver,2011,12,24.7
+Chaska,Carver,2012,1,20.8
+Chaska,Carver,2012,2,24.4
+Chaska,Carver,2012,3,45.4
+Chaska,Carver,2012,4,47.7
+Chaska,Carver,2012,5,61.2
+Chaska,Carver,2012,6,68.4
+Chaska,Carver,2012,7,77.1
+Chaska,Carver,2012,8,68.1
+Chaska,Carver,2012,9,60.9
+Chaska,Carver,2012,10,45.1
+Chaska,Carver,2012,11,34.9
+Chaska,Carver,2012,12,21
+Chaska,Carver,2013,1,14.6
+Chaska,Carver,2013,2,16.6
+Chaska,Carver,2013,3,23.8
+Chaska,Carver,2013,4,37.4
+Chaska,Carver,2013,5,54.5
+Chaska,Carver,2013,6,65.7
+Chaska,Carver,2013,7,71.3
+Chaska,Carver,2013,8,70.4
+Chaska,Carver,2013,9,64.2
+Chaska,Carver,2013,10,46.9
+Chaska,Carver,2013,11,30.1
+Chaska,Carver,2013,12,9.8
+Chaska,Carver,2014,1,5.7
+Chaska,Carver,2014,2,4.3
+Chaska,Carver,2014,3,21.9
+Chaska,Carver,2014,4,40.9
+Chaska,Carver,2014,5,55.3
+Chaska,Carver,2014,6,67.2
+Chaska,Carver,2014,7,69
+Chaska,Carver,2014,8,70.9
+Chaska,Carver,2014,9,60.7
+Chaska,Carver,2014,10,47.3
+Chaska,Carver,2014,11,23.7
+Chaska,Carver,2014,12,22.6
+Chaska,Carver,2015,1,16
+Chaska,Carver,2015,2,9.4
+Chaska,Carver,2015,3,31.9
+Chaska,Carver,2015,4,47
+Chaska,Carver,2015,5,57
+Chaska,Carver,2015,6,67
+Chaska,Carver,2015,7,70.2
+Chaska,Carver,2015,8,67.4
+Chaska,Carver,2015,9,66.3
+Chaska,Carver,2015,10,49.8
+Chaska,Carver,2015,11,39.6
+Chaska,Carver,2015,12,28.3
+Chaska,Carver,2016,1,13.8
+Chaska,Carver,2016,2,21.9
+Chaska,Carver,2016,3,38.5
+Chaska,Carver,2016,4,46
+Chaska,Carver,2016,5,57
+Chaska,Carver,2016,6,68.1
+Chaska,Carver,2016,7,71.7
+Chaska,Carver,2016,8,70.5
+Chaska,Carver,2016,9,63.5
+Chaska,Carver,2016,10,50.2
+Chaska,Carver,2016,11,41.6
+Chaska,Carver,2016,12,17.6
+Buffalo,Wright,2007,1,17.4
+Buffalo,Wright,2007,2,9.1
+Buffalo,Wright,2007,3,33.5
+Buffalo,Wright,2007,4,44.9
+Buffalo,Wright,2007,5,61.6
+Buffalo,Wright,2007,6,70.1
+Buffalo,Wright,2007,7,72.9
+Buffalo,Wright,2007,8,69.4
+Buffalo,Wright,2007,9,62.6
+Buffalo,Wright,2007,10,51.5
+Buffalo,Wright,2007,11,33.8
+Buffalo,Wright,2007,12,13.9
+Buffalo,Wright,2008,1,8.5
+Buffalo,Wright,2008,2,13
+Buffalo,Wright,2008,3,25.1
+Buffalo,Wright,2008,4,39.9
+Buffalo,Wright,2008,5,54
+Buffalo,Wright,2008,6,64.7
+Buffalo,Wright,2008,7,71.4
+Buffalo,Wright,2008,8,68.5
+Buffalo,Wright,2008,9,60.2
+Buffalo,Wright,2008,10,47.4
+Buffalo,Wright,2008,11,32.2
+Buffalo,Wright,2008,12,12.1
+Buffalo,Wright,2009,1,3.3
+Buffalo,Wright,2009,2,M
+Buffalo,Wright,2009,3,29.3
+Buffalo,Wright,2009,4,44.7
+Buffalo,Wright,2009,5,56.4
+Buffalo,Wright,2009,6,64
+Buffalo,Wright,2009,7,66.1
+Buffalo,Wright,2009,8,66.4
+Buffalo,Wright,2009,9,63.5
+Buffalo,Wright,2009,10,41.1
+Buffalo,Wright,2009,11,40.5
+Buffalo,Wright,2009,12,14
+Buffalo,Wright,2010,1,10
+Buffalo,Wright,2010,2,M
+Buffalo,Wright,2010,3,35.7
+Buffalo,Wright,2010,4,51.3
+Buffalo,Wright,2010,5,57.2
+Buffalo,Wright,2010,6,65.6
+Buffalo,Wright,2010,7,72.2
+Buffalo,Wright,2010,8,M
+Buffalo,Wright,2010,9,56.9
+Buffalo,Wright,2010,10,50.7
+Buffalo,Wright,2010,11,30.5
+Buffalo,Wright,2010,12,13.6
+Buffalo,Wright,2011,1,8
+Buffalo,Wright,2011,2,14.7
+Buffalo,Wright,2011,3,25.4
+Buffalo,Wright,2011,4,43.3
+Buffalo,Wright,2011,5,56.3
+Buffalo,Wright,2011,6,65.8
+Buffalo,Wright,2011,7,75.3
+Buffalo,Wright,2011,8,70
+Buffalo,Wright,2011,9,57.7
+Buffalo,Wright,2011,10,50.8
+Buffalo,Wright,2011,11,35.3
+Buffalo,Wright,2011,12,24.1
+Buffalo,Wright,2012,1,20.1
+Buffalo,Wright,2012,2,23.2
+Buffalo,Wright,2012,3,43.8
+Buffalo,Wright,2012,4,47.4
+Buffalo,Wright,2012,5,61.3
+Buffalo,Wright,2012,6,68.9
+Buffalo,Wright,2012,7,77
+Buffalo,Wright,2012,8,68
+Buffalo,Wright,2012,9,59.4
+Buffalo,Wright,2012,10,43.6
+Buffalo,Wright,2012,11,33
+Buffalo,Wright,2012,12,19
+Buffalo,Wright,2013,1,13.5
+Buffalo,Wright,2013,2,13.8
+Buffalo,Wright,2013,3,22.2
+Buffalo,Wright,2013,4,36.4
+Buffalo,Wright,2013,5,54.2
+Buffalo,Wright,2013,6,65.4
+Buffalo,Wright,2013,7,71
+Buffalo,Wright,2013,8,69.8
+Buffalo,Wright,2013,9,63.6
+Buffalo,Wright,2013,10,46
+Buffalo,Wright,2013,11,28.9
+Buffalo,Wright,2013,12,9.9
+Buffalo,Wright,2014,1,5.1
+Buffalo,Wright,2014,2,5
+Buffalo,Wright,2014,3,22.6
+Buffalo,Wright,2014,4,39.6
+Buffalo,Wright,2014,5,55.9
+Buffalo,Wright,2014,6,68.7
+Buffalo,Wright,2014,7,69.2
+Buffalo,Wright,2014,8,70.4
+Buffalo,Wright,2014,9,59.7
+Buffalo,Wright,2014,10,47.1
+Buffalo,Wright,2014,11,23.1
+Buffalo,Wright,2014,12,22.1
+Buffalo,Wright,2015,1,16.7
+Buffalo,Wright,2015,2,10.1
+Buffalo,Wright,2015,3,29.3
+Buffalo,Wright,2015,4,45.7
+Buffalo,Wright,2015,5,55.5
+Buffalo,Wright,2015,6,66.5
+Buffalo,Wright,2015,7,70.5
+Buffalo,Wright,2015,8,67.7
+Buffalo,Wright,2015,9,64.8
+Buffalo,Wright,2015,10,49.2
+Buffalo,Wright,2015,11,39.3
+Buffalo,Wright,2015,12,27.5
+Buffalo,Wright,2016,1,14.1
+Buffalo,Wright,2016,2,21.2
+Buffalo,Wright,2016,3,37.5
+Buffalo,Wright,2016,4,45
+Buffalo,Wright,2016,5,58.2
+Buffalo,Wright,2016,6,69.5
+Buffalo,Wright,2016,7,71.9
+Buffalo,Wright,2016,8,70.4
+Buffalo,Wright,2016,9,64.4
+Buffalo,Wright,2016,10,51.4
+Buffalo,Wright,2016,11,43.7
+Buffalo,Wright,2016,12,18.8
+Alexandria,Douglas,2007,1,15.6
+Alexandria,Douglas,2007,2,9.2
+Alexandria,Douglas,2007,3,32.4
+Alexandria,Douglas,2007,4,41.4
+Alexandria,Douglas,2007,5,60
+Alexandria,Douglas,2007,6,68.9
+Alexandria,Douglas,2007,7,73.4
+Alexandria,Douglas,2007,8,67.9
+Alexandria,Douglas,2007,9,61
+Alexandria,Douglas,2007,10,49.4
+Alexandria,Douglas,2007,11,30.3
+Alexandria,Douglas,2007,12,11.1
+Alexandria,Douglas,2008,1,7.1
+Alexandria,Douglas,2008,2,9.6
+Alexandria,Douglas,2008,3,22.7
+Alexandria,Douglas,2008,4,39.7
+Alexandria,Douglas,2008,5,53.2
+Alexandria,Douglas,2008,6,63
+Alexandria,Douglas,2008,7,70.5
+Alexandria,Douglas,2008,8,69.4
+Alexandria,Douglas,2008,9,59.5
+Alexandria,Douglas,2008,10,46.5
+Alexandria,Douglas,2008,11,31.6
+Alexandria,Douglas,2008,12,7.2
+Alexandria,Douglas,2009,1,2.4
+Alexandria,Douglas,2009,2,13.8
+Alexandria,Douglas,2009,3,25.3
+Alexandria,Douglas,2009,4,42.3
+Alexandria,Douglas,2009,5,55.9
+Alexandria,Douglas,2009,6,63.4
+Alexandria,Douglas,2009,7,66.5
+Alexandria,Douglas,2009,8,66.3
+Alexandria,Douglas,2009,9,63.8
+Alexandria,Douglas,2009,10,39.9
+Alexandria,Douglas,2009,11,38.7
+Alexandria,Douglas,2009,12,12.2
+Alexandria,Douglas,2010,1,9.2
+Alexandria,Douglas,2010,2,13
+Alexandria,Douglas,2010,3,35.9
+Alexandria,Douglas,2010,4,51.2
+Alexandria,Douglas,2010,5,55.9
+Alexandria,Douglas,2010,6,65.5
+Alexandria,Douglas,2010,7,71.8
+Alexandria,Douglas,2010,8,71.1
+Alexandria,Douglas,2010,9,56.2
+Alexandria,Douglas,2010,10,49.5
+Alexandria,Douglas,2010,11,30.3
+Alexandria,Douglas,2010,12,M
+Alexandria,Douglas,2011,1,M
+Alexandria,Douglas,2011,2,11.7
+Alexandria,Douglas,2011,3,21.6
+Alexandria,Douglas,2011,4,40.7
+Alexandria,Douglas,2011,5,54.5
+Alexandria,Douglas,2011,6,64.5
+Alexandria,Douglas,2011,7,74.3
+Alexandria,Douglas,2011,8,69
+Alexandria,Douglas,2011,9,58.9
+Alexandria,Douglas,2011,10,50.8
+Alexandria,Douglas,2011,11,33.5
+Alexandria,Douglas,2011,12,24.4
+Alexandria,Douglas,2012,1,19.1
+Alexandria,Douglas,2012,2,21.9
+Alexandria,Douglas,2012,3,41.7
+Alexandria,Douglas,2012,4,46.9
+Alexandria,Douglas,2012,5,58.9
+Alexandria,Douglas,2012,6,67.7
+Alexandria,Douglas,2012,7,76.5
+Alexandria,Douglas,2012,8,68.4
+Alexandria,Douglas,2012,9,59.8
+Alexandria,Douglas,2012,10,44.3
+Alexandria,Douglas,2012,11,31.7
+Alexandria,Douglas,2012,12,16.9
+Alexandria,Douglas,2013,1,11
+Alexandria,Douglas,2013,2,12.9
+Alexandria,Douglas,2013,3,19.2
+Alexandria,Douglas,2013,4,33.2
+Alexandria,Douglas,2013,5,54.5
+Alexandria,Douglas,2013,6,65.6
+Alexandria,Douglas,2013,7,71.3
+Alexandria,Douglas,2013,8,71
+Alexandria,Douglas,2013,9,63.6
+Alexandria,Douglas,2013,10,45
+Alexandria,Douglas,2013,11,28.8
+Alexandria,Douglas,2013,12,5.7
+Alexandria,Douglas,2014,1,4.2
+Alexandria,Douglas,2014,2,3.9
+Alexandria,Douglas,2014,3,21.2
+Alexandria,Douglas,2014,4,39.3
+Alexandria,Douglas,2014,5,55.5
+Alexandria,Douglas,2014,6,66.2
+Alexandria,Douglas,2014,7,68.3
+Alexandria,Douglas,2014,8,69.3
+Alexandria,Douglas,2014,9,59.2
+Alexandria,Douglas,2014,10,47.2
+Alexandria,Douglas,2014,11,21.3
+Alexandria,Douglas,2014,12,21.4
+Alexandria,Douglas,2015,1,15.4
+Alexandria,Douglas,2015,2,7.4
+Alexandria,Douglas,2015,3,31.5
+Alexandria,Douglas,2015,4,46.1
+Alexandria,Douglas,2015,5,54.7
+Alexandria,Douglas,2015,6,66.3
+Alexandria,Douglas,2015,7,70.4
+Alexandria,Douglas,2015,8,67.8
+Alexandria,Douglas,2015,9,65.7
+Alexandria,Douglas,2015,10,49.5
+Alexandria,Douglas,2015,11,37
+Alexandria,Douglas,2015,12,24.8
+Alexandria,Douglas,2016,1,13.5
+Alexandria,Douglas,2016,2,21.6
+Alexandria,Douglas,2016,3,37.9
+Alexandria,Douglas,2016,4,44
+Alexandria,Douglas,2016,5,58
+Alexandria,Douglas,2016,6,67.3
+Alexandria,Douglas,2016,7,70.9
+Alexandria,Douglas,2016,8,69.6
+Alexandria,Douglas,2016,9,61.7
+Alexandria,Douglas,2016,10,49.2
+Alexandria,Douglas,2016,11,40.5
+Alexandria,Douglas,2016,12,15.5
+Albert Lea,Freeborn,2007,1,17.6
+Albert Lea,Freeborn,2007,2,9.7
+Albert Lea,Freeborn,2007,3,34.3
+Albert Lea,Freeborn,2007,4,44
+Albert Lea,Freeborn,2007,5,62.1
+Albert Lea,Freeborn,2007,6,69.3
+Albert Lea,Freeborn,2007,7,72.8
+Albert Lea,Freeborn,2007,8,70.5
+Albert Lea,Freeborn,2007,9,63.6
+Albert Lea,Freeborn,2007,10,53.9
+Albert Lea,Freeborn,2007,11,33.5
+Albert Lea,Freeborn,2007,12,14.9
+Albert Lea,Freeborn,2008,1,10.5
+Albert Lea,Freeborn,2008,2,11.6
+Albert Lea,Freeborn,2008,3,26.6
+Albert Lea,Freeborn,2008,4,42
+Albert Lea,Freeborn,2008,5,55.5
+Albert Lea,Freeborn,2008,6,67.4
+Albert Lea,Freeborn,2008,7,72
+Albert Lea,Freeborn,2008,8,68.5
+Albert Lea,Freeborn,2008,9,61.9
+Albert Lea,Freeborn,2008,10,48.5
+Albert Lea,Freeborn,2008,11,34.1
+Albert Lea,Freeborn,2008,12,13.5
+Albert Lea,Freeborn,2009,1,6.5
+Albert Lea,Freeborn,2009,2,20.8
+Albert Lea,Freeborn,2009,3,31.4
+Albert Lea,Freeborn,2009,4,45.6
+Albert Lea,Freeborn,2009,5,57.6
+Albert Lea,Freeborn,2009,6,66.1
+Albert Lea,Freeborn,2009,7,67
+Albert Lea,Freeborn,2009,8,66.4
+Albert Lea,Freeborn,2009,9,63.2
+Albert Lea,Freeborn,2009,10,42.1
+Albert Lea,Freeborn,2009,11,40.9
+Albert Lea,Freeborn,2009,12,16.3
+Albert Lea,Freeborn,2010,1,9.2
+Albert Lea,Freeborn,2010,2,12.4
+Albert Lea,Freeborn,2010,3,35
+Albert Lea,Freeborn,2010,4,53.1
+Albert Lea,Freeborn,2010,5,59.3
+Albert Lea,Freeborn,2010,6,67.6
+Albert Lea,Freeborn,2010,7,73.5
+Albert Lea,Freeborn,2010,8,74.1
+Albert Lea,Freeborn,2010,9,60.4
+Albert Lea,Freeborn,2010,10,52.2
+Albert Lea,Freeborn,2010,11,34.2
+Albert Lea,Freeborn,2010,12,14.6
+Albert Lea,Freeborn,2011,1,9.4
+Albert Lea,Freeborn,2011,2,17.1
+Albert Lea,Freeborn,2011,3,27.9
+Albert Lea,Freeborn,2011,4,44
+Albert Lea,Freeborn,2011,5,57.3
+Albert Lea,Freeborn,2011,6,68.9
+Albert Lea,Freeborn,2011,7,76.3
+Albert Lea,Freeborn,2011,8,71
+Albert Lea,Freeborn,2011,9,59.9
+Albert Lea,Freeborn,2011,10,51.9
+Albert Lea,Freeborn,2011,11,37.1
+Albert Lea,Freeborn,2011,12,25.4
+Albert Lea,Freeborn,2012,1,21.4
+Albert Lea,Freeborn,2012,2,26.6
+Albert Lea,Freeborn,2012,3,47.7
+Albert Lea,Freeborn,2012,4,48.8
+Albert Lea,Freeborn,2012,5,63.3
+Albert Lea,Freeborn,2012,6,70.6
+Albert Lea,Freeborn,2012,7,77.6
+Albert Lea,Freeborn,2012,8,70.1
+Albert Lea,Freeborn,2012,9,61.3
+Albert Lea,Freeborn,2012,10,46.1
+Albert Lea,Freeborn,2012,11,36.3
+Albert Lea,Freeborn,2012,12,23
+Albert Lea,Freeborn,2013,1,16.1
+Albert Lea,Freeborn,2013,2,18.2
+Albert Lea,Freeborn,2013,3,23.9
+Albert Lea,Freeborn,2013,4,39.2
+Albert Lea,Freeborn,2013,5,55.7
+Albert Lea,Freeborn,2013,6,67.4
+Albert Lea,Freeborn,2013,7,72.1
+Albert Lea,Freeborn,2013,8,70.2
+Albert Lea,Freeborn,2013,9,65.3
+Albert Lea,Freeborn,2013,10,48.4
+Albert Lea,Freeborn,2013,11,30.3
+Albert Lea,Freeborn,2013,12,13.7
+Albert Lea,Freeborn,2014,1,8.2
+Albert Lea,Freeborn,2014,2,7.4
+Albert Lea,Freeborn,2014,3,23.4
+Albert Lea,Freeborn,2014,4,43.1
+Albert Lea,Freeborn,2014,5,57.8
+Albert Lea,Freeborn,2014,6,69.3
+Albert Lea,Freeborn,2014,7,68.6
+Albert Lea,Freeborn,2014,8,71
+Albert Lea,Freeborn,2014,9,61
+Albert Lea,Freeborn,2014,10,48
+Albert Lea,Freeborn,2014,11,24.8
+Albert Lea,Freeborn,2014,12,24.3
+Albert Lea,Freeborn,2015,1,17.4
+Albert Lea,Freeborn,2015,2,9.5
+Albert Lea,Freeborn,2015,3,33.1
+Albert Lea,Freeborn,2015,4,48.6
+Albert Lea,Freeborn,2015,5,58.2
+Albert Lea,Freeborn,2015,6,68.5
+Albert Lea,Freeborn,2015,7,71.1
+Albert Lea,Freeborn,2015,8,67.9
+Albert Lea,Freeborn,2015,9,67.4
+Albert Lea,Freeborn,2015,10,51
+Albert Lea,Freeborn,2015,11,39.6
+Albert Lea,Freeborn,2015,12,29.1
+Albert Lea,Freeborn,2016,1,14.2
+Albert Lea,Freeborn,2016,2,23.4
+Albert Lea,Freeborn,2016,3,38.4
+Albert Lea,Freeborn,2016,4,47.3
+Albert Lea,Freeborn,2016,5,58.2
+Albert Lea,Freeborn,2016,6,70.7
+Albert Lea,Freeborn,2016,7,71.7
+Albert Lea,Freeborn,2016,8,70.7
+Albert Lea,Freeborn,2016,9,65.4
+Albert Lea,Freeborn,2016,10,51.7
+Albert Lea,Freeborn,2016,11,42.6
+Albert Lea,Freeborn,2016,12,18.2
+Benson,Swift,2007,1,15.7
+Benson,Swift,2007,2,7.6
+Benson,Swift,2007,3,32.9
+Benson,Swift,2007,4,42.1
+Benson,Swift,2007,5,61.9
+Benson,Swift,2007,6,70.3
+Benson,Swift,2007,7,73.1
+Benson,Swift,2007,8,68.3
+Benson,Swift,2007,9,62.2
+Benson,Swift,2007,10,50.8
+Benson,Swift,2007,11,31.6
+Benson,Swift,2007,12,10.9
+Benson,Swift,2008,1,6.8
+Benson,Swift,2008,2,9.7
+Benson,Swift,2008,3,23.9
+Benson,Swift,2008,4,40.4
+Benson,Swift,2008,5,53.5
+Benson,Swift,2008,6,64.8
+Benson,Swift,2008,7,71.7
+Benson,Swift,2008,8,69.5
+Benson,Swift,2008,9,60.1
+Benson,Swift,2008,10,46.4
+Benson,Swift,2008,11,30.8
+Benson,Swift,2008,12,9.1
+Benson,Swift,2009,1,3.3
+Benson,Swift,2009,2,14.2
+Benson,Swift,2009,3,26.5
+Benson,Swift,2009,4,42.9
+Benson,Swift,2009,5,56.3
+Benson,Swift,2009,6,65.2
+Benson,Swift,2009,7,67.2
+Benson,Swift,2009,8,66.9
+Benson,Swift,2009,9,64.9
+Benson,Swift,2009,10,40.8
+Benson,Swift,2009,11,38.6
+Benson,Swift,2009,12,13.2
+Benson,Swift,2010,1,7.7
+Benson,Swift,2010,2,9.9
+Benson,Swift,2010,3,34.5
+Benson,Swift,2010,4,52.2
+Benson,Swift,2010,5,57.7
+Benson,Swift,2010,6,67.3
+Benson,Swift,2010,7,73
+Benson,Swift,2010,8,73.1
+Benson,Swift,2010,9,57.3
+Benson,Swift,2010,10,50
+Benson,Swift,2010,11,31.4
+Benson,Swift,2010,12,11
+Benson,Swift,2011,1,5.9
+Benson,Swift,2011,2,11.9
+Benson,Swift,2011,3,21.8
+Benson,Swift,2011,4,43.1
+Benson,Swift,2011,5,55.8
+Benson,Swift,2011,6,66.4
+Benson,Swift,2011,7,76.4
+Benson,Swift,2011,8,70
+Benson,Swift,2011,9,59.7
+Benson,Swift,2011,10,51
+Benson,Swift,2011,11,33.2
+Benson,Swift,2011,12,24.3
+Benson,Swift,2012,1,20.3
+Benson,Swift,2012,2,23.4
+Benson,Swift,2012,3,41.7
+Benson,Swift,2012,4,48.4
+Benson,Swift,2012,5,60.3
+Benson,Swift,2012,6,69.5
+Benson,Swift,2012,7,78
+Benson,Swift,2012,8,68.5
+Benson,Swift,2012,9,59.9
+Benson,Swift,2012,10,44.6
+Benson,Swift,2012,11,32.5
+Benson,Swift,2012,12,16.6
+Benson,Swift,2013,1,12
+Benson,Swift,2013,2,11.9
+Benson,Swift,2013,3,18.6
+Benson,Swift,2013,4,34.6
+Benson,Swift,2013,5,55.1
+Benson,Swift,2013,6,66.2
+Benson,Swift,2013,7,72.1
+Benson,Swift,2013,8,70.8
+Benson,Swift,2013,9,64.4
+Benson,Swift,2013,10,46.6
+Benson,Swift,2013,11,29.3
+Benson,Swift,2013,12,8.3
+Benson,Swift,2014,1,5.2
+Benson,Swift,2014,2,4.1
+Benson,Swift,2014,3,23.1
+Benson,Swift,2014,4,40.2
+Benson,Swift,2014,5,56.4
+Benson,Swift,2014,6,68.2
+Benson,Swift,2014,7,68.9
+Benson,Swift,2014,8,70.1
+Benson,Swift,2014,9,60.9
+Benson,Swift,2014,10,47.8
+Benson,Swift,2014,11,21.5
+Benson,Swift,2014,12,21.8
+Benson,Swift,2015,1,16.6
+Benson,Swift,2015,2,8.1
+Benson,Swift,2015,3,32.1
+Benson,Swift,2015,4,46.7
+Benson,Swift,2015,5,56.8
+Benson,Swift,2015,6,68.2
+Benson,Swift,2015,7,71.9
+Benson,Swift,2015,8,68
+Benson,Swift,2015,9,67.1
+Benson,Swift,2015,10,50.1
+Benson,Swift,2015,11,38
+Benson,Swift,2015,12,23.9
+Benson,Swift,2016,1,14.1
+Benson,Swift,2016,2,23.3
+Benson,Swift,2016,3,39
+Benson,Swift,2016,4,46.1
+Benson,Swift,2016,5,58.4
+Benson,Swift,2016,6,69
+Benson,Swift,2016,7,70.9
+Benson,Swift,2016,8,69.9
+Benson,Swift,2016,9,62
+Benson,Swift,2016,10,49.1
+Benson,Swift,2016,11,M
+Benson,Swift,2016,12,14.6
