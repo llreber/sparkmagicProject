@@ -1,0 +1,34 @@
+Sub CreateCSV()
+
+Dim LastRow  As Long
+Dim City As String
+Dim Month As Integer
+Dim Year As Integer
+Dim RowCounter As Integer
+
+Sheets.Add.Name = "CombineCSV"
+
+For Each ws In Worksheets
+
+ ' Initialize the variables
+ City = ws.Name
+ 'LastRow = ws.Cells(Rows.Count, 1).End(xlUp).Row 'Determine the Last Row
+ Sheets("CombineCSV").Select
+ Range("A1") = "City"
+ Range("B1") = "Year"
+ Range("C1") = "Month"
+ Range("D1") = "Temp"
+ RowCounter = ActiveSheet.Cells(Rows.Count, 1).End(xlUp).Row + 1 'Determine the Last Row
+ 
+ For Year = 2007 To 2016
+  For Month = 1 To 12
+    Range("A" & RowCounter) = City
+    Range("B" & RowCounter) = Year
+    Range("C" & RowCounter) = Month
+    Range("D" & RowCounter) = ws.Cells(4 + Year - 2007, Month + 1)
+    RowCounter = RowCounter + 1
+   Next Month
+  Next Year
+Next ws
+
+End Sub
